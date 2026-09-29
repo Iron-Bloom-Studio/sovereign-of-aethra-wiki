@@ -2,3 +2,13 @@
 layout: default
 ---
 {{ content }}
+{% if page.infobox.image %}
+<section class="character-gallery" aria-labelledby="gallery-heading">
+  <h2 id="gallery-heading">Gallery</h2>
+  <div class="era-tabs" role="tablist" aria-label="Public artwork eras">
+    <button class="era-tab active" type="button" role="tab" aria-selected="true">{{ page.artwork_era | default: 'Current Public Reference' }}</button>
+    <button class="era-tab unavailable" type="button" disabled title="Artwork for this era has not been publicly released">Other eras — Not Yet Public</button>
+  </div>
+  <a class="lightbox-link character-sheet" href="{{ page.infobox.image | relative_url }}" data-lightbox data-caption="{{ page.infobox.image_alt | default: page.title }}"><img loading="lazy" src="{{ page.infobox.image | relative_url }}" alt="{{ page.infobox.image_alt | default: page.title }}"><span>{{ page.artwork_era | default: 'Current Public Reference' }}</span></a>
+</section>
+{% endif %}

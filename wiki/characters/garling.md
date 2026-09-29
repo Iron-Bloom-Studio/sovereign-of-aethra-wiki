@@ -4,6 +4,7 @@ title: Garling
 slug: garling
 category: character
 description: Human Hero of the Beta War.
+artwork_era: Beta War — Young
 era: Beta War
 race: Human
 categories: [Characters, Human, Beta War Characters]

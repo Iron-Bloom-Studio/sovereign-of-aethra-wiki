@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Zerak
+artwork_era: Initial Form
 infobox:
   name: Zerak
   image: /assets/characters/zerak/SOA_ZERAK_MASTER_v02.png

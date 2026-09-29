@@ -4,6 +4,7 @@ title: Raizen
 slug: raizen
 category: character
 description: Oni King associated with the Beta War.
+artwork_era: Beta War — Demon Lord Beta
 era: Beta War
 race: Oni
 categories: [Characters, Demonkind, Beta War Characters]

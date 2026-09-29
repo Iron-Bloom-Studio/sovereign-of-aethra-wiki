@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Luca
+artwork_era: Initial Form
 infobox:
   name: Luca
   image: /assets/characters/luca/SOA_LUCA_MASTER_v01.jpeg

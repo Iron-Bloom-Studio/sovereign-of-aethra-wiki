@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Serena
+artwork_era: Initial Form
 infobox:
   name: Serena
   image: /assets/characters/serena/SOA_SERENA_MASTER_v01.jpeg

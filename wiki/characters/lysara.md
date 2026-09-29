@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lysara
+artwork_era: Initial Form
 infobox:
   name: Lysara
   image: /assets/characters/lysara/SOA_LYSARA_MASTER_v02.png

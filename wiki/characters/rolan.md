@@ -2,6 +2,7 @@
 layout: character
 title: Rolan
 description: Young Human field commander and Banner Lord associated with the Beta War.
+artwork_era: Beta War — Young
 infobox:
   name: Rolan
   image: /assets/characters/rolan/ROLAN_YOUNG_PROLOGUE_MASTER_v1.0.png

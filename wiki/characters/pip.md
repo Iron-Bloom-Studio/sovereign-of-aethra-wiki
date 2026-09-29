@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pip
+artwork_era: Initial Form
 infobox:
   name: Pip
   image: /assets/characters/pip/SOA_PIP_MASTER_v01.jpeg
