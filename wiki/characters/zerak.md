@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: character
 title: Zerak
 artwork_era: Initial Form
 infobox:

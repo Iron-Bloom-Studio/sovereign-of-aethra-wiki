@@ -1,0 +1,52 @@
+.character-gallery {
+  margin-top: 2.5rem;
+}
+
+.era-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem;
+  margin: .8rem 0 1rem;
+}
+
+.era-tab {
+  padding: .5rem .75rem;
+  border: 1px solid #c5ab79;
+  background: #fffaf0;
+  color: #243b5a;
+  font: inherit;
+  font-weight: 700;
+}
+
+.era-tab.active {
+  background: #243b5a;
+  color: #fffaf0;
+}
+
+.era-tab.unavailable {
+  color: #746c61;
+  cursor: not-allowed;
+  opacity: .78;
+}
+
+.character-sheet {
+  display: block;
+  max-width: 460px;
+  overflow: hidden;
+  background: #fffaf0;
+  border: 1px solid #c5ab79;
+  box-shadow: 0 6px 18px rgba(43, 34, 23, .12);
+}
+
+.character-sheet img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.character-sheet span {
+  display: block;
+  padding: .55rem .75rem;
+  color: #243b5a;
+  font-weight: 700;
+}

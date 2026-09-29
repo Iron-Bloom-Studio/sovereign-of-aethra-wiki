@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: character
 title: Lysara
 artwork_era: Initial Form
 infobox:
