@@ -12,13 +12,13 @@
   </head>
   <body>
     <a class="skip-link" href="#article">Skip to article</a>
-    <header class="site-header"><a class="wordmark" href="{{ '/wiki/' | relative_url }}">Sovereign of Aethra<span>Ancient Aethra Archive</span></a><button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Browse</button><label class="search"><span class="sr-only">Search wiki</span><input id="wiki-search" type="search" placeholder="Search the archive" autocomplete="off"><span id="search-results" role="listbox"></span></label></header>
+    <header class="site-header"><a class="wordmark" href="{{ '/' | relative_url }}">Sovereign of Aethra<span>Wiki · The Encyclopedia of Terra</span></a><div class="header-links"><a href="{{ '/' | relative_url }}">Main Page</a><a href="{{ '/wiki/index/' | relative_url }}">Lore Index</a><a href="{{ '/wiki/about/' | relative_url }}">About</a></div><button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Browse</button><label class="search"><span class="sr-only">Search wiki</span><input id="wiki-search" type="search" placeholder="Search the wiki" autocomplete="off"><span id="search-results" role="listbox"></span></label></header>
     <div class="site-grid">
       {% include nav.html %}
       <main id="article" class="article">{{ content }}</main>
       {% if page.infobox %}{% include infobox.html %}{% endif %}
     </div>
-    <footer>SOA Wiki · Official public lore archive · <a href="{{ '/wiki/about/' | relative_url }}">About</a></footer>
+    <footer><strong>SOVEREIGN OF AETHRA</strong><span>Official World Encyclopedia</span><nav aria-label="Footer navigation"><a href="{{ '/wiki/world/' | relative_url }}">World</a><a href="{{ '/wiki/characters/' | relative_url }}">Characters</a><a href="{{ '/wiki/races/' | relative_url }}">Races</a><a href="{{ '/wiki/factions/' | relative_url }}">Factions</a><a href="{{ '/wiki/history/' | relative_url }}">History</a><a href="{{ '/wiki/about/' | relative_url }}">About</a></nav></footer>
     <script src="{{ '/assets/wiki/wiki.js' | relative_url }}"></script>
   </body>
 </html>

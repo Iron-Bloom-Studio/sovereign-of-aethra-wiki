@@ -1,6 +1,13 @@
 ---
-layout: default
+layout: character
 title: Garling
+slug: garling
+category: character
+description: Human Hero of the Beta War.
+era: Beta War
+race: Human
+categories: [Characters, Human, Beta War Characters]
+related: [raizen, beta-war]
 infobox:
   name: Garling
   image: /assets/characters/garling/GARLING_YOUNG_PROLOGUE_MASTER_v1.0.png
@@ -23,5 +30,8 @@ Garling has brown hair, practical silver and white knight armor, navy cloth and 
 
 The identity of his Rune Sigil and details of his Hero Sword are not publicly recorded.
 
-## Related articles
-[Human]({{ '/wiki/races/' | relative_url }}) · [Beta War]({{ '/wiki/history/beta-war/' | relative_url }}) · [Raizen]({{ '/wiki/characters/raizen/' | relative_url }})
+## Related Articles
+
+<ul class="related-list"><li><a href="{{ '/wiki/races/human/' | relative_url }}">Human</a></li><li><a href="{{ '/wiki/history/beta-war/' | relative_url }}">Beta War</a></li><li><a href="{{ '/wiki/characters/raizen/' | relative_url }}">Raizen</a></li><li><a href="{{ '/wiki/systems/sigils/' | relative_url }}">Rune Sigils</a></li></ul>
+
+<p><strong>Categories:</strong></p><ul class="category-list"><li><a href="{{ '/wiki/categories/characters/' | relative_url }}">Characters</a></li><li><a href="{{ '/wiki/categories/human/' | relative_url }}">Human</a></li><li><a href="{{ '/wiki/categories/beta-war/' | relative_url }}">Beta War Characters</a></li></ul>

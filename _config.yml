@@ -4,3 +4,10 @@ baseurl: /sovereign-of-aethra-wiki
 url: https://iron-bloom-studio.github.io
 markdown: kramdown
 permalink: pretty
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      public: true
+      spoiler_level: 0

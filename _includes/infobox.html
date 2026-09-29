@@ -1,5 +1,5 @@
 <aside class="infobox" aria-label="Article facts">
   <h2>{{ page.infobox.name | default: page.title }}</h2>
-  {% if page.image %}<a class="lightbox-link" href="{{ page.image | relative_url }}" data-lightbox><img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}"></a>{% endif %}
+  {% if page.image %}<a class="lightbox-link" href="{{ page.image | relative_url }}" data-lightbox data-caption="{{ page.image_alt | default: page.title }}"><img loading="lazy" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}"></a>{% else %}<div class="artwork-placeholder">Artwork Not Yet Publicly Available</div>{% endif %}
   <dl>{% for item in page.infobox.fields %}<dt>{{ item[0] }}</dt><dd>{{ item[1] }}</dd>{% endfor %}</dl>
 </aside>
