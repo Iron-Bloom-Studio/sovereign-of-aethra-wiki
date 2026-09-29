@@ -1,0 +1,18 @@
+public_story_phase: pre-volume-1
+spoiler_level: 0
+entities:
+  world: [terra, aethra]
+  characters: [luca, serena, lysara, zerak, pip, garling, raizen]
+  races: [human, dwarf, elf, goblin, hiveborn, dragonkind, demonkind, ogre, oni]
+  factions: [grand-concord, arklune, seven-sigils]
+  locations: [terra, aven, arklune]
+  history: [beta-war]
+assets:
+  - SOA_TERRA_WORLD_MAP_v01
+  - SOA_LUCA_MASTER_v01
+  - SOA_SERENA_MASTER_v01
+  - SOA_LYSARA_MASTER_v02
+  - SOA_ZERAK_MASTER_v02
+  - SOA_PIP_MASTER_v01
+  - GARLING_YOUNG_PROLOGUE_MASTER_v1.0
+  - RAIZEN_BETA_MASTER_v01
