@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Category: Demonkind
+title: "Category: Demonkind"
 ---
 <p class="breadcrumb">Home › Categories › Demonkind</p>
 # Category: Demonkind

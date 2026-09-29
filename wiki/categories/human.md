@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Category: Human
+title: "Category: Human"
 ---
 <p class="breadcrumb">Home › Categories › Human</p>
 # Category: Human

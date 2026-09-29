@@ -2,7 +2,7 @@ public_story_phase: pre-volume-1
 spoiler_level: 0
 entities:
   world: [terra, aethra]
-  characters: [luca, serena, lysara, zerak, pip, garling, raizen]
+  characters: [luca, serena, lysara, zerak, pip, garling, rolan, eldren, raizen]
   races: [human, dwarf, elf, goblin, hiveborn, dragonkind, demonkind, ogre, oni]
   factions: [grand-concord, arklune, seven-sigils]
   locations: [terra, aven, arklune]
@@ -16,3 +16,5 @@ assets:
   - SOA_PIP_MASTER_v01
   - GARLING_YOUNG_PROLOGUE_MASTER_v1.0
   - RAIZEN_BETA_MASTER_v01
+  - ELDREN_YOUNG_PROLOGUE_MASTER_v1.0
+  - ROLAN_YOUNG_PROLOGUE_MASTER_v1.0

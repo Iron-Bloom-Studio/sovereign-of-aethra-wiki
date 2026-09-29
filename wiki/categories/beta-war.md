@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Category: Beta War
+title: "Category: Beta War"
 ---
 <p class="breadcrumb">Home › Categories › Beta War</p>
 # Category: Beta War

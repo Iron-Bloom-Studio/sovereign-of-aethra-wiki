@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Category: Characters
+title: "Category: Characters"
 ---
 <p class="breadcrumb">Home › Categories › Characters</p>
 # Category: Characters
