@@ -7,6 +7,7 @@ entities:
   factions: [grand-concord, arklune, seven-sigils]
   locations: [terra, aven, arklune]
   history: [beta-war]
+  novels: [prologue-id]
 assets:
   - SOA_TERRA_WORLD_MAP_v01
   - SOA_LUCA_MASTER_v01
