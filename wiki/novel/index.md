@@ -11,5 +11,4 @@ description: Read Sovereign of Aethra.
 
 ## Available Editions
 
-<div class="text-card-grid"><a href="{{ '/wiki/novel/id/prologue/' | relative_url }}">Bahasa Indonesia — Prologue</a><span class="unlinked-card">English Edition — Coming soon</span></div>
-
+<div class="text-card-grid"><a href="{{ '/wiki/novel/id/prologue/' | relative_url }}">Bahasa Indonesia — Prologue</a><a href="{{ '/wiki/novel/en/prologue/' | relative_url }}">English Edition — Prologue</a></div>
