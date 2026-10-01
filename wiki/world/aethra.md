@@ -8,6 +8,8 @@ status: LOCKED
 category: World
 infobox:
   name: Aethra
+  image: /assets/world/aethra/AETHRA_NATURAL_WORLD_FLOW_v1.jpg
+  image_alt: Approved visual reference of Aethra flowing through the natural world
   fields:
     Classification: Fundamental world force
     Status: LOCKED
@@ -26,6 +28,10 @@ Despite centuries of observation and study, the true origin of Aethra remains un
 Different civilizations have developed their own ways of understanding and using it. Mages shape Aethra into magic, Healers use it to restore the body, and Spellblades channel it through weapons. Other peoples interact with Aethra through biological traits, inherited abilities, or traditions unique to their lineage and culture.
 
 Aethra itself is neither inherently benevolent nor malevolent. The same force may be used to heal, create, protect, destroy, or conquer.
+
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/world/aethra/AETHRA_NATURAL_WORLD_FLOW_v1.jpg' | relative_url }}" data-lightbox data-caption="Aethra in the Natural World"><img loading="lazy" class="map" src="{{ '/assets/world/aethra/AETHRA_NATURAL_WORLD_FLOW_v1.jpg' | relative_url }}" alt="Approved visual reference of Aethra flowing through land, water, stone, and living plants"></a><figcaption>Aethra in the Natural World. Approved public visual reference.</figcaption></figure>
+
+This artwork visualizes Aethra permeating an ecosystem. It is a reference for its environmental presence and flow, not a disclosure of Aethra's true origin, the World Heart, or The Loom.
 
 ## Aethra in Nature
 
