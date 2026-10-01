@@ -20,3 +20,4 @@ Astrelia, Verenza, Solmaria, Eldoria, and Auregrad form the alliance.
 - [Astrelia]({{ '/wiki/locations/astrelia/' | relative_url }}) — Magic Kingdom; star banner.
 - [Verenza]({{ '/wiki/locations/verenza/' | relative_url }}) — Trade Kingdom; scales banner.
 - [Solmaria]({{ '/wiki/locations/solmaria/' | relative_url }}) — Holy Kingdom; golden-sun banner.
+- [Auregrad]({{ '/wiki/locations/auregrad/' | relative_url }}) — Military Kingdom; golden-wyvern banner.
