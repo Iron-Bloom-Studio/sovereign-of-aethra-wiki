@@ -10,7 +10,7 @@ infobox:
     Type: Human kingdom
     Public designation: Magic Kingdom
     Capital: Myra
-    Banner: Eight-pointed star
+    Standard banner: Aethra Star
 ---
 <p class="breadcrumb">Home › Locations › Astrelia</p>
 # Astrelia
@@ -21,7 +21,7 @@ Astrelia is one of the five Human kingdoms of the Grand Concord. Its public map 
 
 <a class="lightbox-link" href="{{ '/assets/locations/astrelia/ASTRELIA_STAR_BANNER_CASTLE_v1.png' | relative_url }}" data-lightbox data-caption="Astrelia — mountain castle and star banner"><img loading="lazy" class="map" src="{{ '/assets/locations/astrelia/ASTRELIA_STAR_BANNER_CASTLE_v1.png' | relative_url }}" alt="Approved visual reference of Astrelia mountain castle and star banner"></a>
 
-The approved banner carries a star emblem. This image is the current public reference for Astrelia's castle and banner.
+The approved standard banner carries the Aethra Star. Ceremonial versions may use a more detailed ornamental treatment. This image is the current public reference for Astrelia's castle and field banner.
 
 ## Related Articles
 

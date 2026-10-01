@@ -10,7 +10,7 @@ infobox:
     Type: Human kingdom
     Public designation: Knowledge Kingdom
     Capital: Arden
-    Banner: Open book
+    Standard banner: Open book + star
 ---
 <p class="breadcrumb">Home › Locations › Eldoria</p>
 # Eldoria
@@ -21,7 +21,7 @@ Eldoria is one of the five Human kingdoms of the Grand Concord. Its public map d
 
 <a class="lightbox-link" href="{{ '/assets/locations/eldoria/ELDORIA_BOOK_BANNER_CASTLE_v1.jpg' | relative_url }}" data-lightbox data-caption="Eldoria — castle and open-book banner"><img loading="lazy" class="map" src="{{ '/assets/locations/eldoria/ELDORIA_BOOK_BANNER_CASTLE_v1.jpg' | relative_url }}" alt="Approved visual reference of Eldoria castle and open-book banner"></a>
 
-The approved banner carries an open-book emblem. This image is the current public reference for Eldoria's castle and banner.
+The approved standard banner carries an open book with a star. Ceremonial versions may use a more detailed ornamental treatment. This image is the current public reference for Eldoria's castle and field banner.
 
 ## Related Articles
 
