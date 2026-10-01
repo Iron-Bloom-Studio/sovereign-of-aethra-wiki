@@ -10,7 +10,7 @@ This gallery contains only publicly approved canonical assets. Select an image t
 
 ## Terra
 
-<a class="lightbox-link" href="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" data-lightbox data-caption="Terra World Map"><img loading="lazy" class="map" src="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" alt="Approved Terra World Map"></a>
+<div class="cards"><figure class="card"><a class="lightbox-link" href="{{ '/assets/world/terra/TERRA_GREAT_CONTINENT_PANORAMA_v1.jpg' | relative_url }}" data-lightbox data-caption="Terra — The Great Continent"><img loading="lazy" class="map" src="{{ '/assets/world/terra/TERRA_GREAT_CONTINENT_PANORAMA_v1.jpg' | relative_url }}" alt="Approved panoramic artwork of Terra's Great Continent"></a><figcaption><strong>Terra — The Great Continent</strong>Panoramic visual reference.</figcaption></figure><figure class="card"><a class="lightbox-link" href="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" data-lightbox data-caption="Terra World Map"><img loading="lazy" class="map" src="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" alt="Approved Terra World Map"></a><figcaption><strong>Terra World Map</strong>Geographical reference.</figcaption></figure></div>
 
 ## Characters
 

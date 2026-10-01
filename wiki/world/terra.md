@@ -9,8 +9,8 @@ category: World
 categories: [Locations, World]
 infobox:
   name: Terra
-  image: /assets/maps/SOA_TERRA_WORLD_MAP_v01.png
-  image_alt: Approved public map of Terra
+  image: /assets/world/terra/TERRA_GREAT_CONTINENT_PANORAMA_v1.jpg
+  image_alt: Approved panoramic artwork of Terra's Great Continent
   fields:
     Type: Living world
     Primary setting: Great Continent
@@ -27,6 +27,8 @@ Its known lands are inhabited by Humans, Elves, Dwarves, Dragonkind, Hiveborn, G
 Although its peoples differ greatly in appearance, culture, history, and their relationship with Aethra, no race in Terra is inherently aligned with good or evil. Nations and peoples form alliances, wage wars, trade, migrate, divide, and reunite according to their own histories and choices.
 
 The largest known landmass in the current setting is commonly referred to as the **Great Continent**, where most of the documented civilizations and political powers of the present era are located.
+
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/world/terra/TERRA_GREAT_CONTINENT_PANORAMA_v1.jpg' | relative_url }}" data-lightbox data-caption="Terra — The Great Continent"><img loading="lazy" class="map" src="{{ '/assets/world/terra/TERRA_GREAT_CONTINENT_PANORAMA_v1.jpg' | relative_url }}" alt="Approved panoramic artwork of Terra's Great Continent"></a><figcaption>Terra — The Great Continent. Approved public visual reference.</figcaption></figure>
 
 <figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" data-lightbox data-caption="Approved public map of Terra"><img loading="lazy" class="map" src="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" alt="Approved public map of Terra"></a><figcaption>Approved public map of Terra. Select to enlarge.</figcaption></figure>
 
