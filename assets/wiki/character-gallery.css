@@ -50,3 +50,13 @@
   color: #243b5a;
   font-weight: 700;
 }
+
+.banner-figure {
+  max-width: 420px;
+}
+
+.banner-cards .card img {
+  aspect-ratio: 2 / 3;
+  object-fit: contain;
+  background: #fff;
+}

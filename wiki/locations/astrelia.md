@@ -23,6 +23,10 @@ Astrelia is one of the five Human kingdoms of the Grand Concord. Its public map 
 
 The approved standard banner carries the Aethra Star. Ceremonial versions may use a more detailed ornamental treatment. This image is the current public reference for Astrelia's castle and field banner.
 
+## Official / Ceremonial Banner
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/astrelia/ASTRELIA_CEREMONIAL_AETHRA_STAR_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Astrelia — Official / Ceremonial Banner"><img loading="lazy" class="map" src="{{ '/assets/locations/astrelia/ASTRELIA_CEREMONIAL_AETHRA_STAR_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Astrelia with the Aethra Star"></a><figcaption><strong>Astrelia — Official / Ceremonial Banner.</strong> The Standard / Field Banner retains the simplified Aethra Star emblem.</figcaption></figure>
+
 ## Related Articles
 
 - [The Grand Concord]({{ '/wiki/factions/grand-concord/' | relative_url }})

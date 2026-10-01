@@ -23,6 +23,10 @@ Eldoria is one of the five Human kingdoms of the Grand Concord. Its public map d
 
 The approved standard banner carries an open book with a star. Ceremonial versions may use a more detailed ornamental treatment. This image is the current public reference for Eldoria's castle and field banner.
 
+## Official / Ceremonial Banner
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/eldoria/ELDORIA_CEREMONIAL_BOOK_STAR_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Eldoria — Official / Ceremonial Banner"><img loading="lazy" class="map" src="{{ '/assets/locations/eldoria/ELDORIA_CEREMONIAL_BOOK_STAR_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Eldoria with an open book and star"></a><figcaption><strong>Eldoria — Official / Ceremonial Banner.</strong> The Standard / Field Banner retains the simplified open-book-and-star emblem.</figcaption></figure>
+
 ## Related Articles
 
 - [The Grand Concord]({{ '/wiki/factions/grand-concord/' | relative_url }})

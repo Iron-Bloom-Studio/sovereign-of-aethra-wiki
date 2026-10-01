@@ -23,6 +23,10 @@ Solmaria is one of the five Human kingdoms of the Grand Concord. Its public map 
 
 The approved white standard banner carries a golden-sun emblem. Ceremonial versions may use a more detailed ornamental treatment. This image is the current public reference for Solmaria's city and field banner.
 
+## Official / Ceremonial Banner
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/solmaria/SOLMARIA_CEREMONIAL_SUN_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Solmaria — Official / Ceremonial Banner"><img loading="lazy" class="map" src="{{ '/assets/locations/solmaria/SOLMARIA_CEREMONIAL_SUN_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Solmaria with a golden sun"></a><figcaption><strong>Solmaria — Official / Ceremonial Banner.</strong> The Standard / Field Banner retains the simplified golden-sun emblem.</figcaption></figure>
+
 ## Related Articles
 
 - [The Grand Concord]({{ '/wiki/factions/grand-concord/' | relative_url }})

@@ -23,6 +23,10 @@ Auregrad is one of the five Human kingdoms of the Grand Concord. Its public map 
 
 The approved crimson standard banner carries a golden-wyvern emblem. Ceremonial versions may use a more detailed ornamental treatment. This image is the current public reference for Auregrad's fortress and field banner.
 
+## Official / Ceremonial Banner
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/auregrad/AUREGRAD_CEREMONIAL_WYVERN_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Auregrad — Official / Ceremonial Banner"><img loading="lazy" class="map" src="{{ '/assets/locations/auregrad/AUREGRAD_CEREMONIAL_WYVERN_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Auregrad with a golden wyvern"></a><figcaption><strong>Auregrad — Official / Ceremonial Banner.</strong> The Standard / Field Banner retains the simplified golden-wyvern emblem.</figcaption></figure>
+
 ## Related Articles
 
 - [The Grand Concord]({{ '/wiki/factions/grand-concord/' | relative_url }})
