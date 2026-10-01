@@ -25,5 +25,6 @@ Further public details about its government, history, and internal districts hav
 
 ## Related Articles
 
+- [Dwarven Holds]({{ '/wiki/factions/dwarven-holds/' | relative_url }})
 - [Dwarf]({{ '/wiki/races/dwarf/' | relative_url }})
 - [Terra]({{ '/wiki/world/terra/' | relative_url }})

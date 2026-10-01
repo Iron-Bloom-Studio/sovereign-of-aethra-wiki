@@ -4,8 +4,9 @@ entities:
   world: [terra, aethra]
   characters: [luca, serena, lysara, zerak, pip, garling, rolan, eldren, raizen]
   races: [human, dwarf, elf, goblin, hiveborn, dragonkind, demonkind, ogre, oni]
-  factions: [grand-concord, arklune, seven-sigils]
-  locations: [terra, aven, arklune]
+  realms: [astrelia, verenza, solmaria, eldoria, auregrad, arklune, sylvaris, dwarven-holds, the-hive, dragon-throne]
+  factions: [grand-concord, seven-sigils, dwarven-holds, the-hive, dragon-throne]
+  locations: [terra, aven, arklune, astrelia, verenza, solmaria, eldoria, auregrad, sylvaris, khazir]
   history: [beta-war]
   novels: [prologue-id, prologue-en]
 assets:
@@ -19,3 +20,11 @@ assets:
   - RAIZEN_BETA_MASTER_v01
   - ELDREN_YOUNG_PROLOGUE_MASTER_v1.0
   - ROLAN_YOUNG_PROLOGUE_MASTER_v1.0
+  - ASTRELIA_STAR_BANNER_CASTLE_v1
+  - VERENZA_SCALE_BANNER_CITY_v1
+  - SOLMARIA_GOLDEN_SUN_BANNER_CITY_v1
+  - ELDORIA_BOOK_BANNER_CASTLE_v1
+  - AUREGRAD_GOLDEN_WYVERN_BANNER_FORTRESS_v1
+  - SYLVARIS_WORLD_TREE_CITY_v1
+  - KHAZIR_SUBTERRANEAN_CITY_v1
+  - THE_HIVE_ORGANIC_CITADEL_v1

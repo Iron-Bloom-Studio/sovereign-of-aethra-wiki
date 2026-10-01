@@ -12,3 +12,8 @@ categories: [Races]
 # Dragonkind
 
 Dragonkind is among Terra's publicly known lineages. Public material currently identifies the Great Dragon Mountains and the Dragon Throne on the map of Terra.
+
+## Related Articles
+
+- [The Dragon Throne]({{ '/wiki/factions/dragon-throne/' | relative_url }})
+- [Terra]({{ '/wiki/world/terra/' | relative_url }})

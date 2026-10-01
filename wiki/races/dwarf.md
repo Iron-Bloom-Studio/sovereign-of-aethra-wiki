@@ -15,4 +15,5 @@ Dwarves are one of Terra's known peoples. Further public details will be added o
 
 ## Related Articles
 
+- [Dwarven Holds]({{ '/wiki/factions/dwarven-holds/' | relative_url }})
 - [Khazir]({{ '/wiki/locations/khazir/' | relative_url }})

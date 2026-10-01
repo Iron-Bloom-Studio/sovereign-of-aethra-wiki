@@ -58,7 +58,7 @@ Many creatures commonly called monsters are non-sapient or highly predatory form
 
 The present era recognizes several major powers whose influence extends far beyond their immediate borders.
 
-These include the Human alliance known as the **Grand Concord**, the Elven civilization of the **Wardens of the Great Tree**, the **Dwarven Holds**, **The Hive**, the **Dragon Throne**, and the southern political order commonly associated with the **Seven Sigils**.
+These include the Human alliance known as the [**Grand Concord**]({{ '/wiki/factions/grand-concord/' | relative_url }}), the Elven civilization of the [**Wardens of the Great Tree**]({{ '/wiki/locations/sylvaris/' | relative_url }}), the [**Dwarven Holds**]({{ '/wiki/factions/dwarven-holds/' | relative_url }}), [**The Hive**]({{ '/wiki/factions/the-hive/' | relative_url }}), [**The Dragon Throne**]({{ '/wiki/factions/dragon-throne/' | relative_url }}), and the southern political order commonly associated with the [**Seven Sigils**]({{ '/wiki/factions/seven-sigils/' | relative_url }}).
 
 These powers do not represent every people on Terra. Independent cities, tribes, settlements, frontier communities, and smaller states exist throughout the continent.
 
@@ -107,6 +107,7 @@ Ruins, forgotten roads, lost settlements, and artifacts continue to suggest that
 ## See Also
 
 - [Aethra]({{ '/wiki/world/aethra/' | relative_url }})
+- [Realms & Civilizations]({{ '/wiki/realms/' | relative_url }})
 - [Arklune]({{ '/wiki/locations/arklune/' | relative_url }})
 - [The Grand Concord]({{ '/wiki/factions/grand-concord/' | relative_url }})
 - [Natural Evolution]({{ '/wiki/systems/natural-evolution/' | relative_url }})
