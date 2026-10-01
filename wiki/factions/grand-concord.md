@@ -18,3 +18,4 @@ Astrelia, Verenza, Solmaria, Eldoria, and Auregrad form the alliance.
 
 - [Eldoria]({{ '/wiki/locations/eldoria/' | relative_url }}) — Knowledge Kingdom; open-book banner.
 - [Astrelia]({{ '/wiki/locations/astrelia/' | relative_url }}) — Magic Kingdom; star banner.
+- [Verenza]({{ '/wiki/locations/verenza/' | relative_url }}) — Trade Kingdom; scales banner.
