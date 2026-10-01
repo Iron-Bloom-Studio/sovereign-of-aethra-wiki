@@ -24,6 +24,16 @@ This gallery contains only publicly approved canonical assets. Select an image t
 
 <div class="cards"><a class="card" href="{{ '/wiki/locations/khazir/' | relative_url }}"><img loading="lazy" class="map" src="{{ '/assets/locations/khazir/KHAZIR_SUBTERRANEAN_CITY_v1.jpg' | relative_url }}" alt="Approved Khazir subterranean Dwarven city"><strong>Khazir</strong>Subterranean city of the Dwarven Holds.</a><a class="card" href="{{ '/wiki/locations/sylvaris/' | relative_url }}"><img loading="lazy" class="map" src="{{ '/assets/locations/sylvaris/SYLVARIS_WORLD_TREE_CITY_v1.png' | relative_url }}" alt="Approved Sylvaris Elven city and Great Tree"><strong>Sylvaris</strong>Elven city of the Great Tree.</a><a class="card" href="{{ '/wiki/factions/the-hive/' | relative_url }}"><img loading="lazy" class="map" src="{{ '/assets/factions/the-hive/THE_HIVE_ORGANIC_CITADEL_v1.png' | relative_url }}" alt="Approved organic citadel of The Hive"><strong>The Hive</strong>Hiveborn organic citadel.</a></div>
 
+## Settlements
+
+<div class="cards"><a class="card" href="{{ '/wiki/locations/aven/' | relative_url }}"><img loading="lazy" class="map" src="{{ '/assets/locations/aven/AVEN_VILLAGE_v1.jpg' | relative_url }}" alt="Approved visual reference of Aven village"><strong>Aven</strong>Luca's home village in Eldoria.</a></div>
+
+## Great Power Banners
+
+These are approved **Official / Ceremonial Banner** artworks for three of Terra's Great Powers.
+
+<div class="cards banner-cards"><figure class="card"><a class="lightbox-link" href="{{ '/assets/factions/the-hive/THE_HIVE_CEREMONIAL_SPIRE_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="The Hive — Official / Ceremonial Spire Banner"><img loading="lazy" class="map" src="{{ '/assets/factions/the-hive/THE_HIVE_CEREMONIAL_SPIRE_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial spire banner of The Hive"></a><figcaption><strong>The Hive</strong>Hive Spire</figcaption></figure><figure class="card"><a class="lightbox-link" href="{{ '/assets/locations/sylvaris/SYLVARIS_CEREMONIAL_SILVER_TREE_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Sylvaris — Official / Ceremonial Silver Tree Banner"><img loading="lazy" class="map" src="{{ '/assets/locations/sylvaris/SYLVARIS_CEREMONIAL_SILVER_TREE_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial Silver Tree banner of Sylvaris"></a><figcaption><strong>Sylvaris</strong>Silver Tree</figcaption></figure><figure class="card"><a class="lightbox-link" href="{{ '/assets/factions/dwarven-holds/DWARVEN_HOLDS_CEREMONIAL_FORTRESS_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Dwarven Holds — Official / Ceremonial Fortress Banner"><img loading="lazy" class="map" src="{{ '/assets/factions/dwarven-holds/DWARVEN_HOLDS_CEREMONIAL_FORTRESS_BANNER_v1.png' | relative_url }}" alt="Approved official blue ceremonial fortress banner of the Dwarven Holds"></a><figcaption><strong>Dwarven Holds</strong>Mountain Fortress</figcaption></figure></div>
+
 ## Kingdom Banners
 
 These are the approved **Official / Ceremonial Banner** artworks. The simpler Standard / Field Banner designs remain the everyday heraldic references.
