@@ -15,3 +15,7 @@ Elves are a people of Terra with two known natural evolution branches: High Elf 
 <div class="tree">Elf
 ├─ High Elf
 └─ Dark Elf</div>
+
+## Related Articles
+
+- [Sylvaris]({{ '/wiki/locations/sylvaris/' | relative_url }})

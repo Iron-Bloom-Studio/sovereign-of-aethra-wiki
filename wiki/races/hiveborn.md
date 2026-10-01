@@ -12,3 +12,7 @@ categories: [Races]
 # Hiveborn
 
 Hiveborn are one of Terra's known peoples. [Zerak]({{ '/wiki/characters/zerak/' | relative_url }}) is a Hiveborn lance user.
+
+## Related Articles
+
+- [The Hive]({{ '/wiki/factions/the-hive/' | relative_url }})

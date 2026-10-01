@@ -16,6 +16,7 @@
   {"title":"Grand Concord","type":"Faction","tags":"five human kingdoms astrelia verenza solmaria eldoria auregrad founding ceremony heraldry","description":"Alliance of five sovereign Human kingdoms; official founding reference and heraldry standard.","url":"/sovereign-of-aethra-wiki/wiki/factions/grand-concord/"},
   {"title":"Hiveborn","type":"Race","tags":"zerak hive","description":"Known people of Terra.","url":"/sovereign-of-aethra-wiki/wiki/races/hiveborn/"},
   {"title":"Human","type":"Race","tags":"garling serena luca grand concord","description":"Known people of Terra.","url":"/sovereign-of-aethra-wiki/wiki/races/human/"},
+  {"title":"Khazir","type":"Location","tags":"dwarf dwarven holds subterranean city great dragon mountains","description":"Subterranean Dwarven city with an approved public visual reference.","url":"/sovereign-of-aethra-wiki/wiki/locations/khazir/"},
   {"title":"Luca","type":"Character","tags":"aven adventurer human","description":"Low-rank adventurer from Aven.","url":"/sovereign-of-aethra-wiki/wiki/characters/luca/"},
   {"title":"Lysara","type":"Character","tags":"elf ranger","description":"Elf ranger and scout.","url":"/sovereign-of-aethra-wiki/wiki/characters/lysara/"},
   {"title":"Natural Evolution","type":"System","tags":"race branching oni high elf","description":"Public overview of racial transformation pathways.","url":"/sovereign-of-aethra-wiki/wiki/systems/natural-evolution/"},
@@ -26,7 +27,9 @@
   {"title":"Serena","type":"Character","tags":"human former knight protector","description":"Former Human knight and protector.","url":"/sovereign-of-aethra-wiki/wiki/characters/serena/"},
   {"title":"Seven Demon Sigils","type":"Faction / System","tags":"alpha beta gamma delta theta sigma omega raizen","description":"Seven Authority structures of the Demon Domains.","url":"/sovereign-of-aethra-wiki/wiki/factions/seven-sigils/"},
   {"title":"Solmaria","type":"Location / Kingdom","tags":"holy kingdom lumen golden sun banner grand concord","description":"Holy Kingdom with an approved golden-sun-banner city reference.","url":"/sovereign-of-aethra-wiki/wiki/locations/solmaria/"},
+  {"title":"Sylvaris","type":"Location / Realm","tags":"elf elven great forest great tree wardens","description":"Ancient Elven realm with an approved Great Tree city reference.","url":"/sovereign-of-aethra-wiki/wiki/locations/sylvaris/"},
   {"title":"Terra","type":"World / Location","tags":"great continent panorama landscape map peoples civilizations geography aethra","description":"Vast living world and primary setting, with approved Great Continent artwork and map.","url":"/sovereign-of-aethra-wiki/wiki/world/terra/"},
+  {"title":"The Hive","type":"Faction / Great Power","tags":"hiveborn organic citadel zerak","description":"Hiveborn Great Power with an approved organic-citadel visual reference.","url":"/sovereign-of-aethra-wiki/wiki/factions/the-hive/"},
   {"title":"Verenza","type":"Location / Kingdom","tags":"trade kingdom ceres scales banner grand concord","description":"Trade Kingdom with an approved scales-banner city reference.","url":"/sovereign-of-aethra-wiki/wiki/locations/verenza/"},
   {"title":"Zerak","type":"Character","tags":"hiveborn lance","description":"Hiveborn lance user.","url":"/sovereign-of-aethra-wiki/wiki/characters/zerak/"}
 ]

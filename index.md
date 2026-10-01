@@ -19,7 +19,7 @@ description: The official public encyclopedia of Terra.
 
 ## Great Powers of Terra
 
-<div class="text-card-grid"><a href="{{ '/wiki/factions/grand-concord/' | relative_url }}">The Grand Concord</a><span class="unlinked-card">Wardens of the Great Tree</span><span class="unlinked-card">Dwarven Holds</span><span class="unlinked-card">The Hive</span><span class="unlinked-card">Dragon Throne</span><a href="{{ '/wiki/factions/seven-sigils/' | relative_url }}">The Seven Sigils</a></div>
+<div class="text-card-grid"><a href="{{ '/wiki/factions/grand-concord/' | relative_url }}">The Grand Concord</a><span class="unlinked-card">Wardens of the Great Tree</span><span class="unlinked-card">Dwarven Holds</span><a href="{{ '/wiki/factions/the-hive/' | relative_url }}">The Hive</a><span class="unlinked-card">Dragon Throne</span><a href="{{ '/wiki/factions/seven-sigils/' | relative_url }}">The Seven Sigils</a></div>
 
 ## Map of Terra
 

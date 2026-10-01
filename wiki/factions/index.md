@@ -7,7 +7,7 @@ title: Factions
 
 ## Great Powers
 
-<div class="cards"><a class="card" href="{{ '/wiki/factions/grand-concord/' | relative_url }}"><strong>The Grand Concord</strong>Political alliance of five Human kingdoms.</a><a class="card" href="{{ '/wiki/factions/seven-sigils/' | relative_url }}"><strong>The Seven Sigils</strong>Authority structures of the Demon Domains.</a></div>
+<div class="cards"><a class="card" href="{{ '/wiki/factions/grand-concord/' | relative_url }}"><strong>The Grand Concord</strong>Political alliance of five Human kingdoms.</a><a class="card" href="{{ '/wiki/factions/the-hive/' | relative_url }}"><strong>The Hive</strong>Hiveborn Great Power with an approved organic-citadel reference.</a><a class="card" href="{{ '/wiki/factions/seven-sigils/' | relative_url }}"><strong>The Seven Sigils</strong>Authority structures of the Demon Domains.</a></div>
 
 ## Other Factions
 
