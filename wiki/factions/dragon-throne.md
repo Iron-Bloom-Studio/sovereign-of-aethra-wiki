@@ -8,12 +8,15 @@ spoiler_level: 0
 status: PROVISIONAL
 category: Realms
 categories: [Realms, Dragonkind]
-show_artwork_placeholder: false
 artwork:
-  establishing:
+  establishing: /assets/factions/dragon-throne/DRAGON_THRONE_SANCTUARY_v1.png
   seat_of_power:
+  ceremonial_banner: /assets/factions/dragon-throne/DRAGON_THRONE_CEREMONIAL_SILVER_DRAGON_BANNER_v1.png
+  field_banner: /assets/factions/dragon-throne/DRAGON_THRONE_FIELD_SILVER_DRAGON_BANNER_v1.png
 infobox:
   name: The Dragon Throne
+  image: /assets/factions/dragon-throne/DRAGON_THRONE_SANCTUARY_v1.png
+  image_alt: Approved Dragon Throne mountain sanctuary reference
   fields:
     Classification: Dragonkind Great Power
     People: Dragonkind
@@ -21,6 +24,7 @@ infobox:
     Government: Dragon Emperor and Dragon Conclave
     Current Ruler: Dragon Emperor Rhaen
     Council: Dragon Conclave
+    Heraldry: Silver dragon on black
 ---
 <p class="breadcrumb">Home › Realms & Civilizations › The Dragon Throne</p>
 # The Dragon Throne
@@ -28,6 +32,19 @@ infobox:
 The **Dragon Throne** is the Great Power of **Dragonkind**, centered on the vast **Great Dragon Mountains**. It is one of Terra's oldest and most formidable political powers, ruled in the present era by **Dragon Emperor Rhaen**, a True Dragon associated with the Dark element.
 
 Dark Aethra or a Dark elemental affinity is not inherently evil. Rhaen is known as a patient and deliberate ruler rather than a figure defined by Human ideas of darkness.
+
+## Approved Visual Reference
+
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_SANCTUARY_v1.png' | relative_url }}" data-lightbox data-caption="The Dragon Throne — Mountain Sanctuary"><img loading="lazy" class="map" src="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_SANCTUARY_v1.png' | relative_url }}" alt="Approved visual reference of the Dragon Throne mountain sanctuary"></a><figcaption>The Dragon Throne — approved establishing reference for its celestial mountain sanctuary. The formal name of the Seat of Power remains TBD.</figcaption></figure>
+
+## Heraldry
+
+The Dragon Throne uses a **silver dragon on black**. Two approved treatments serve different contexts:
+
+- **Official / Ceremonial Banner** — the elaborate version used for formal and prestigious presentation.
+- **Standard / Field Banner** — the simplified version used where immediate recognition and reproducibility are more important.
+
+<div class="cards banner-cards"><figure class="card"><a class="lightbox-link" href="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_CEREMONIAL_SILVER_DRAGON_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="The Dragon Throne — Official / Ceremonial Banner"><img loading="lazy" class="map" src="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_CEREMONIAL_SILVER_DRAGON_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial silver dragon banner of the Dragon Throne"></a><figcaption><strong>Official / Ceremonial Banner</strong>Ornamental silver dragon on black.</figcaption></figure><figure class="card"><a class="lightbox-link" href="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_FIELD_SILVER_DRAGON_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="The Dragon Throne — Standard / Field Banner"><img loading="lazy" class="map" src="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_FIELD_SILVER_DRAGON_BANNER_v1.png' | relative_url }}" alt="Approved simplified field banner of the Dragon Throne"></a><figcaption><strong>Standard / Field Banner</strong>Simplified silver dragon on black.</figcaption></figure></div>
 
 ## Territory
 The Great Dragon Mountains form the heartland of Dragonkind. Their peaks, valleys, caverns, high plateaus, and ancient routes are difficult for outsiders to traverse without permission or preparation.
@@ -91,4 +108,3 @@ The Dragon Throne remains one of Terra's strongest powers and one of its least e
 - [Auregrad]({{ '/wiki/locations/auregrad/' | relative_url }})
 - [Dwarven Holds]({{ '/wiki/factions/dwarven-holds/' | relative_url }})
 - [Terra]({{ '/wiki/world/terra/' | relative_url }})
-
