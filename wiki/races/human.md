@@ -15,4 +15,4 @@ Humans are one of Terra's known peoples. Publicly released records include the f
 
 ## Related Articles
 
-<ul class="related-list"><li><a href="{{ '/wiki/factions/grand-concord/' | relative_url }}">The Grand Concord</a></li><li><a href="{{ '/wiki/characters/garling/' | relative_url }}">Garling</a></li><li><a href="{{ '/wiki/characters/serena/' | relative_url }}">Serena</a></li></ul>
+<ul class="related-list"><li><a href="{{ '/wiki/factions/grand-concord/' | relative_url }}">The Grand Concord</a></li><li><a href="{{ '/wiki/characters/luca/' | relative_url }}">Luca</a></li><li><a href="{{ '/wiki/characters/garling/' | relative_url }}">Garling</a></li><li><a href="{{ '/wiki/characters/serena/' | relative_url }}">Serena</a></li></ul>

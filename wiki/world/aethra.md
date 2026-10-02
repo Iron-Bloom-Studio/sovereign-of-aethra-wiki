@@ -31,7 +31,7 @@ Aethra itself is neither inherently benevolent nor malevolent. The same force ma
 
 <figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/world/aethra/AETHRA_NATURAL_WORLD_FLOW_v1.jpg' | relative_url }}" data-lightbox data-caption="Aethra in the Natural World"><img loading="lazy" class="map" src="{{ '/assets/world/aethra/AETHRA_NATURAL_WORLD_FLOW_v1.jpg' | relative_url }}" alt="Approved visual reference of Aethra flowing through land, water, stone, and living plants"></a><figcaption>Aethra in the Natural World. Approved public visual reference.</figcaption></figure>
 
-This artwork visualizes Aethra permeating an ecosystem. It is a reference for its environmental presence and flow, not a disclosure of Aethra's true origin, the World Heart, or The Loom.
+This artwork visualizes Aethra permeating an ecosystem. It is a reference for its environmental presence and flow, not a disclosure of deeper origins or hidden mechanics.
 
 ## Aethra in Nature
 

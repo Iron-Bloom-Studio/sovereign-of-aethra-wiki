@@ -22,4 +22,4 @@ Natural Evolution permanently transforms body and Aethra Pattern along racial pa
 
 ## Related Articles
 
-<ul class="related-list"><li><a href="{{ '/wiki/races/' | relative_url }}">Races</a></li><li><a href="{{ '/wiki/systems/class/' | relative_url }}">Class</a></li><li><a href="{{ '/wiki/systems/sigils/' | relative_url }}">Sigils</a></li></ul>
+<ul class="related-list"><li><a href="{{ '/wiki/races/' | relative_url }}">Races of Terra</a></li><li><a href="{{ '/wiki/systems/class/' | relative_url }}">Class</a></li><li><a href="{{ '/wiki/systems/sigils/' | relative_url }}">Sigils and Authority</a></li></ul>

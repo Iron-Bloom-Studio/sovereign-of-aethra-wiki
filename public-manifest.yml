@@ -3,15 +3,17 @@ spoiler_level: 0
 entities:
   world: [terra, aethra]
   characters: [luca, serena, lysara, zerak, pip, garling, rolan, eldren, raizen]
-  races: [human, dwarf, elf, goblin, hiveborn, dragonkind, demonkind, ogre, oni]
+  races: [human, dwarf, elf, goblin, hiveborn, dragonkind, ogre]
+  evolution: [oni]
+  terminology: [demonkind]
   realms: [astrelia, verenza, solmaria, eldoria, auregrad, arklune, sylvaris, dwarven-holds, the-hive, dragon-throne]
   factions: [grand-concord, seven-sigils, dwarven-holds, the-hive, dragon-throne]
   locations: [terra, aven, arklune, astrelia, verenza, solmaria, eldoria, auregrad, sylvaris, khazir]
   history: [beta-war]
+  systems: [natural-evolution, class, sigils]
   novels: [prologue-id, prologue-en]
 assets:
   - SOA_TERRA_WORLD_MAP_v01
-  - SOA_LUCA_MASTER_v01
   - SOA_SERENA_MASTER_v01
   - SOA_LYSARA_MASTER_v02
   - SOA_ZERAK_MASTER_v02
