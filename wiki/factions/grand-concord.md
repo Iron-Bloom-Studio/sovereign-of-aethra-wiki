@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Grand Concord
+category: Factions
+categories: [Factions, Great Powers]
 infobox:
   name: The Grand Concord
   image: /assets/factions/grand-concord/GRAND_CONCORD_FOUNDING_CEREMONY_CONCEPT_v0.1.png

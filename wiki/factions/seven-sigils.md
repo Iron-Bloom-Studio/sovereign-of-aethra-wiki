@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Seven Demon Sigils
+category: Factions
+categories: [Factions, Great Powers]
 ---
 <p class="breadcrumb">Home › Factions › The Seven Demon Sigils</p>
 # The Seven Demon Sigils
