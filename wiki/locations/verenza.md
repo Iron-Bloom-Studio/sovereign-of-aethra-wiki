@@ -10,6 +10,7 @@ category: Realms
 categories: [Realms, Human Kingdoms]
 artwork:
   establishing: /assets/locations/verenza/VERENZA_SCALE_BANNER_CITY_v1.jpg
+  banner: /assets/locations/verenza/VERENZA_CEREMONIAL_SCALES_BANNER_v1.png
   seat_of_power:
 infobox:
   name: Kingdom of Verenza
@@ -27,6 +28,10 @@ infobox:
 # Verenza
 
 **Verenza** is one of the five Human kingdoms of the Grand Concord and is widely known as the **Trade Kingdom**. Its capital, **Ceres**, is a major commercial center shaped by merchants, caravans, contracts, warehouses, crafts, and the movement of goods between distant regions.
+
+## Heraldry
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/verenza/VERENZA_CEREMONIAL_SCALES_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Verenza — official ceremonial banner"><img loading="lazy" class="map" src="{{ '/assets/locations/verenza/VERENZA_CEREMONIAL_SCALES_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Verenza with scales"></a><figcaption>Official ceremonial banner of Verenza.</figcaption></figure>
 
 ## History
 Verenza grew powerful by connecting places rather than isolating them. Geography, commercial institutions, and long-established trade routes allowed the kingdom to become an intermediary among regions with different resources and political interests.

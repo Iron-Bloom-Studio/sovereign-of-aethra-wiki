@@ -1,0 +1,22 @@
+{% assign article_type_key = page.content_type | default: page.layout %}
+{% assign article_type = site.data.article_types[article_type_key] %}
+<header class="article-header">
+  {% if page.generated_breadcrumbs or page.breadcrumbs %}{% include breadcrumbs.html %}{% endif %}
+  <div class="article-header__body">
+    <div class="article-header__copy">
+      {% if article_type %}<p class="article-header__type">{{ article_type.label }}</p>{% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}<p class="article-header__subtitle">{{ page.subtitle }}</p>{% endif %}
+      {% if page.description %}<p class="article-header__summary">{{ page.description }}</p>{% endif %}
+      {% include article-chips.html %}
+    </div>
+    {% if page.header_image %}
+      <figure class="article-header__artwork">
+        <a class="lightbox-link" href="{{ page.header_image | relative_url }}" data-lightbox data-caption="{{ page.header_image_caption | default: page.title }}">
+          <img loading="lazy" src="{{ page.header_image | relative_url }}" alt="{{ page.header_image_alt | default: page.title }}">
+        </a>
+        {% if page.header_image_caption %}<figcaption>{{ page.header_image_caption }}</figcaption>{% endif %}
+      </figure>
+    {% endif %}
+  </div>
+</header>

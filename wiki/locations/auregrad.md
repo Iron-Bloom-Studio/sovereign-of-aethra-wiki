@@ -10,6 +10,7 @@ category: Realms
 categories: [Realms, Human Kingdoms]
 artwork:
   establishing: /assets/locations/auregrad/AUREGRAD_GOLDEN_WYVERN_BANNER_FORTRESS_v1.jpg
+  banner: /assets/locations/auregrad/AUREGRAD_CEREMONIAL_WYVERN_BANNER_v1.png
   seat_of_power:
 infobox:
   name: Kingdom of Auregrad
@@ -29,6 +30,10 @@ infobox:
 **Auregrad** is one of the five Human kingdoms of the Grand Concord and is known in the present era as the **Military Kingdom**. Its capital is **Varen**, and its ruler, **Emperor Kael**, currently holds the coordinating office of Emperor within the Grand Concord.
 
 The title does not make Kael sovereign over the other four Human kingdoms. Each Crown remains independent.
+
+## Heraldry
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/auregrad/AUREGRAD_CEREMONIAL_WYVERN_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Auregrad — official ceremonial banner"><img loading="lazy" class="map" src="{{ '/assets/locations/auregrad/AUREGRAD_CEREMONIAL_WYVERN_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Auregrad with the golden wyvern"></a><figcaption>Official ceremonial banner of Auregrad.</figcaption></figure>
 
 ## History
 Auregrad was not always the military power it is today. During the Battle of Asteron, its forces arrived as conventional cavalry, infantry, and Knights. The kingdom did not yet possess the modern military institutions for which it would later become famous, and the **Wyvern Corps did not exist** at that time.

@@ -25,6 +25,6 @@ categories: [World, Realms]
 
 <section>
 <h2>Other Great Powers</h2>
-<div class="cards"><a class="card" href="{{ '/wiki/locations/sylvaris/' | relative_url }}"><strong>Sylvaris</strong>Principal Elven realm.</a><a class="card" href="{{ '/wiki/factions/dwarven-holds/' | relative_url }}"><strong>Dwarven Holds</strong>Dwarven civilization of the Great Dragon Mountains.</a><a class="card" href="{{ '/wiki/factions/the-hive/' | relative_url }}"><strong>The Hive</strong>Hiveborn civilization and recognized Great Power.</a><a class="card" href="{{ '/wiki/factions/dragon-throne/' | relative_url }}"><strong>The Dragon Throne</strong>Dragonkind Great Power.</a></div>
+<div class="cards"><a class="card" href="{{ '/wiki/locations/sylvaris/' | relative_url }}"><strong>Sylvaris</strong>Principal Elven realm.</a><a class="card" href="{{ '/wiki/factions/dwarven-holds/' | relative_url }}"><strong>Dwarven Holds</strong>Dwarven civilization including Khazir.</a><a class="card" href="{{ '/wiki/factions/the-hive/' | relative_url }}"><strong>The Hive</strong>Hiveborn civilization and recognized Great Power.</a><a class="card" href="{{ '/wiki/factions/dragon-throne/' | relative_url }}"><strong>The Dragon Throne</strong>Dragonkind Great Power.</a></div>
 </section>
 </div>

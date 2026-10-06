@@ -1,0 +1,11 @@
+<ol class="article-toc__list article-toc__list--depth-{{ include.depth | default: 0 }}">
+  {% for item in include.items %}
+    <li>
+      <a href="#{{ item.id }}">{{ item.title | default: item.label }}</a>
+      {% if item.children %}
+        {% assign toc_depth = include.depth | default: 0 | plus: 1 %}
+        {% include toc-tree.html items=item.children depth=toc_depth %}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ol>

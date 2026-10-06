@@ -1,0 +1,18 @@
+{% assign gallery_items = include.items | default: page.gallery %}
+{% if gallery_items %}
+<section class="article-gallery" aria-labelledby="article-gallery-title">
+  <h2 id="article-gallery-title">{{ include.title | default: 'Gallery' }}</h2>
+  <div class="article-gallery__grid">
+    {% for item in gallery_items %}
+      {% if item.image %}
+        <figure class="article-gallery__item">
+          <a class="lightbox-link" href="{{ item.image | relative_url }}" data-lightbox data-caption="{{ item.caption | default: item.alt | default: page.title }}">
+            <img loading="lazy" src="{{ item.image | relative_url }}" alt="{{ item.alt | default: '' }}">
+          </a>
+          {% if item.label or item.caption %}<figcaption>{% if item.label %}<strong>{{ item.label }}</strong>{% endif %}{% if item.caption %}<span>{{ item.caption }}</span>{% endif %}</figcaption>{% endif %}
+        </figure>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

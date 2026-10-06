@@ -1,0 +1,93 @@
+character:
+  label: Character facts
+  fields:
+    - { key: race, label: Race }
+    - { key: evolution, label: Natural Evolution }
+    - { key: age, label: Age }
+    - { key: origin, label: Origin }
+    - { key: role, label: Role }
+    - { key: class, label: Class }
+    - { key: authority, label: Authority }
+    - { key: affiliation, label: Affiliation }
+    - { key: era, label: Era }
+
+race:
+  label: Race facts
+  fields:
+    - { key: classification, label: Classification }
+    - { key: sapient, label: Sapient }
+    - { key: origin, label: Origin }
+    - { key: evolution, label: Known Natural Evolution }
+    - { key: homeland, label: Homeland }
+
+faction:
+  label: Faction or nation facts
+  fields:
+    - { key: classification, label: Classification }
+    - { key: peoples, label: Peoples }
+    - { key: territory, label: Territory }
+    - { key: capital, label: Capital }
+    - { key: seat, label: Seat of Power }
+    - { key: government, label: Government }
+    - { key: ruler, label: Current Ruler }
+    - { key: affiliation, label: Affiliation }
+
+location:
+  label: Location facts
+  fields:
+    - { key: classification, label: Classification }
+    - { key: region, label: Region }
+    - { key: realm, label: Realm }
+    - { key: inhabitants, label: Inhabitants }
+    - { key: affiliation, label: Affiliation }
+
+event:
+  label: Event facts
+  fields:
+    - { key: classification, label: Classification }
+    - { key: era, label: Era }
+    - { key: date, label: Date }
+    - { key: location, label: Location }
+    - { key: participants, label: Participants }
+    - { key: outcome, label: Outcome }
+
+realm:
+  label: Realm or civilization facts
+  fields:
+    - { key: classification, label: Classification }
+    - { key: peoples, label: Peoples }
+    - { key: territory, label: Territory }
+    - { key: capital, label: Capital }
+    - { key: seat, label: Seat of Power }
+    - { key: government, label: Government }
+    - { key: ruler, label: Current Ruler }
+    - { key: affiliation, label: Affiliation }
+    - { key: great_power, label: Great Power }
+
+evolution:
+  label: Natural Evolution facts
+  fields:
+    - { key: classification, label: Classification }
+    - { key: base_race, label: Base Race }
+    - { key: resulting_form, label: Resulting Form }
+    - { key: known_conditions, label: Known Conditions }
+
+creature:
+  label: Creature facts
+  fields:
+    - { key: classification, label: Classification }
+    - { key: sapient, label: Sapient }
+    - { key: habitat, label: Habitat }
+    - { key: range, label: Range }
+    - { key: traits, label: Known Traits }
+    - { key: threat_level, label: Threat Level }
+
+sigil:
+  label: Sigil domain facts
+  fields:
+    - { key: classification, label: Classification }
+    - { key: authority, label: Authority }
+    - { key: recognized_bearer, label: Recognized Bearer }
+    - { key: title, label: Title }
+    - { key: political_domain, label: Political Domain }
+    - { key: status, label: Public Status }

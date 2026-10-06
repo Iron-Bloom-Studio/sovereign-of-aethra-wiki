@@ -10,6 +10,7 @@ category: Realms
 categories: [Realms, Elven Civilization]
 artwork:
   establishing: /assets/locations/sylvaris/SYLVARIS_WORLD_TREE_CITY_v1.png
+  banner: /assets/locations/sylvaris/SYLVARIS_CEREMONIAL_SILVER_TREE_BANNER_v1.png
   seat_of_power:
 infobox:
   name: Sylvaris
@@ -28,6 +29,10 @@ infobox:
 # Sylvaris
 
 **Sylvaris** is the principal Elven realm of Terra and the heart of the Great Power known as the **Wardens of the Great Tree**. Its capital, **Elyra**, lies within the immense **Great Forest**, an ecosystem whose age and complexity predate many modern states.
+
+## Heraldry
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/sylvaris/SYLVARIS_CEREMONIAL_SILVER_TREE_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Sylvaris — official ceremonial banner"><img loading="lazy" class="map" src="{{ '/assets/locations/sylvaris/SYLVARIS_CEREMONIAL_SILVER_TREE_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Sylvaris with the Silver Tree"></a><figcaption>Official ceremonial banner of Sylvaris.</figcaption></figure>
 
 ## History
 Elven civilization in Sylvaris developed in close relationship with the Great Forest and the natural movement of Aethra through living systems. Its historical records reach far into the past, though even Elven archives are not complete and not every accepted tradition is necessarily the final truth of history.

@@ -1,0 +1,13 @@
+{% assign article_type_key = page.content_type | default: page.layout %}
+{% assign article_type = site.data.article_types[article_type_key] %}
+{% assign show_chips = false %}
+{% if article_type or page.category or page.categories or page.show_canon_status or page.show_spoiler_level %}{% assign show_chips = true %}{% endif %}
+{% if show_chips %}
+<ul class="article-chips" aria-label="Article classification">
+  {% if article_type %}<li class="article-chip article-chip--type">{{ article_type.label }}</li>{% endif %}
+  {% if page.category %}{% unless page.categories contains page.category %}<li class="article-chip">{{ page.category }}</li>{% endunless %}{% endif %}
+  {% for category in page.categories %}<li class="article-chip">{{ category }}</li>{% endfor %}
+  {% if page.show_canon_status and page.canon_status %}<li class="article-chip article-chip--status">{{ page.canon_status }}</li>{% endif %}
+  {% if page.show_spoiler_level and page.spoiler_level != nil %}<li class="article-chip article-chip--spoiler">Spoiler level {{ page.spoiler_level }}</li>{% endif %}
+</ul>
+{% endif %}

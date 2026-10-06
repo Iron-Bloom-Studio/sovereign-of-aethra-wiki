@@ -30,7 +30,7 @@ categories: [Factions, Great Powers]
 <article class="card faction-card">
 <p class="eyebrow">Dwarven Civilization</p>
 <h2><a href="{{ '/wiki/factions/dwarven-holds/' | relative_url }}">The Dwarven Holds</a></h2>
-<p>The great subterranean and mountain settlements of the Dwarves around the Great Dragon Mountains.</p>
+<p>The great subterranean and mountain settlements of the Dwarves, including Khazir.</p>
 </article>
 
 <article class="card faction-card">
@@ -43,7 +43,7 @@ categories: [Factions, Great Powers]
 <article class="card faction-card">
 <p class="eyebrow">Dragonkind Great Power</p>
 <h2><a href="{{ '/wiki/factions/dragon-throne/' | relative_url }}">The Dragon Throne</a></h2>
-<p>The Great Power of Dragonkind centered on the Great Dragon Mountains.</p>
+<p>The Great Power of Dragonkind centered on Great Dragon Mountain and its sacred summit seat.</p>
 </article>
 
 <article class="card faction-card">

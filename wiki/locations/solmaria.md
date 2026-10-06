@@ -10,6 +10,7 @@ category: Realms
 categories: [Realms, Human Kingdoms]
 artwork:
   establishing: /assets/locations/solmaria/SOLMARIA_GOLDEN_SUN_BANNER_CITY_v1.png
+  banner: /assets/locations/solmaria/SOLMARIA_CEREMONIAL_SUN_BANNER_v1.png
   seat_of_power:
 infobox:
   name: Kingdom of Solmaria
@@ -29,6 +30,10 @@ infobox:
 **Solmaria** is one of the five Human kingdoms of the Grand Concord and is commonly called the **Holy Kingdom**. Its capital, **Lumen**, is known for sacred institutions, healing traditions, ceremonial life, and a strong cultural emphasis on duty, mercy, and moral responsibility.
 
 "Holy" in Solmaria does not mean that the kingdom possesses complete knowledge of Aethra or the divine. Its traditions are interpretations developed by people living within Terra, and different cultures understand the world in different ways.
+
+## Heraldry
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/solmaria/SOLMARIA_CEREMONIAL_SUN_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Solmaria — official ceremonial banner"><img loading="lazy" class="map" src="{{ '/assets/locations/solmaria/SOLMARIA_CEREMONIAL_SUN_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Solmaria with the golden sun"></a><figcaption>Official ceremonial banner of Solmaria.</figcaption></figure>
 
 ## History
 Solmaria developed around religious and charitable institutions that became increasingly important to social life, healing, education, and political legitimacy.

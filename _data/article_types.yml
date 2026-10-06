@@ -1,0 +1,49 @@
+character:
+  label: Character
+  parent_entity: characters
+  infobox_schema: character
+
+race:
+  label: Race
+  parent_entity: races
+  infobox_schema: race
+
+faction:
+  label: Faction
+  parent_entity: great-powers
+  infobox_schema: faction
+
+nation:
+  label: Nation
+  parent_entity: great-powers
+  infobox_schema: faction
+
+location:
+  label: Location
+  parent_entity: locations
+  infobox_schema: location
+
+event:
+  label: Event
+  parent_entity: history
+  infobox_schema: event
+
+realm:
+  label: Realm / Civilization
+  parent_entity: locations
+  infobox_schema: realm
+
+evolution:
+  label: Natural Evolution
+  parent_entity: races
+  infobox_schema: evolution
+
+creature:
+  label: Bestiary Entry
+  parent_entity: bestiary
+  infobox_schema: creature
+
+sigil:
+  label: Sigil Domain
+  parent_entity: seven-sigils
+  infobox_schema: sigil

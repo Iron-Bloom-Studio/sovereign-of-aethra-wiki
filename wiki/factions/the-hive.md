@@ -10,6 +10,7 @@ category: Realms
 categories: [Realms, Hiveborn Civilization]
 artwork:
   establishing: /assets/factions/the-hive/THE_HIVE_ORGANIC_CITADEL_v1.png
+  banner: /assets/factions/the-hive/THE_HIVE_CEREMONIAL_SPIRE_BANNER_v1.png
   seat_of_power:
 infobox:
   name: The Hive
@@ -27,6 +28,10 @@ infobox:
 **The Hive** is the civilization of the **Hiveborn**, a people whose social and biological traditions differ sharply from those of the older Human, Elven, and Dwarven realms. In the present era, the **Zyrath Hive** is the dominant political Hive and one of Terra's recognized Great Powers.
 
 The term "Hive" should not be mistaken for a single mind. Hiveborn possess individual identity, and **Hive Resonance** is not total mind control.
+
+## Heraldry
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/factions/the-hive/THE_HIVE_CEREMONIAL_SPIRE_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="The Hive — official ceremonial banner"><img loading="lazy" class="map" src="{{ '/assets/factions/the-hive/THE_HIVE_CEREMONIAL_SPIRE_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial spire banner of The Hive"></a><figcaption>Official ceremonial banner of The Hive.</figcaption></figure>
 
 ## Emergence in Recorded History
 Hiveborn were unknown to the defenders of Asteron during the Beta War. Roughly two decades after the battle, reports began to spread of strange humanoid and insectoid peoples appearing in the far north.

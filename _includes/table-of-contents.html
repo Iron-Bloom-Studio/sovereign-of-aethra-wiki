@@ -1,0 +1,7 @@
+{% assign toc_items = include.items | default: page.toc %}
+{% if toc_items and toc_items != true %}
+<nav class="article-toc" aria-labelledby="article-toc-title">
+  <h2 id="article-toc-title">Contents</h2>
+  {% include toc-tree.html items=toc_items depth=0 %}
+</nav>
+{% endif %}

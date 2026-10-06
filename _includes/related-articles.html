@@ -1,0 +1,27 @@
+{% assign related_items = include.items | default: page.related %}
+{% capture related_cards %}
+  {% for related_item in related_items %}
+    {% assign related_id = related_item.entity | default: related_item %}
+    {% assign related_entity = site.data.entities[related_id] %}
+    {% assign related_title = related_item.title | default: related_entity.title %}
+    {% assign related_url = related_item.url | default: related_entity.url %}
+    {% assign related_description = related_item.description | default: related_entity.description %}
+    {% assign related_image = related_item.image | default: related_entity.image %}
+    {% if related_title and related_url and related_entity.available != false %}
+      <article class="related-card">
+        {% if related_image %}<img loading="lazy" src="{{ related_image | relative_url }}" alt="">{% endif %}
+        <div>
+          <h3>{% if related_entity.external %}<a href="{{ related_url }}" target="_blank" rel="noopener noreferrer">{{ related_title }}</a>{% else %}<a href="{{ related_url | relative_url }}">{{ related_title }}</a>{% endif %}</h3>
+          {% if related_description %}<p>{{ related_description }}</p>{% endif %}
+        </div>
+      </article>
+    {% endif %}
+  {% endfor %}
+{% endcapture %}
+{% assign related_cards_clean = related_cards | strip %}
+{% if related_cards_clean != '' %}
+<section class="related-articles" aria-labelledby="related-articles-title">
+  <h2 id="related-articles-title">Related Articles</h2>
+  <div class="related-card-grid">{{ related_cards }}</div>
+</section>
+{% endif %}

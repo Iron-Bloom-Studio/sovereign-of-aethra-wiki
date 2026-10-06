@@ -1,0 +1,14 @@
+{% assign infobox_type = page.infobox_type | default: page.content_type | default: page.layout %}
+{% case infobox_type %}
+  {% when 'character' %}{% include infobox-character.html %}
+  {% when 'race' %}{% include infobox-race.html %}
+  {% when 'faction' %}{% include infobox-faction.html %}
+  {% when 'nation' %}{% include infobox-faction.html %}
+  {% when 'location' %}{% include infobox-location.html %}
+  {% when 'event' %}{% include infobox-event.html %}
+  {% when 'realm' %}{% include infobox-realm.html %}
+  {% when 'evolution' %}{% include infobox-evolution.html %}
+  {% when 'creature' %}{% include infobox-creature.html %}
+  {% when 'sigil' %}{% include infobox-sigil.html %}
+  {% else %}{% include infobox.html data=page.infobox %}
+{% endcase %}

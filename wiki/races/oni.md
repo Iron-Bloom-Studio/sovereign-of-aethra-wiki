@@ -4,6 +4,8 @@ title: Oni
 description: A publicly revealed Natural Evolution form of Ogre.
 infobox:
   name: Oni
+  image: /assets/races/oni/SOA_ONI_EVOLUTION_REFERENCE_v01.png
+  image_alt: Approved generic Oni Natural Evolution reference sheet
   fields:
     Classification: Natural Evolution
     Base race: Ogre
@@ -17,6 +19,10 @@ Oni is a natural Stage 1 evolution from Ogre, associated with refined Aethra, co
 
 <div class="tree">Ogre
 └─ Oni</div>
+
+## Approved Visual Reference
+
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/races/oni/SOA_ONI_EVOLUTION_REFERENCE_v01.png' | relative_url }}" data-lightbox data-caption="Oni — approved generic Natural Evolution reference"><img loading="lazy" class="map" src="{{ '/assets/races/oni/SOA_ONI_EVOLUTION_REFERENCE_v01.png' | relative_url }}" alt="Approved generic Oni Natural Evolution reference sheet"></a><figcaption>Oni — approved generic Natural Evolution reference.</figcaption></figure>
 
 ## Related Articles
 

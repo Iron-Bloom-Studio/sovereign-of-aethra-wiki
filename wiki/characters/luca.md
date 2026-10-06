@@ -1,9 +1,11 @@
 ---
 layout: character
 title: Luca
-artwork_era: Initial Form
+artwork_era: Initial Form — Standard Sheet
 infobox:
   name: Luca
+  image: /assets/characters/luca/SOA_LUCA_SIMPLE_MASTER_v02.png
+  image_alt: Luca simplified character reference sheet
   fields:
     Race: Human
     Origin: Aven, Eldoria

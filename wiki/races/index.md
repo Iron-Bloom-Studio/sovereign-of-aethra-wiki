@@ -41,6 +41,9 @@ The word *monster* does not automatically identify a biological race. The Wiki d
 <a class="card" href="{{ '/wiki/races/hiveborn/' | relative_url }}"><strong>Hiveborn</strong>A known people of Terra.</a>
 <a class="card" href="{{ '/wiki/races/dragonkind/' | relative_url }}"><strong>Dragonkind</strong>A known lineage of Terra.</a>
 <a class="card" href="{{ '/wiki/races/ogre/' | relative_url }}"><strong>Ogre</strong>A biological race recorded in the Beta War.</a>
+<a class="card" href="{{ '/wiki/races/orc/' | relative_url }}"><strong>Orc</strong>A biological race of Terra.</a>
+<a class="card" href="{{ '/wiki/races/harpy/' | relative_url }}"><strong>Harpy</strong>A biological race of Terra.</a>
+<a class="card" href="{{ '/wiki/races/gargoyle/' | relative_url }}"><strong>Gargoyle</strong>A biological race of Terra.</a>
 </div>
 
 ## Publicly Revealed Natural Evolution

@@ -1,11 +1,11 @@
 ---
 layout: character
 title: Lysara
-artwork_era: Initial Form
+artwork_era: Initial Form — Standard Sheet
 infobox:
   name: Lysara
-  image: /assets/characters/lysara/SOA_LYSARA_MASTER_v02.png
-  image_alt: Lysara character reference
+  image: /assets/characters/lysara/SOA_LYSARA_SIMPLE_MASTER_v03.png
+  image_alt: Lysara simplified character reference sheet
   fields:
     Race: Elf
     Class: Ranger

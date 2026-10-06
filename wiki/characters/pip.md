@@ -1,11 +1,11 @@
 ---
 layout: character
 title: Pip
-artwork_era: Initial Form
+artwork_era: Initial Form — Standard Sheet
 infobox:
   name: Pip
-  image: /assets/characters/pip/SOA_PIP_MASTER_v01.jpeg
-  image_alt: Pip character reference
+  image: /assets/characters/pip/SOA_PIP_SIMPLE_MASTER_v02.png
+  image_alt: Pip simplified character reference sheet
   fields:
     Race: Goblin
 ---

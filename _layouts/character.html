@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: article
 ---
 {{ content }}
-{% if page.infobox.image %}
+{% if page.infobox.image %}{% unless page.gallery %}
 <section class="character-gallery" aria-labelledby="gallery-heading">
   <h2 id="gallery-heading">Gallery</h2>
   <div class="era-tabs" role="tablist" aria-label="Public artwork eras">
@@ -11,4 +11,4 @@ layout: default
   </div>
   <a class="lightbox-link character-sheet" href="{{ page.infobox.image | relative_url }}" data-lightbox data-caption="{{ page.infobox.image_alt | default: page.title }}"><img loading="lazy" src="{{ page.infobox.image | relative_url }}" alt="{{ page.infobox.image_alt | default: page.title }}"><span>{{ page.artwork_era | default: 'Current Public Reference' }}</span></a>
 </section>
-{% endif %}
+{% endunless %}{% endif %}

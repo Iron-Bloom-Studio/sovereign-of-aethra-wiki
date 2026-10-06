@@ -36,7 +36,7 @@ The largest known landmass in the current setting is commonly referred to as the
 
 The Great Continent contains a wide range of environments and civilizations.
 
-Human kingdoms occupy much of its central and northern regions. The ancient Elven realm of Sylvaris lies within the Great Forest, while the Dwarven Holds extend beneath the Great Dragon Mountains. Dragonkind controls territories few outsiders enter freely.
+Human kingdoms occupy much of its central and northern regions. The ancient Elven realm of Sylvaris lies within the Great Forest, while the Dwarven Holds extend through subterranean territories. Dragonkind controls Great Dragon Mountain, which few outsiders enter freely.
 
 Farther south lie territories associated with the Demon Domains, each shaped by different peoples, histories, and political traditions.
 
@@ -68,7 +68,7 @@ Relations between the major powers vary from trade and diplomacy to rivalry and 
 
 The **Great Forest** is one of the continent's largest ancient ecosystems and is closely associated with the Elven realm.
 
-The **Great Dragon Mountains** form another major landmark, connected both to Dragonkind and to the subterranean territories of the Dwarven Holds.
+**Great Dragon Mountain** is another major landmark and the heartland of Dragonkind. Its summit holds the sacred high seat known as the Dragon Throne.
 
 The central and northern regions contain the principal Human kingdoms, while the southern territories include multiple Demon Domains.
 

@@ -1,0 +1,29 @@
+{% assign navigation_items = include.items %}
+{% assign navigation_depth = include.depth | default: 0 %}
+<ul class="nav-tree nav-tree--{{ include.variant | default: 'default' }} nav-tree--depth-{{ navigation_depth }}">
+  {% for item in navigation_items %}
+    {% assign entity = site.data.entities[item.entity] %}
+    {% assign item_label = item.label | default: entity.title %}
+    {% assign item_url = item.url | default: entity.url %}
+    {% assign item_available = entity.available %}
+    {% assign item_active = false %}
+    {% if item_url == page.url %}
+      {% assign item_active = true %}
+    {% endif %}
+    <li class="nav-tree__item{% if item.children %} nav-tree__item--parent{% endif %}">
+      {% if item_url and item_available != false %}
+        {% if entity.external %}
+          <a href="{{ item_url }}" target="_blank" rel="noopener noreferrer">{{ item_label }}</a>
+        {% else %}
+          <a href="{{ item_url | relative_url }}"{% if item_active %} class="active" aria-current="page"{% endif %}>{{ item_label }}</a>
+        {% endif %}
+      {% else %}
+        <span class="nav-tree__unavailable" aria-disabled="true" title="Not yet publicly available">{{ item_label }} <small>— Not Yet Public</small></span>
+      {% endif %}
+      {% if item.children %}
+        {% assign child_depth = navigation_depth | plus: 1 %}
+        {% include navigation-tree.html items=item.children depth=child_depth variant=include.variant %}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

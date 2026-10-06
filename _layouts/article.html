@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{% if page.article_header %}{% include article-header.html %}{% elsif page.generated_breadcrumbs or page.breadcrumbs %}{% include breadcrumbs.html %}{% endif %}
+{% if page.toc %}{% include table-of-contents.html %}{% endif %}
+{{ content }}
+{% if page.tabs %}{% include article-tabs.html %}{% endif %}
+{% if page.gallery %}{% include image-gallery.html %}{% endif %}
+{% if page.show_related and page.related %}{% include related-articles.html %}{% endif %}

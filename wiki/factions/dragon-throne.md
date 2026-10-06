@@ -2,7 +2,7 @@
 layout: realm
 title: The Dragon Throne
 slug: dragon-throne
-description: The Great Power of Dragonkind centered on the Great Dragon Mountains.
+description: The Great Power of Dragonkind centered on Great Dragon Mountain.
 public: true
 spoiler_level: 0
 status: PROVISIONAL
@@ -20,7 +20,7 @@ infobox:
   fields:
     Classification: Dragonkind Great Power
     People: Dragonkind
-    Territory: Great Dragon Mountains
+    Territory: Great Dragon Mountain
     Government: Dragon Emperor and Dragon Conclave
     Current Ruler: Dragon Emperor Rhaen
     Council: Dragon Conclave
@@ -29,13 +29,13 @@ infobox:
 <p class="breadcrumb">Home › Realms & Civilizations › The Dragon Throne</p>
 # The Dragon Throne
 
-The **Dragon Throne** is the Great Power of **Dragonkind**, centered on the vast **Great Dragon Mountains**. It is one of Terra's oldest and most formidable political powers, ruled in the present era by **Dragon Emperor Rhaen**, a True Dragon associated with the Dark element.
+The **Dragon Throne** is the Great Power of **Dragonkind**, centered on **Great Dragon Mountain**. It is one of Terra's oldest and most formidable political powers, ruled in the present era by **Dragon Emperor Rhaen**, a True Dragon associated with the Dark element.
 
 Dark Aethra or a Dark elemental affinity is not inherently evil. Rhaen is known as a patient and deliberate ruler rather than a figure defined by Human ideas of darkness.
 
 ## Approved Visual Reference
 
-<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_SANCTUARY_v1.png' | relative_url }}" data-lightbox data-caption="The Dragon Throne — Mountain Sanctuary"><img loading="lazy" class="map" src="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_SANCTUARY_v1.png' | relative_url }}" alt="Approved visual reference of the Dragon Throne mountain sanctuary"></a><figcaption>The Dragon Throne — approved establishing reference for its celestial mountain sanctuary. The formal name of the Seat of Power remains TBD.</figcaption></figure>
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_SANCTUARY_v1.png' | relative_url }}" data-lightbox data-caption="The Dragon Throne — sanctuary at the summit of Great Dragon Mountain"><img loading="lazy" class="map" src="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_SANCTUARY_v1.png' | relative_url }}" alt="Approved visual reference of the Dragon Throne sanctuary at the summit of Great Dragon Mountain above the clouds"></a><figcaption>The Dragon Throne — the sacred high seat of Dragonkind at the summit of Great Dragon Mountain, above the cloud layer. It is part of the mountain, not a floating island.</figcaption></figure>
 
 ## Heraldry
 
@@ -47,11 +47,9 @@ The Dragon Throne uses a **silver dragon on black**. Two approved treatments ser
 <div class="cards banner-cards"><figure class="card"><a class="lightbox-link" href="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_CEREMONIAL_SILVER_DRAGON_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="The Dragon Throne — Official / Ceremonial Banner"><img loading="lazy" class="map" src="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_CEREMONIAL_SILVER_DRAGON_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial silver dragon banner of the Dragon Throne"></a><figcaption><strong>Official / Ceremonial Banner</strong>Ornamental silver dragon on black.</figcaption></figure><figure class="card"><a class="lightbox-link" href="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_FIELD_SILVER_DRAGON_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="The Dragon Throne — Standard / Field Banner"><img loading="lazy" class="map" src="{{ '/assets/factions/dragon-throne/DRAGON_THRONE_FIELD_SILVER_DRAGON_BANNER_v1.png' | relative_url }}" alt="Approved simplified field banner of the Dragon Throne"></a><figcaption><strong>Standard / Field Banner</strong>Simplified silver dragon on black.</figcaption></figure></div>
 
 ## Territory
-The Great Dragon Mountains form the heartland of Dragonkind. Their peaks, valleys, caverns, high plateaus, and ancient routes are difficult for outsiders to traverse without permission or preparation.
+Great Dragon Mountain forms the heartland of Dragonkind. Its summit rises above the cloud layer and holds the sacred high seat known as the Dragon Throne. Its slopes, valleys, caverns, high plateaus, and ancient routes are difficult for outsiders to traverse without permission or preparation.
 
-The Dragon Throne does not currently use "Drakara" as the name of its civilization or capital. Any older project references to Drakara are deprecated.
-
-The formal capital or primary Seat of Power of the Dragon Throne remains **TBD**.
+The formal capital of the Dragonkind Great Power remains **TBD**.
 
 ## History
 Dragonkind has existed as an independent power across eras of Human and Demonkind conflict. During the Battle of Asteron, Dragonkind did not join either side. This neutrality was not mysterious to contemporary powers: Dragonkind was known to act according to its own sovereignty, territorial interests, and understanding of balance.
@@ -91,12 +89,12 @@ Dragonkind is comparatively selective about outside access, but exchange with ne
 
 ## Relations
 - **Auregrad** — significant tension over Wyvern breeding and military use.
-- **Dwarven Holds** — coexistence and exchange shaped by shared proximity to the Great Dragon Mountains.
+- **Dwarven Holds** — relations remain publicly undefined.
 - Other powers — treated according to sovereignty, conduct, territory, and long-term interest rather than automatic Human/Demon alignment.
 
 ## Notable Locations
-- **Great Dragon Mountains** — Dragonkind heartland.
-- **Seat of the Dragon Throne** — name TBD.
+- **Great Dragon Mountain** — Dragonkind heartland.
+- **The Dragon Throne** — sacred high seat at the mountain's summit.
 - Domains of individual Dragon Lords — TBD.
 
 ## Present Day

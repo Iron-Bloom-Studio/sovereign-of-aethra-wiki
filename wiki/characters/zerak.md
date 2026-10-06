@@ -1,11 +1,11 @@
 ---
 layout: character
 title: Zerak
-artwork_era: Initial Form
+artwork_era: Initial Form — Standard Sheet
 infobox:
   name: Zerak
-  image: /assets/characters/zerak/SOA_ZERAK_MASTER_v02.png
-  image_alt: Zerak character reference
+  image: /assets/characters/zerak/SOA_ZERAK_SIMPLE_MASTER_v03.png
+  image_alt: Zerak simplified character reference sheet
   fields:
     Race: Hiveborn
     Weapon: Lance

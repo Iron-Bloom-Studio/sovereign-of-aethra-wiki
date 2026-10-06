@@ -1,0 +1,23 @@
+{% assign breadcrumb_override = page.breadcrumbs %}
+{% assign article_type_key = page.content_type | default: page.layout %}
+{% assign article_type = site.data.article_types[article_type_key] %}
+{% assign parent_entity_key = page.breadcrumb_parent | default: article_type.parent_entity %}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    {% if breadcrumb_override and breadcrumb_override != true %}
+      {% for crumb in breadcrumb_override %}
+        {% assign crumb_entity = site.data.entities[crumb.entity] %}
+        {% assign crumb_label = crumb.label | default: crumb_entity.title %}
+        {% assign crumb_url = crumb.url | default: crumb_entity.url %}
+        <li>{% if crumb_url and crumb_entity.available != false %}<a href="{{ crumb_url | relative_url }}">{{ crumb_label }}</a>{% else %}<span>{{ crumb_label }}</span>{% endif %}</li>
+      {% endfor %}
+    {% else %}
+      <li><a href="{{ '/' | relative_url }}">Main Page</a></li>
+      {% if parent_entity_key and parent_entity_key != 'home' %}
+        {% assign parent_entity = site.data.entities[parent_entity_key] %}
+        {% if parent_entity.url and parent_entity.available != false %}<li><a href="{{ parent_entity.url | relative_url }}">{{ parent_entity.title }}</a></li>{% endif %}
+      {% endif %}
+    {% endif %}
+    <li><span aria-current="page">{{ page.title }}</span></li>
+  </ol>
+</nav>

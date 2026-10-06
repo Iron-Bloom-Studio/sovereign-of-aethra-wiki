@@ -2,7 +2,7 @@
 layout: realm
 title: Dwarven Holds
 slug: dwarven-holds
-description: The great subterranean and mountain settlements of the Dwarves around the Great Dragon Mountains.
+description: The great subterranean and mountain settlements of the Dwarves, including Khazir.
 public: true
 spoiler_level: 0
 status: PROVISIONAL
@@ -10,6 +10,7 @@ category: Realms
 categories: [Realms, Dwarven Civilization]
 artwork:
   establishing: /assets/locations/khazir/KHAZIR_SUBTERRANEAN_CITY_v1.jpg
+  banner: /assets/factions/dwarven-holds/DWARVEN_HOLDS_CEREMONIAL_FORTRESS_BANNER_v1.png
   seat_of_power:
 infobox:
   name: Dwarven Holds
@@ -19,14 +20,18 @@ infobox:
     Classification: Dwarven Civilization
     People: Dwarves
     Major Hold: Khazir Hold
-    Territory: Great Dragon Mountains
+    Major Territory: Khazir
 ---
 <p class="breadcrumb">Home › Realms & Civilizations › Dwarven Holds</p>
 # Dwarven Holds
 
-The **Dwarven Holds** are the great subterranean and mountain settlements of the Dwarves, concentrated beneath and around the **Great Dragon Mountains**. Rather than a single surface kingdom built around one capital city, Dwarven civilization is organized through powerful Holds connected by kinship, craft, trade, tunnels, roads, and shared traditions.
+The **Dwarven Holds** are the great subterranean and mountain settlements of the Dwarves. Rather than a single surface kingdom built around one capital city, Dwarven civilization is organized through powerful Holds connected by kinship, craft, trade, tunnels, roads, and shared traditions.
 
 **Khazir Hold** is currently treated as one of the largest and most influential Holds, though the exact constitutional relationship among the Holds remains under development.
+
+## Heraldry
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/factions/dwarven-holds/DWARVEN_HOLDS_CEREMONIAL_FORTRESS_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Dwarven Holds — official ceremonial banner"><img loading="lazy" class="map" src="{{ '/assets/factions/dwarven-holds/DWARVEN_HOLDS_CEREMONIAL_FORTRESS_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of the Dwarven Holds with a mountain fortress"></a><figcaption>Official ceremonial banner of the Dwarven Holds.</figcaption></figure>
 
 ## History
 Dwarven civilization is ancient, shaped by mountains, deep settlements, engineering, mining, metallurgy, and long traditions of craft. Their survival has depended on understanding stone, pressure, heat, water, ventilation, transport, and the dangers of the deep as much as on warfare.
@@ -34,7 +39,7 @@ Dwarven civilization is ancient, shaped by mountains, deep settlements, engineer
 During the Beta War, the Dwarven Holds did **not officially join** the defense of Asteron. Dwarven leaders largely regarded the conflict as a Human–Demonkind war outside their direct obligations. Individual Dwarves may nevertheless have participated independently.
 
 ## Khazir Hold
-**Khazir Hold** is a major center of Dwarven political and industrial life. It lies within the Great Dragon Mountains and connects subterranean districts with guarded surface gates.
+**Khazir Hold** is a major center of Dwarven political and industrial life. It connects subterranean districts with guarded surface gates.
 
 A **North Gate** provides access toward Arklune and the northern/frontier routes, while a southern access is believed to connect to routes on the opposite side of the mountains. Exact geography remains subject to map development.
 
@@ -56,7 +61,7 @@ Dwarven traditions apply Aethra through material knowledge and craftsmanship. Th
 Metals, stone, engineering, tools, weapons, crafted goods, underground resources, and specialized manufacturing form the basis of Dwarven trade.
 
 ## Relations
-The Holds trade extensively with surface peoples while maintaining strong control over access to their deeper territories. Their relationship with Dragonkind is shaped by the fact that both civilizations are closely tied to the Great Dragon Mountains, though exact borders and agreements remain TBD.
+The Holds trade extensively with surface peoples while maintaining strong control over access to their deeper territories. Their exact relationship with Dragonkind remains TBD.
 
 ## Rune Sigils
 A Rune Sigil associated with **Resolve** is a strong candidate for Dwarven territory, but its exact location and status remain PROVISIONAL.
@@ -76,4 +81,3 @@ The Dwarven Holds remain one of Terra's major powers: difficult to invade, techn
 - [Dwarf]({{ '/wiki/races/dwarf/' | relative_url }})
 - [The Dragon Throne]({{ '/wiki/factions/dragon-throne/' | relative_url }})
 - [Terra]({{ '/wiki/world/terra/' | relative_url }})
-

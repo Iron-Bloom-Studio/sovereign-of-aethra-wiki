@@ -10,6 +10,7 @@ category: Realms
 categories: [Realms, Human Kingdoms]
 artwork:
   establishing: /assets/locations/eldoria/ELDORIA_BOOK_BANNER_CASTLE_v1.jpg
+  banner: /assets/locations/eldoria/ELDORIA_CEREMONIAL_BOOK_STAR_BANNER_v1.png
   seat_of_power:
 infobox:
   name: Kingdom of Eldoria
@@ -27,6 +28,10 @@ infobox:
 # Eldoria
 
 **Eldoria** is one of the five Human kingdoms of the Grand Concord and is widely known as the **Kingdom of Knowledge**. Its capital, **Arden**, is a major center of scholarship, administration, historical study, and practical learning. Compared with many neighboring realms, Eldoria has a reputation for relative openness toward travelers and non-Human peoples, especially in its larger towns and southern frontier.
+
+## Heraldry
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/eldoria/ELDORIA_CEREMONIAL_BOOK_STAR_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Eldoria — official ceremonial banner"><img loading="lazy" class="map" src="{{ '/assets/locations/eldoria/ELDORIA_CEREMONIAL_BOOK_STAR_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Eldoria with an open book and star"></a><figcaption>Official ceremonial banner of Eldoria.</figcaption></figure>
 
 ## History
 Eldoria developed around communities that placed unusual value on records, schools, archives, and trained civil administration. Over time, this culture produced a kingdom whose influence rested as much on knowledge and organization as on military force.

@@ -1,0 +1,17 @@
+{% assign tab_items = include.items | default: page.tabs %}
+{% if tab_items %}
+<section class="article-tabs" data-tabs>
+  <div class="article-tabs__list" role="tablist" aria-label="{{ include.label | default: 'Article views' }}">
+    {% for tab in tab_items %}
+      <button id="tab-{{ tab.id }}" type="button" role="tab" aria-controls="panel-{{ tab.id }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" tabindex="{% if forloop.first %}0{% else %}-1{% endif %}"{% if tab.disabled %} disabled{% endif %}>{{ tab.label | default: tab.title }}</button>
+    {% endfor %}
+  </div>
+  {% for tab in tab_items %}
+    <section id="panel-{{ tab.id }}" class="article-tabs__panel" role="tabpanel" aria-labelledby="tab-{{ tab.id }}"{% unless forloop.first %} hidden{% endunless %}>
+      {% if tab.image %}<img loading="lazy" src="{{ tab.image | relative_url }}" alt="{{ tab.alt | default: '' }}">{% endif %}
+      {% if tab.content %}{{ tab.content | markdownify }}{% endif %}
+      {% if tab.caption %}<p class="article-tabs__caption">{{ tab.caption }}</p>{% endif %}
+    </section>
+  {% endfor %}
+</section>
+{% endif %}

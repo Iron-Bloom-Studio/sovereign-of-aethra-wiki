@@ -1,0 +1,199 @@
+# Central public entity and destination registry.
+# A missing URL means no approved standalone public destination exists.
+
+home:
+  title: Main Page
+  url: /
+  content_type: portal
+
+about:
+  title: About
+  url: /wiki/about/
+  content_type: meta
+
+world:
+  title: World
+  url: /wiki/world/
+  content_type: portal
+
+great-powers:
+  title: Great Powers
+  url: /wiki/factions/
+  content_type: portal
+
+races:
+  title: Races
+  url: /wiki/races/
+  content_type: portal
+
+bestiary:
+  title: Bestiary
+  content_type: portal
+  available: false
+  note: No approved public Bestiary landing page exists yet.
+
+characters:
+  title: Characters
+  url: /wiki/characters/
+  content_type: portal
+
+raizen:
+  title: Raizen
+  url: /wiki/characters/raizen/
+  content_type: character
+  description: Oni King associated with the Beta War.
+
+beta-war:
+  title: Beta War
+  url: /wiki/history/beta-war/
+  content_type: event
+  description: A public historical conflict approximately 43 years before the main story.
+
+ogre:
+  title: Ogre
+  url: /wiki/races/ogre/
+  content_type: race
+  description: A biological race with a publicly known Natural Evolution form.
+
+oni:
+  title: Oni
+  url: /wiki/races/oni/
+  content_type: evolution
+  description: A publicly revealed Natural Evolution form of Ogre.
+
+orc:
+  title: Orc
+  url: /wiki/races/orc/
+  content_type: race
+  description: A biological race of Terra.
+
+harpy:
+  title: Harpy
+  url: /wiki/races/harpy/
+  content_type: race
+  description: A biological race of Terra.
+
+gargoyle:
+  title: Gargoyle
+  url: /wiki/races/gargoyle/
+  content_type: race
+  description: A biological race of Terra.
+
+locations:
+  title: Locations
+  url: /wiki/locations/
+  content_type: portal
+
+history:
+  title: History
+  url: /wiki/history/
+  content_type: portal
+
+lore:
+  title: Lore
+  url: /wiki/index/
+  content_type: portal
+
+grand-concord:
+  title: The Grand Concord
+  url: /wiki/factions/grand-concord/
+  content_type: great_power
+
+wardens-great-tree:
+  title: The Wardens of the Great Tree
+  url: /wiki/locations/sylvaris/
+  content_type: great_power
+
+dwarven-holds:
+  title: The Dwarven Holds
+  url: /wiki/factions/dwarven-holds/
+  content_type: great_power
+
+the-hive:
+  title: The Hive
+  url: /wiki/factions/the-hive/
+  content_type: great_power
+
+dragon-throne:
+  title: The Dragon Throne
+  url: /wiki/factions/dragon-throne/
+  content_type: great_power
+
+seven-sigils:
+  title: The Seven Sigils
+  url: /wiki/factions/seven-sigils/
+  content_type: great_power_group
+  classification: Authority / geopolitical framework
+  children: [alpha, beta, gamma, delta, theta, sigma, omega]
+
+arklune:
+  title: Free City of Arklune
+  url: /wiki/locations/arklune/
+  content_type: other_faction
+  classification: Independent Free City / city-state
+
+grand-adventurer-guild:
+  title: Grand Adventurer Guild
+  url: /wiki/locations/arklune/#the-grand-adventurer-guild
+  content_type: other_faction
+  destination_type: section
+
+beta-remnant:
+  title: Beta Remnant
+  content_type: other_faction
+  available: false
+  note: No approved public destination exists yet.
+
+rogue-hive:
+  title: Rogue Hive / Zavor
+  url: /wiki/factions/the-hive/#the-rogue-hive
+  content_type: other_faction
+  destination_type: section
+
+alpha:
+  title: Alpha
+  content_type: sigil_domain_identifier
+  parent: seven-sigils
+  available: false
+
+beta:
+  title: Beta
+  content_type: sigil_domain_identifier
+  parent: seven-sigils
+  available: false
+
+gamma:
+  title: Gamma
+  content_type: sigil_domain_identifier
+  parent: seven-sigils
+  available: false
+
+delta:
+  title: Delta
+  content_type: sigil_domain_identifier
+  parent: seven-sigils
+  available: false
+
+theta:
+  title: Theta
+  content_type: sigil_domain_identifier
+  parent: seven-sigils
+  available: false
+
+sigma:
+  title: Sigma
+  content_type: sigil_domain_identifier
+  parent: seven-sigils
+  available: false
+
+omega:
+  title: Omega
+  content_type: sigil_domain_identifier
+  parent: seven-sigils
+  available: false
+
+novel:
+  title: Novel ↗
+  url: https://fictional-adventure-een2715.pages.github.io/
+  content_type: external
+  external: true

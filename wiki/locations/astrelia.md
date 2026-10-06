@@ -10,6 +10,7 @@ category: Realms
 categories: [Realms, Human Kingdoms]
 artwork:
   establishing: /assets/locations/astrelia/ASTRELIA_STAR_BANNER_CASTLE_v1.png
+  banner: /assets/locations/astrelia/ASTRELIA_CEREMONIAL_AETHRA_STAR_BANNER_v1.png
   seat_of_power:
 infobox:
   name: Kingdom of Astrelia
@@ -27,6 +28,10 @@ infobox:
 # Astrelia
 
 **Astrelia** is one of the five Human kingdoms of the Grand Concord and is commonly known as the **Magic Kingdom**. Its capital, **Myra**, is associated with advanced magical education, formal Aethra study, and institutions devoted to refining the practical use of magic.
+
+## Heraldry
+
+<figure class="map-figure banner-figure"><a class="lightbox-link" href="{{ '/assets/locations/astrelia/ASTRELIA_CEREMONIAL_AETHRA_STAR_BANNER_v1.png' | relative_url }}" data-lightbox data-caption="Astrelia — official ceremonial banner"><img loading="lazy" class="map" src="{{ '/assets/locations/astrelia/ASTRELIA_CEREMONIAL_AETHRA_STAR_BANNER_v1.png' | relative_url }}" alt="Approved official ceremonial banner of Astrelia with the Aethra Star"></a><figcaption>Official ceremonial banner of Astrelia.</figcaption></figure>
 
 ## History
 Astrelia's identity developed around generations of organized magical scholarship. Where many cultures preserved magic through family, guild, temple, battlefield, or local tradition, Astrelia increasingly treated magical knowledge as something that could be recorded, compared, taught, and improved systematically.

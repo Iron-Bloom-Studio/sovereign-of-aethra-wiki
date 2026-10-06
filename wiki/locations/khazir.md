@@ -9,13 +9,13 @@ infobox:
   fields:
     Type: Subterranean city
     People: Dwarves
-    Region: Great Dragon Mountains
+    Region: Dwarven Holds
     Affiliation: Dwarven Holds
 ---
 <p class="breadcrumb">Home › Locations › Khazir</p>
 # Khazir
 
-**Khazir** is a Dwarven subterranean city within the territories of the Dwarven Holds beneath the Great Dragon Mountains.
+**Khazir** is a Dwarven subterranean city within the territories of the Dwarven Holds.
 
 Further public details about its government, history, and internal districts have not yet been released.
 

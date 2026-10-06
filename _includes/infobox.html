@@ -1,5 +1,16 @@
-<aside class="infobox" aria-label="Article facts">
-  <h2>{{ page.infobox.name | default: page.title }}</h2>
-  {% if page.infobox.image %}<a class="lightbox-link" href="{{ page.infobox.image | relative_url }}" data-lightbox data-caption="{{ page.infobox.image_alt | default: page.title }}"><img loading="lazy" src="{{ page.infobox.image | relative_url }}" alt="{{ page.infobox.image_alt | default: page.title }}"></a>{% elsif page.show_artwork_placeholder != false %}<div class="artwork-placeholder">Artwork Not Yet Publicly Available</div>{% endif %}
-  <dl>{% for item in page.infobox.fields %}<dt>{{ item[0] }}</dt><dd>{{ item[1] }}</dd>{% endfor %}</dl>
+{% assign infobox_data = include.data | default: page.infobox %}
+{% assign infobox_schema = site.data.infobox_schemas[include.schema] %}
+<aside class="infobox{% if include.schema %} infobox--{{ include.schema }}{% endif %}" aria-label="{{ infobox_schema.label | default: 'Article facts' }}">
+  <h2>{{ infobox_data.name | default: page.title }}</h2>
+  {% if infobox_data.image %}<a class="lightbox-link" href="{{ infobox_data.image | relative_url }}" data-lightbox data-caption="{{ infobox_data.image_alt | default: page.title }}"><img loading="lazy" src="{{ infobox_data.image | relative_url }}" alt="{{ infobox_data.image_alt | default: page.title }}"></a>{% elsif page.show_artwork_placeholder != false %}<div class="artwork-placeholder">Artwork Not Yet Publicly Available</div>{% endif %}
+  <dl>
+    {% if infobox_data.fields %}
+      {% for item in infobox_data.fields %}<dt>{{ item[0] }}</dt><dd>{{ item[1] }}</dd>{% endfor %}
+    {% elsif infobox_schema %}
+      {% for field in infobox_schema.fields %}
+        {% assign field_value = infobox_data[field.key] %}
+        {% if field_value != nil %}<dt>{{ field.label }}</dt><dd>{{ field_value }}</dd>{% endif %}
+      {% endfor %}
+    {% endif %}
+  </dl>
 </aside>

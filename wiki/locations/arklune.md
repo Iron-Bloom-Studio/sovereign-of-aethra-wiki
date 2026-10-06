@@ -8,12 +8,13 @@ spoiler_level: 0
 status: PROVISIONAL
 category: Realms
 categories: [Realms, Free Cities]
-show_artwork_placeholder: false
 artwork:
-  establishing:
-  seat_of_power:
+  establishing: /assets/locations/arklune/SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_EXTERIOR_v01.png
+  seat_of_power: /assets/locations/arklune/SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_INTERIOR_v01.png
 infobox:
   name: Free City of Arklune
+  image: /assets/locations/arklune/SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_EXTERIOR_v01.png
+  image_alt: Approved exterior reference of the Grand Adventurer Guild headquarters in Arklune
   fields:
     Classification: Independent City-State / Sovereign Enclave
     Region: Eldoria's southern frontier
@@ -46,6 +47,10 @@ The Grand Adventurer Guild is enormously influential, but it should not be treat
 Arklune serves as the headquarters of the **Grand Adventurer Guild**, one of Terra's most widely recognized adventuring institutions. The Guild coordinates contracts, rankings, expeditions, monster suppression, escorts, exploration, and other work that crosses political borders.
 
 Its neutral character is one reason Arklune attracts people who would face greater restrictions elsewhere.
+
+### Approved Visual References
+
+<div class="cards"><figure class="card"><a class="lightbox-link" href="{{ '/assets/locations/arklune/SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_EXTERIOR_v01.png' | relative_url }}" data-lightbox data-caption="Grand Adventurer Guild — Arklune exterior"><img loading="lazy" class="map" src="{{ '/assets/locations/arklune/SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_EXTERIOR_v01.png' | relative_url }}" alt="Approved exterior reference of the Grand Adventurer Guild headquarters in Arklune"></a><figcaption><strong>Grand Adventurer Guild</strong>Approved exterior reference.</figcaption></figure><figure class="card"><a class="lightbox-link" href="{{ '/assets/locations/arklune/SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_INTERIOR_v01.png' | relative_url }}" data-lightbox data-caption="Grand Adventurer Guild — Arklune interior"><img loading="lazy" class="map" src="{{ '/assets/locations/arklune/SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_INTERIOR_v01.png' | relative_url }}" alt="Approved interior reference of the Grand Adventurer Guild headquarters in Arklune"></a><figcaption><strong>Guild Hall Interior</strong>Approved interior reference.</figcaption></figure><figure class="card"><a class="lightbox-link" href="{{ '/assets/locations/arklune/SOA_ARKLUNE_CEREMONIAL_BANNER_v01.png' | relative_url }}" data-lightbox data-caption="Free City of Arklune — approved ceremonial banner"><img loading="lazy" class="map" src="{{ '/assets/locations/arklune/SOA_ARKLUNE_CEREMONIAL_BANNER_v01.png' | relative_url }}" alt="Approved ceremonial banner of the Free City of Arklune"></a><figcaption><strong>Arklune Banner</strong>Approved ceremonial reference.</figcaption></figure></div>
 
 ## Society and Culture
 Human, Elf, Dwarf, and other peoples can be encountered in Arklune. The city is particularly attractive to adventurers, refugees, independent craftsmen, itinerant scholars, and people seeking a new beginning.
