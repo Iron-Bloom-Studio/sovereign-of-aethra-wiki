@@ -14,9 +14,13 @@ The core group of characters whose journeys become closely intertwined during th
 
 <div class="cards"><a class="card" href="{{ '/wiki/characters/luca/' | relative_url }}"><strong>Luca</strong>Human · Low-rank adventurer</a><a class="card" href="{{ '/wiki/characters/serena/' | relative_url }}"><strong>Serena</strong>Human · Former knight</a><a class="card" href="{{ '/wiki/characters/lysara/' | relative_url }}"><strong>Lysara</strong>Elf · Mage</a><a class="card" href="{{ '/wiki/characters/zerak/' | relative_url }}"><strong>Zerak</strong>Hiveborn · Lance user</a><a class="card" href="{{ '/wiki/characters/pip/' | relative_url }}"><strong>Pip</strong>Goblin · Traveler</a></div>
 
-## Other Characters
+## Human Kingdom Characters
 
 <div class="cards"><a class="card" href="{{ '/wiki/characters/rae/' | relative_url }}"><strong>Rae</strong></a><a class="card" href="{{ '/wiki/characters/bram/' | relative_url }}"><strong>Bram</strong></a><a class="card" href="{{ '/wiki/characters/deren/' | relative_url }}"><strong>Deren</strong></a></div>
+
+## Seven Sigils Characters
+
+<div class="cards"><a class="card" href="{{ '/wiki/characters/raizen/' | relative_url }}"><strong>Raizen</strong>Demon Lord Beta</a><a class="card" href="{{ '/wiki/characters/reika/' | relative_url }}"><strong>Reika</strong>Daughter of Raizen</a></div>
 
 ## Historical Figures
 

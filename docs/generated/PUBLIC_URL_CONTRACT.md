@@ -6,7 +6,7 @@ This inventory is generated from the current Jekyll source. Documentation files 
 
 ## Summary
 
-- Public page URLs: **74**
+- Public page URLs: **75**
 - Protected anchor destinations: **5**
 - Permalink mode: `pretty`
 - Production base URL: `/sovereign-of-aethra-wiki`
@@ -28,7 +28,7 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | Source file | Current URL | Content type | Referenced anchors | Referenced elsewhere? |
 |---|---|---|---|---|
 | `404.html` | `/404.html` | error page | — | No detected references |
-| `index.md` | `/` | homepage | — | Yes (71 files) |
+| `index.md` | `/` | homepage | — | Yes (72 files) |
 | `search/index.md` | `/search/` | search utility | — | No detected references |
 | `wiki/about.md` | `/wiki/about/` | meta | — | No detected references |
 | `wiki/artwork.md` | `/wiki/artwork/` | gallery | — | No detected references |
@@ -44,12 +44,13 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/characters/deren.md` | `/wiki/characters/deren/` | character | — | Yes (1 files) |
 | `wiki/characters/eldren.md` | `/wiki/characters/eldren/` | character | — | Yes (3 files) |
 | `wiki/characters/garling.md` | `/wiki/characters/garling/` | character | — | Yes (12 files) |
-| `wiki/characters/index.md` | `/wiki/characters/` | portal | — | Yes (20 files) |
+| `wiki/characters/index.md` | `/wiki/characters/` | portal | — | Yes (21 files) |
 | `wiki/characters/luca.md` | `/wiki/characters/luca/` | character | — | Yes (5 files) |
 | `wiki/characters/lysara.md` | `/wiki/characters/lysara/` | character | — | Yes (2 files) |
 | `wiki/characters/pip.md` | `/wiki/characters/pip/` | character | — | Yes (3 files) |
 | `wiki/characters/rae.md` | `/wiki/characters/rae/` | character | — | Yes (1 files) |
-| `wiki/characters/raizen.md` | `/wiki/characters/raizen/` | character | — | Yes (11 files) |
+| `wiki/characters/raizen.md` | `/wiki/characters/raizen/` | character | — | Yes (12 files) |
+| `wiki/characters/reika.md` | `/wiki/characters/reika/` | character | — | Yes (1 files) |
 | `wiki/characters/rolan.md` | `/wiki/characters/rolan/` | character | — | Yes (3 files) |
 | `wiki/characters/serena.md` | `/wiki/characters/serena/` | character | — | Yes (4 files) |
 | `wiki/characters/zerak.md` | `/wiki/characters/zerak/` | character | — | Yes (3 files) |
@@ -58,9 +59,9 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/factions/dragon-throne.md` | `/wiki/factions/dragon-throne/` | realm | — | Yes (9 files) |
 | `wiki/factions/dwarven-holds.md` | `/wiki/factions/dwarven-holds/` | realm | — | Yes (9 files) |
 | `wiki/factions/grand-concord.md` | `/wiki/factions/grand-concord/` | Factions | — | Yes (11 files) |
-| `wiki/factions/index.md` | `/wiki/factions/` | portal | — | Yes (30 files) |
+| `wiki/factions/index.md` | `/wiki/factions/` | portal | — | Yes (31 files) |
 | `wiki/factions/other/index.md` | `/wiki/factions/other/` | portal | — | Yes (6 files) |
-| `wiki/factions/seven-sigils.md` | `/wiki/factions/seven-sigils/` | Great Powers | — | Yes (9 files) |
+| `wiki/factions/seven-sigils.md` | `/wiki/factions/seven-sigils/` | Great Powers | — | Yes (10 files) |
 | `wiki/factions/the-hive.md` | `/wiki/factions/the-hive/` | realm | `#zyrath-hive`, `#the-rogue-hive` | Yes (9 files) |
 | `wiki/history/beta-war.md` | `/wiki/history/beta-war/` | event | — | Yes (16 files) |
 | `wiki/history/index.md` | `/wiki/history/` | portal | — | Yes (16 files) |

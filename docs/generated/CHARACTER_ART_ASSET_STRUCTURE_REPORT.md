@@ -43,6 +43,7 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 - Added Pip's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
 - Added Zerak's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
 - Added Raizen's dedicated Wiki Portrait while retaining his explicitly approved Beta War Character Sheet below the article.
+- Added Reika's approved Character Sheet and public character route under Seven Sigils Characters.
 - Added Bram's dedicated Wiki Portrait with a name-only public entry.
 - Added public Human, Elf, Dwarf, Hiveborn, and Dragonkind generic race reference assets.
 
@@ -55,6 +56,7 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 - Added Pip's portrait under `01-Characters/Pip/Wiki/`.
 - Added Zerak's portrait under `01-Characters/Zerak/Wiki/`.
 - Added Raizen's portrait under `01-Characters/Raizen/Wiki/`.
+- Added Reika's sheet under `01-Characters/Reika/Approved/`.
 
 ## Migration and Fallback
 
@@ -91,10 +93,10 @@ The supplied Vargan file is byte-for-byte identical to the existing private appr
 
 ## Validation
 
-- Public URL contract: 74 routes; no existing route removed.
+- Public URL contract: 75 routes; no existing route removed.
 - Protected anchors: five; all valid.
 - Internal links, assets, navigation targets, and character image paths: valid.
-- Search JSON: valid with 53 unique entries.
+- Search JSON: valid with 54 unique entries.
 - Public and private YAML manifests: valid.
 - Rae spoiler scan: passed; no Rhaen, Dragonkind, alias, or hidden-identity disclosure.
 - Rae, Bram, and Deren name-only audit: passed; no lore/profile fields are rendered.

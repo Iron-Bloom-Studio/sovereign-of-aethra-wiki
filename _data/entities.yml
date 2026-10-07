@@ -72,6 +72,12 @@ rae:
   url: /wiki/characters/rae/
   content_type: character
 
+reika:
+  title: Reika
+  url: /wiki/characters/reika/
+  content_type: character
+  description: Daughter of Raizen.
+
 raizen:
   title: Raizen
   url: /wiki/characters/raizen/

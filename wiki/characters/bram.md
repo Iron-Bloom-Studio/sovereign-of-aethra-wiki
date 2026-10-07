@@ -1,6 +1,7 @@
 ---
 layout: character
 title: Bram
+categories: [Characters, Human Kingdom Characters]
 character_sheet: true
 character_looks:
   - id: portrait
