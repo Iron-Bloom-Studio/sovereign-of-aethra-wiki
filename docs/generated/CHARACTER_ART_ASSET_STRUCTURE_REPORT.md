@@ -42,6 +42,7 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 - Added Lysara's dedicated Wiki Portrait and updated Mage Character Sheet below the article.
 - Added Pip's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
 - Added Zerak's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
+- Added Raizen's dedicated Wiki Portrait while retaining his explicitly approved Beta War Character Sheet below the article.
 - Added Bram's dedicated Wiki Portrait with a name-only public entry.
 - Added public Human, Elf, Dwarf, Hiveborn, and Dragonkind generic race reference assets.
 
@@ -53,6 +54,7 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 - Added Lysara's portrait and current Mage sheet under `01-Characters/Lysara/Wiki/`.
 - Added Pip's portrait under `01-Characters/Pip/Wiki/`.
 - Added Zerak's portrait under `01-Characters/Zerak/Wiki/`.
+- Added Raizen's portrait under `01-Characters/Raizen/Wiki/`.
 
 ## Migration and Fallback
 
