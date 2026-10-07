@@ -2,6 +2,7 @@
 layout: character
 title: Rolan
 description: Guildmaster of the Arklune Adventurers' Guild.
+categories: [Characters, Human Kingdom Characters, Beta War Characters]
 character_sheet: true
 character_looks:
   - id: guildmaster

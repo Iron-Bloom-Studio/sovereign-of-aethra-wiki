@@ -2,7 +2,7 @@ public_story_phase: pre-volume-1
 spoiler_level: 0
 entities:
   world: [terra, aethra]
-  characters: [luca, serena, lysara, zerak, pip, rae, bram, deren, garling, rolan, eldren, raizen, reika]
+  characters: [luca, serena, lysara, zerak, pip, rae, bram, deren, garling, rolan, eldren, raizen, reika, gorzan]
   races: [human, dwarf, elf, goblin, hiveborn, dragonkind, ogre, orc, harpy, gargoyle]
   evolution: [oni]
   terminology: [demonkind]
@@ -33,6 +33,7 @@ assets:
   - RAIZEN_BETA_MASTER_v01
   - SOA_RAIZEN_WIKI_PORTRAIT_v01
   - SOA_REIKA_CHARACTER_SHEET_v01
+  - SOA_GORZAN_CHARACTER_SHEET_v01
   - ELDREN_YOUNG_PROLOGUE_MASTER_v1.0
   - ROLAN_YOUNG_PROLOGUE_MASTER_v1.0
   - AVEN_VILLAGE_v1

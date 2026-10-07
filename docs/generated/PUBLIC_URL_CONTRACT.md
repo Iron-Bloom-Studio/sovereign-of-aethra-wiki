@@ -6,7 +6,7 @@ This inventory is generated from the current Jekyll source. Documentation files 
 
 ## Summary
 
-- Public page URLs: **75**
+- Public page URLs: **76**
 - Protected anchor destinations: **5**
 - Permalink mode: `pretty`
 - Production base URL: `/sovereign-of-aethra-wiki`
@@ -28,7 +28,7 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | Source file | Current URL | Content type | Referenced anchors | Referenced elsewhere? |
 |---|---|---|---|---|
 | `404.html` | `/404.html` | error page | — | No detected references |
-| `index.md` | `/` | homepage | — | Yes (72 files) |
+| `index.md` | `/` | homepage | — | Yes (73 files) |
 | `search/index.md` | `/search/` | search utility | — | No detected references |
 | `wiki/about.md` | `/wiki/about/` | meta | — | No detected references |
 | `wiki/artwork.md` | `/wiki/artwork/` | gallery | — | No detected references |
@@ -44,6 +44,7 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/characters/deren.md` | `/wiki/characters/deren/` | character | — | Yes (1 files) |
 | `wiki/characters/eldren.md` | `/wiki/characters/eldren/` | character | — | Yes (3 files) |
 | `wiki/characters/garling.md` | `/wiki/characters/garling/` | character | — | Yes (12 files) |
+| `wiki/characters/gorzan.md` | `/wiki/characters/gorzan/` | character | — | Yes (1 files) |
 | `wiki/characters/index.md` | `/wiki/characters/` | portal | — | Yes (21 files) |
 | `wiki/characters/luca.md` | `/wiki/characters/luca/` | character | — | Yes (5 files) |
 | `wiki/characters/lysara.md` | `/wiki/characters/lysara/` | character | — | Yes (2 files) |

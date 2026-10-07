@@ -13,7 +13,7 @@ character_looks:
     caption: Garling during the Beta War.
 era: Beta War
 race: Human
-categories: [Characters, Human, Beta War Characters]
+categories: [Characters, Human, Human Kingdom Characters, Beta War Characters]
 related: [raizen, beta-war]
 infobox:
   name: Garling

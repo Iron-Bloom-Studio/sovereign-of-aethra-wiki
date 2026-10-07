@@ -57,6 +57,11 @@ characters:
   url: /wiki/characters/
   content_type: portal
 
+gorzan:
+  title: Gorzan
+  url: /wiki/characters/gorzan/
+  content_type: character
+
 bram:
   title: Bram
   url: /wiki/characters/bram/

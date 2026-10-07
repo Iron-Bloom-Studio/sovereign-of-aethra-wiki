@@ -2,6 +2,7 @@
 layout: character
 title: Eldren
 description: Young Elven Spellblade and Aethra Scholar associated with the Beta War.
+categories: [Characters, Elven Realm Characters, Beta War Characters]
 artwork_era: Beta War — Young
 infobox:
   name: Eldren
