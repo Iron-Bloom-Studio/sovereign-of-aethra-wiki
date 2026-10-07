@@ -3,6 +3,8 @@ header:
   - entity: lore
     label: Lore Index
   - entity: about
+  - entity: novel
+    label: Read the Novel ↗
 
 sidebar:
   - items:
