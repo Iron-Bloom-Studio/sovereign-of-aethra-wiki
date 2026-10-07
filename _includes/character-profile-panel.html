@@ -1,0 +1,49 @@
+{% assign profile = page.infobox %}
+{% assign looks = page.character_looks %}
+{% assign character_key = page.slug | default: page.title | slugify %}
+<aside class="character-profile-panel" aria-label="{{ page.title }} visual profile">
+  <h2>{{ profile.name | default: page.title }}</h2>
+
+  {% if looks and looks.size > 0 %}
+  <div class="character-look-selector" data-tabs>
+    <div class="character-look-selector__tabs" role="tablist" aria-label="Public character looks">
+      {% for look in looks %}
+      <button id="character-look-tab-{{ character_key }}-{{ look.id }}" type="button" role="tab" aria-controls="character-look-panel-{{ character_key }}-{{ look.id }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" tabindex="{% if forloop.first %}0{% else %}-1{% endif %}">{{ look.label | default: look.id }}</button>
+      {% endfor %}
+    </div>
+    {% for look in looks %}
+    <section id="character-look-panel-{{ character_key }}-{{ look.id }}" class="character-look-selector__panel" role="tabpanel" aria-labelledby="character-look-tab-{{ character_key }}-{{ look.id }}"{% unless forloop.first %} hidden{% endunless %}>
+      {% if look.image %}
+      <a class="lightbox-link character-profile-panel__image-link" href="{{ look.image | relative_url }}" data-lightbox data-caption="{{ look.caption | default: look.alt | default: page.title }}">
+        <img class="character-profile-panel__image" {% unless forloop.first %}loading="lazy" {% endunless %}src="{{ look.image | relative_url }}" alt="{{ look.alt | default: page.title }}">
+      </a>
+      {% else %}
+      <div class="character-profile-panel__placeholder" role="img" aria-label="Artwork not yet publicly available for {{ look.label | default: page.title }}">
+        <span>Artwork Not Yet Publicly Available</span>
+      </div>
+      {% endif %}
+      {% if look.caption %}<p class="character-profile-panel__caption">{{ look.caption }}</p>{% endif %}
+      {% if look.fields %}
+      <dl class="character-profile-panel__look-fields">
+        {% for item in look.fields %}{% if item[1] != nil and item[1] != '' %}<dt>{{ item[0] }}</dt><dd>{{ item[1] }}</dd>{% endif %}{% endfor %}
+      </dl>
+      {% endif %}
+    </section>
+    {% endfor %}
+  </div>
+  {% elsif profile.image %}
+  <a class="lightbox-link character-profile-panel__image-link" href="{{ profile.image | relative_url }}" data-lightbox data-caption="{{ profile.image_alt | default: page.title }}">
+    <img class="character-profile-panel__image" src="{{ profile.image | relative_url }}" alt="{{ profile.image_alt | default: page.title }}">
+  </a>
+  {% elsif page.show_artwork_placeholder != false %}
+  <div class="character-profile-panel__placeholder" role="img" aria-label="Artwork not yet publicly available for {{ page.title }}">
+    <span>Artwork Not Yet Publicly Available</span>
+  </div>
+  {% endif %}
+
+  {% if profile.fields %}
+  <dl class="character-profile-panel__facts">
+    {% for item in profile.fields %}{% if item[1] != nil and item[1] != '' %}<dt>{{ item[0] }}</dt><dd>{{ item[1] }}</dd>{% endif %}{% endfor %}
+  </dl>
+  {% endif %}
+</aside>

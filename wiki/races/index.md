@@ -6,7 +6,7 @@ description: Reader-safe guide to biological identity and publicly revealed Natu
 <p class="breadcrumb">Home › Races</p>
 # Races of Terra
 
-Terra is home to many sapient peoples. A person's **race** describes biological lineage; it does not determine morality, political allegiance, profession, or destiny.
+Terra is home to many sapient peoples. A person's **race** describes biological lineage; it does not determine morality, political allegiance, profession, Class, Authority, or destiny.
 
 ## Race and Natural Evolution
 
@@ -21,7 +21,7 @@ This Wiki shows only evolution paths already revealed to readers. Unknown or unr
 - Rune Sigil recognition is associated with the title **Hero**.
 - Demon Sigil recognition is associated with the title **Demon Lord**.
 
-Sigil recognition is not biological evolution. See [Sigils and Authority]({{ '/wiki/systems/sigils/' | relative_url }}).
+Sigil recognition is not biological evolution. See [Sigils]({{ '/wiki/systems/sigils/' | relative_url }}).
 
 ## Race Is Not Allegiance
 
@@ -29,7 +29,7 @@ A race is not automatically bound to a kingdom, faction, civilization, or politi
 
 ## Monsters and Peoples
 
-The word *monster* does not automatically identify a biological race. The Wiki distinguishes social terminology from biological classification whenever that distinction is known.
+The word *monster* does not automatically identify a biological race. Sapient peoples are documented here according to approved biological classification; creatures documented as wildlife or monsters belong to the separate Bestiary archive, which is not yet publicly available.
 
 ## Known Peoples
 
@@ -48,21 +48,22 @@ The word *monster* does not automatically identify a biological race. The Wiki d
 
 ## Publicly Revealed Natural Evolution
 
-<div class="cards"><a class="card" href="{{ '/wiki/races/oni/' | relative_url }}"><strong>Oni</strong>A Natural Evolution form of Ogre.</a><a class="card" href="{{ '/wiki/systems/natural-evolution/' | relative_url }}"><strong>Natural Evolution</strong>Reader-safe overview of revealed pathways.</a></div>
+<div class="tree"><a href="{{ '/wiki/races/elf/' | relative_url }}">Elf</a>
+├─ High Elf
+└─ Dark Elf
+
+<a href="{{ '/wiki/races/ogre/' | relative_url }}">Ogre</a>
+└─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a></div>
+
+No Natural Evolution is known for Human or Dwarf.
 
 ## Historical and Social Terminology
 
 [Demonkind]({{ '/wiki/races/demonkind/' | relative_url }}) is an in-world umbrella term, not one biological race or a parent branch of the Race Tree.
 
-## Luca
-
-At the current public narrative state:
-
-**Race: Human**
-
 ## See Also
 
 - [Natural Evolution]({{ '/wiki/systems/natural-evolution/' | relative_url }})
 - [Class]({{ '/wiki/systems/class/' | relative_url }})
-- [Sigils and Authority]({{ '/wiki/systems/sigils/' | relative_url }})
+- [Sigils]({{ '/wiki/systems/sigils/' | relative_url }})
 - [Luca]({{ '/wiki/characters/luca/' | relative_url }})

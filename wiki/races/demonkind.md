@@ -21,5 +21,5 @@ Demon Sigils are Authorities rather than biological traits. Recognition by a Sig
 
 - [Races of Terra]({{ '/wiki/races/' | relative_url }})
 - [Ogre]({{ '/wiki/races/ogre/' | relative_url }})
-- [The Seven Demon Sigils]({{ '/wiki/factions/seven-sigils/' | relative_url }})
+- [The Seven Sigils]({{ '/wiki/factions/seven-sigils/' | relative_url }})
 - [Sigils and Authority]({{ '/wiki/systems/sigils/' | relative_url }})

@@ -48,7 +48,7 @@ categories: [Factions, Great Powers]
 
 <article class="card faction-card">
 <p class="eyebrow">Ancient Authority / Political Domain Framework</p>
-<h2><a href="{{ '/wiki/factions/seven-sigils/' | relative_url }}">The Seven Demon Sigils</a></h2>
+<h2><a href="{{ '/wiki/factions/seven-sigils/' | relative_url }}">The Seven Sigils</a></h2>
 <p>The Sigils are Ancient Authorities. Their recognized bearers and historically associated political domains are distinct from the Authorities themselves.</p>
 <p class="sigil-list" aria-label="Seven Sigils">Alpha · Beta · Gamma · Delta · Theta · Sigma · Omega</p>
 </article>

@@ -7,10 +7,13 @@ entities:
   evolution: [oni]
   terminology: [demonkind]
   realms: [astrelia, verenza, solmaria, eldoria, auregrad, arklune, sylvaris, dwarven-holds, the-hive, dragon-throne]
-  factions: [grand-concord, dwarven-holds, the-hive, dragon-throne]
+  factions: [grand-concord, dwarven-holds, the-hive, dragon-throne, seven-sigils]
+  organizations: [grand-adventurer-guild]
+  other_factions: [rogue-hive]
   locations: [terra, aven, arklune, astrelia, verenza, solmaria, eldoria, auregrad, sylvaris, khazir]
   history: [beta-war]
-  systems: [natural-evolution, class, sigils, seven-sigils]
+  systems: [natural-evolution, class, magic, sigils]
+  archives: [relics-artifacts]
   novels: [prologue-id, prologue-en]
 assets:
   - SOA_TERRA_WORLD_MAP_v01

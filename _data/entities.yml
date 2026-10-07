@@ -16,6 +16,11 @@ world:
   url: /wiki/world/
   content_type: portal
 
+realms:
+  title: Realms & Civilizations
+  url: /wiki/realms/
+  content_type: portal
+
 great-powers:
   title: Great Powers
   url: /wiki/factions/
@@ -31,6 +36,21 @@ bestiary:
   content_type: portal
   available: false
   note: No approved public Bestiary landing page exists yet.
+
+relics-artifacts:
+  title: Relics & Artifacts
+  url: /wiki/relics-artifacts/
+  content_type: portal
+
+magic:
+  title: Magic
+  url: /wiki/magic/
+  content_type: portal
+
+sigils:
+  title: Sigils
+  url: /wiki/systems/sigils/
+  content_type: portal
 
 characters:
   title: Characters
@@ -122,20 +142,21 @@ dragon-throne:
 seven-sigils:
   title: The Seven Sigils
   url: /wiki/factions/seven-sigils/
-  content_type: great_power_group
-  classification: Authority / geopolitical framework
+  content_type: great_power
+  classification: Authority-based geopolitical Great Power
   children: [alpha, beta, gamma, delta, theta, sigma, omega]
 
 arklune:
   title: Free City of Arklune
   url: /wiki/locations/arklune/
-  content_type: other_faction
+  content_type: independent_city_state
   classification: Independent Free City / city-state
 
 grand-adventurer-guild:
   title: Grand Adventurer Guild
   url: /wiki/locations/arklune/#the-grand-adventurer-guild
-  content_type: other_faction
+  content_type: organization
+  classification: International adventuring institution
   destination_type: section
 
 beta-remnant:

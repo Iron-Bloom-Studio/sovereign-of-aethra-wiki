@@ -16,10 +16,10 @@
   <body>
     <a class="skip-link" href="#article">Skip to article</a>
     <header class="site-header"><a class="wordmark" href="{{ '/' | relative_url }}">Sovereign of Aethra<span>Wiki · The Encyclopedia of Terra</span></a><nav class="header-links" aria-label="Primary navigation">{% include navigation-tree.html items=site.data.navigation.header variant='header' %}</nav><button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Browse</button><label class="search"><span class="sr-only">Search wiki</span><input id="wiki-search" type="search" placeholder="Search the wiki" autocomplete="off"><span id="search-results" role="listbox"></span></label></header>
-    <div class="site-grid">
+    <div class="site-grid{% if page.character_sheet %} site-grid--character-sheet{% endif %}">
       {% include nav.html %}
       <main id="article" class="article">{% if page.manuscript %}<div style="white-space: pre-line">{{ content }}</div>{% else %}{{ content }}{% endif %}</main>
-      {% if page.infobox %}{% include typed-infobox.html %}{% endif %}
+      {% if page.infobox and page.character_sheet != true %}{% include typed-infobox.html %}{% endif %}
     </div>
     <footer><strong>SOVEREIGN OF AETHRA</strong><span>Official World Encyclopedia</span><nav aria-label="Footer navigation">{% include navigation-tree.html items=site.data.navigation.footer variant='footer' %}</nav></footer>
     <script src="{{ '/assets/wiki/wiki.js' | relative_url }}"></script>

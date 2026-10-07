@@ -11,15 +11,19 @@ categories: [Systems, Evolution]
 <p class="breadcrumb">Home › Systems › Natural Evolution</p>
 # Natural Evolution
 
-Natural Evolution permanently transforms body and Aethra Pattern along racial pathways. It is distinct from Race, Class, and Authority.
+Natural Evolution is lasting biological development along a lineage's known pathways. It is distinct from Class advancement, magical training, political status, and Authority recognition.
 
 ## Known Public Paths
 
-<div class="tree"><a href="{{ '/wiki/races/elf/' | relative_url }}">Elf</a> ─┬─ High Elf
-     └─ Dark Elf
+<div class="tree"><a href="{{ '/wiki/races/elf/' | relative_url }}">Elf</a>
+├─ High Elf
+└─ Dark Elf
 
-<a href="{{ '/wiki/races/ogre/' | relative_url }}">Ogre</a> ─└─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a></div>
+<a href="{{ '/wiki/races/ogre/' | relative_url }}">Ogre</a>
+└─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a></div>
+
+No Natural Evolution is known for Human or Dwarf. Only publicly documented paths are listed.
 
 ## Related Articles
 
-<ul class="related-list"><li><a href="{{ '/wiki/races/' | relative_url }}">Races of Terra</a></li><li><a href="{{ '/wiki/systems/class/' | relative_url }}">Class</a></li><li><a href="{{ '/wiki/systems/sigils/' | relative_url }}">Sigils and Authority</a></li></ul>
+<ul class="related-list"><li><a href="{{ '/wiki/races/' | relative_url }}">Races of Terra</a></li><li><a href="{{ '/wiki/systems/class/' | relative_url }}">Class</a></li><li><a href="{{ '/wiki/systems/sigils/' | relative_url }}">Sigils</a></li></ul>

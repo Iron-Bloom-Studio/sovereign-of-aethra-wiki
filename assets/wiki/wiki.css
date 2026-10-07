@@ -7,6 +7,12 @@
   list-style: none;
 }
 
+.portal-card--unavailable {
+  border-style: dashed;
+  color: var(--muted);
+  box-shadow: none;
+}
+
 .nav-tree__item {
   margin: 0;
   padding: 0;

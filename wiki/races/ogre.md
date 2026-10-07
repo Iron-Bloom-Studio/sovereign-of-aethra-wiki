@@ -9,7 +9,7 @@ infobox:
   fields:
     Classification: Race
     Known evolution: Oni
-categories: [Races, Demonkind]
+categories: [Races]
 ---
 <p class="breadcrumb">Home › Races › Ogre</p>
 # Ogre

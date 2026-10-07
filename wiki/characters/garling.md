@@ -4,15 +4,19 @@ title: Garling
 slug: garling
 category: character
 description: Human Hero of the Beta War.
-artwork_era: Beta War — Young
+character_sheet: true
+character_looks:
+  - id: young
+    label: Young
+    image: /assets/characters/garling/GARLING_YOUNG_PROLOGUE_MASTER_v1.0.png
+    alt: Young Garling character reference
+    caption: Garling during the Beta War.
 era: Beta War
 race: Human
 categories: [Characters, Human, Beta War Characters]
 related: [raizen, beta-war]
 infobox:
   name: Garling
-  image: /assets/characters/garling/GARLING_YOUNG_PROLOGUE_MASTER_v1.0.png
-  image_alt: Young Garling character reference
   fields:
     Race: Human
     Age: Approximately 28–32 during Beta War
@@ -20,8 +24,7 @@ infobox:
     Authority: Rune Sigil — 1st Form
     Era: Beta War
 ---
-<p class="breadcrumb">Home › Characters › Beta War › Garling</p>
-# Garling
+## Background
 
 Garling was a young Human Hero and frontline swordsman during the Beta War, approximately 43 years before the main story. He bears an active Rune Sigil in its 1st Form.
 

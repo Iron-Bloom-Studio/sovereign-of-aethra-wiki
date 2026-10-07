@@ -9,13 +9,12 @@ infobox:
   fields:
     Classification: Natural Evolution
     Base race: Ogre
-    Evolution stage: 1
 categories: [Evolution]
 ---
 <p class="breadcrumb">Home › Natural Evolution › Ogre › Oni</p>
 # Oni
 
-Oni is a natural Stage 1 evolution from Ogre, associated with refined Aethra, control, precision, and technique while retaining great physical ability.
+Oni is a publicly known Natural Evolution form of Ogre.
 
 <div class="tree">Ogre
 └─ Oni</div>

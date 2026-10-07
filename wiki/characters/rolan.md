@@ -1,23 +1,22 @@
 ---
 layout: character
 title: Rolan
-description: Young Human field commander and Banner Lord associated with the Beta War.
-artwork_era: Beta War — Young
+description: Guildmaster of the Arklune Adventurers' Guild.
+character_sheet: true
+character_looks:
+  - id: guildmaster
+    label: Guildmaster
+    caption: No approved Guildmaster-era artwork is currently published.
 infobox:
   name: Rolan
-  image: /assets/characters/rolan/ROLAN_YOUNG_PROLOGUE_MASTER_v1.0.png
-  image_alt: Approved young Rolan character reference
   fields:
     Race: Human
-    Role: Field Commander / Banner Lord
-    Rank: Legendary-class Adventurer
-    Era: Beta War
+    Role: Guildmaster of the Arklune Adventurers' Guild
 ---
-<p class="breadcrumb">Home › Characters › Beta War › Rolan</p>
-# Rolan
+## Background
 
-Rolan is a young Human field commander and Banner Lord associated with the Beta War. Public character material presents him as a dependable strategist who leads from the front and rallies those beside him.
+Rolan is the Guildmaster of the Arklune Adventurers' Guild. Public historical material also presents a younger Rolan as a dependable field commander associated with the Beta War.
 
 ## Related Articles
 
-[Human]({{ '/wiki/races/human/' | relative_url }}) · [Garling]({{ '/wiki/characters/garling/' | relative_url }}) · [Eldren]({{ '/wiki/characters/eldren/' | relative_url }}) · [Beta War]({{ '/wiki/history/beta-war/' | relative_url }})
+[Grand Adventurer Guild]({{ '/wiki/locations/arklune/#the-grand-adventurer-guild' | relative_url }}) · [Human]({{ '/wiki/races/human/' | relative_url }}) · [Garling]({{ '/wiki/characters/garling/' | relative_url }}) · [Eldren]({{ '/wiki/characters/eldren/' | relative_url }}) · [Beta War]({{ '/wiki/history/beta-war/' | relative_url }})

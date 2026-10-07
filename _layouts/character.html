@@ -1,14 +1,35 @@
 ---
-layout: article
+layout: default
 ---
-{{ content }}
-{% if page.infobox.image %}{% unless page.gallery %}
-<section class="character-gallery" aria-labelledby="gallery-heading">
-  <h2 id="gallery-heading">Gallery</h2>
-  <div class="era-tabs" role="tablist" aria-label="Public artwork eras">
-    <button class="era-tab active" type="button" role="tab" aria-selected="true">{{ page.artwork_era | default: 'Current Public Reference' }}</button>
-    <button class="era-tab unavailable" type="button" disabled title="Artwork for this era has not been publicly released">Other eras — Not Yet Public</button>
+{% if page.character_sheet %}
+<article class="character-profile">
+  <header class="character-profile__header">
+    {% include breadcrumbs.html %}
+    <p class="article-header__type">Character</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="character-profile__summary">{{ page.description }}</p>{% endif %}
+    {% include article-chips.html %}
+  </header>
+  <div class="character-profile__layout">
+    <div class="character-profile__article">
+      {% if page.toc %}{% include table-of-contents.html %}{% endif %}
+      {{ content }}
+      {% if page.gallery %}{% include image-gallery.html %}{% endif %}
+      {% if page.show_related and page.related %}{% include related-articles.html %}{% endif %}
+    </div>
+    {% include character-profile-panel.html %}
   </div>
-  <a class="lightbox-link character-sheet" href="{{ page.infobox.image | relative_url }}" data-lightbox data-caption="{{ page.infobox.image_alt | default: page.title }}"><img loading="lazy" src="{{ page.infobox.image | relative_url }}" alt="{{ page.infobox.image_alt | default: page.title }}"><span>{{ page.artwork_era | default: 'Current Public Reference' }}</span></a>
-</section>
-{% endunless %}{% endif %}
+</article>
+{% else %}
+  {{ content }}
+  {% if page.infobox.image %}{% unless page.gallery %}
+  <section class="character-gallery" aria-labelledby="gallery-heading">
+    <h2 id="gallery-heading">Gallery</h2>
+    <div class="era-tabs" role="tablist" aria-label="Public artwork eras">
+      <button class="era-tab active" type="button" role="tab" aria-selected="true">{{ page.artwork_era | default: 'Current Public Reference' }}</button>
+      <button class="era-tab unavailable" type="button" disabled title="Artwork for this era has not been publicly released">Other eras — Not Yet Public</button>
+    </div>
+    <a class="lightbox-link character-sheet" href="{{ page.infobox.image | relative_url }}" data-lightbox data-caption="{{ page.infobox.image_alt | default: page.title }}"><img loading="lazy" src="{{ page.infobox.image | relative_url }}" alt="{{ page.infobox.image_alt | default: page.title }}"><span>{{ page.artwork_era | default: 'Current Public Reference' }}</span></a>
+  </section>
+  {% endunless %}{% endif %}
+{% endif %}

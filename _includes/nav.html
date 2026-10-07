@@ -1,6 +1,6 @@
 <nav id="site-nav" class="site-nav" aria-label="Wiki navigation">
   {% for section in site.data.navigation.sidebar %}
-    <p>{{ section.title }}</p>
+    {% if section.title %}<p>{{ section.title }}</p>{% endif %}
     {% include navigation-tree.html items=section.items variant='sidebar' %}
   {% endfor %}
 </nav>

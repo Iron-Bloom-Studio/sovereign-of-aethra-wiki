@@ -5,42 +5,15 @@ header:
   - entity: about
 
 sidebar:
-  - title: Explore
-    items:
+  - items:
       - entity: world
-      - entity: great-powers
+      - entity: realms
       - entity: races
-      - entity: bestiary
       - entity: characters
-      - entity: locations
-      - entity: history
-      - entity: lore
-
-  - title: Great Powers
-    items:
-      - entity: grand-concord
-      - entity: wardens-great-tree
-      - entity: dwarven-holds
-      - entity: the-hive
-      - entity: dragon-throne
-      - entity: seven-sigils
-
-  - title: Other Factions
-    items:
-      - entity: arklune
-      - entity: grand-adventurer-guild
-      - entity: beta-remnant
-      - entity: rogue-hive
-
-  - title: The Seven Sigils
-    items:
-      - entity: alpha
-      - entity: beta
-      - entity: gamma
-      - entity: delta
-      - entity: theta
-      - entity: sigma
-      - entity: omega
+      - entity: bestiary
+      - entity: relics-artifacts
+      - entity: magic
+      - entity: sigils
 
 footer:
   - entity: world

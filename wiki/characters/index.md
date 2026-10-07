@@ -1,15 +1,20 @@
 ---
 layout: default
 title: Characters
+description: Directory of characters with approved public profiles.
 ---
 <p class="breadcrumb">Home › Characters</p>
 # Characters
 
+This directory includes characters with approved public profiles.
+
 ## Founding Five
 
-<div id="founding-five" class="cards"><a class="card" href="{{ '/wiki/characters/luca/' | relative_url }}"><strong>Luca</strong>Human · Low-rank adventurer</a><a class="card" href="{{ '/wiki/characters/serena/' | relative_url }}"><strong>Serena</strong>Human · Former knight</a><a class="card" href="{{ '/wiki/characters/lysara/' | relative_url }}"><strong>Lysara</strong>Elf · Ranger</a><a class="card" href="{{ '/wiki/characters/zerak/' | relative_url }}"><strong>Zerak</strong>Hiveborn · Lance user</a><a class="card" href="{{ '/wiki/characters/pip/' | relative_url }}"><strong>Pip</strong>Goblin · Traveler</a></div>
+The core group of characters whose journeys become closely intertwined during the early story.
 
-## Beta War
+<div class="cards"><a class="card" href="{{ '/wiki/characters/luca/' | relative_url }}"><strong>Luca</strong>Human · Low-rank adventurer</a><a class="card" href="{{ '/wiki/characters/serena/' | relative_url }}"><strong>Serena</strong>Human · Former knight</a><a class="card" href="{{ '/wiki/characters/lysara/' | relative_url }}"><strong>Lysara</strong>Elf · Ranger</a><a class="card" href="{{ '/wiki/characters/zerak/' | relative_url }}"><strong>Zerak</strong>Hiveborn · Lance user</a><a class="card" href="{{ '/wiki/characters/pip/' | relative_url }}"><strong>Pip</strong>Goblin · Traveler</a></div>
+
+## Historical Figures
 
 <div id="beta-war" class="cards"><a class="card" href="{{ '/wiki/characters/garling/' | relative_url }}"><strong>Garling</strong>Human Hero · Beta War</a><a class="card" href="{{ '/wiki/characters/rolan/' | relative_url }}"><strong>Rolan</strong>Human field commander · Beta War</a><a class="card" href="{{ '/wiki/characters/eldren/' | relative_url }}"><strong>Eldren</strong>Elf scholar · Beta War</a><a class="card" href="{{ '/wiki/characters/raizen/' | relative_url }}"><strong>Raizen</strong>Oni King · Beta War</a></div>
 

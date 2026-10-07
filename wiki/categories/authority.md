@@ -6,4 +6,4 @@ description: Public articles about recognition-based Authority systems and title
 <p class="breadcrumb">Home › Categories › Authority</p>
 # Category: Authority
 
-<div class="cards"><a class="card" href="{{ '/wiki/systems/sigils/' | relative_url }}"><strong>Sigils and Authority</strong>Reader-safe overview of Rune and Demon Sigil recognition.</a><a class="card" href="{{ '/wiki/factions/seven-sigils/' | relative_url }}"><strong>Seven Demon Sigils</strong>Ancient Authorities associated with Dominion and the title Demon Lord.</a></div>
+<div class="cards"><a class="card" href="{{ '/wiki/systems/sigils/' | relative_url }}"><strong>Sigils</strong>Reader-safe overview of recognition-based Authorities and their bearers.</a><a class="card" href="{{ '/wiki/factions/seven-sigils/' | relative_url }}"><strong>The Seven Sigils</strong>The geopolitical Great Power associated with the known Sigil domains.</a></div>
