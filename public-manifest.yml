@@ -2,7 +2,7 @@ public_story_phase: pre-volume-1
 spoiler_level: 0
 entities:
   world: [terra, aethra]
-  characters: [luca, serena, lysara, zerak, pip, garling, rolan, eldren, raizen]
+  characters: [luca, serena, lysara, zerak, pip, rae, bram, deren, garling, rolan, eldren, raizen]
   races: [human, dwarf, elf, goblin, hiveborn, dragonkind, ogre, orc, harpy, gargoyle]
   evolution: [oni]
   terminology: [demonkind]
@@ -20,10 +20,14 @@ assets:
   - TERRA_GREAT_CONTINENT_PANORAMA_v1
   - AETHRA_NATURAL_WORLD_FLOW_v1
   - SOA_LUCA_SIMPLE_MASTER_v02
+  - SOA_LUCA_WIKI_PORTRAIT_v01
   - SOA_SERENA_SIMPLE_MASTER_v02
-  - SOA_LYSARA_SIMPLE_MASTER_v03
+  - SOA_SERENA_WIKI_PORTRAIT_v01
+  - SOA_LYSARA_MAGE_MASTER_v04
+  - SOA_LYSARA_WIKI_PORTRAIT_v01
   - SOA_ZERAK_SIMPLE_MASTER_v03
   - SOA_PIP_SIMPLE_MASTER_v02
+  - SOA_PIP_WIKI_PORTRAIT_v01
   - GARLING_YOUNG_PROLOGUE_MASTER_v1.0
   - RAIZEN_BETA_MASTER_v01
   - ELDREN_YOUNG_PROLOGUE_MASTER_v1.0
@@ -50,6 +54,11 @@ assets:
   - DRAGON_THRONE_FIELD_SILVER_DRAGON_BANNER_v1
   - GRAND_CONCORD_FOUNDING_CEREMONY_CONCEPT_v0.1
   - SOA_GOBLIN_RACE_REFERENCE_v01
+  - SOA_HUMAN_RACE_REFERENCE_v01
+  - SOA_ELF_RACE_REFERENCE_v01
+  - SOA_DWARF_RACE_REFERENCE_v01
+  - SOA_HIVEBORN_RACE_REFERENCE_v01
+  - SOA_DRAGONKIND_RACE_REFERENCE_v01
   - SOA_OGRE_RACE_REFERENCE_v01
   - SOA_ONI_EVOLUTION_REFERENCE_v01
   - SOA_ORC_RACE_REFERENCE_v01
@@ -58,3 +67,6 @@ assets:
   - SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_EXTERIOR_v01
   - SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_INTERIOR_v01
   - SOA_ARKLUNE_CEREMONIAL_BANNER_v01
+  - SOA_RAE_WIKI_PORTRAIT_v01
+  - SOA_BRAM_WIKI_PORTRAIT_v01
+  - SOA_DEREN_WIKI_PORTRAIT_v01

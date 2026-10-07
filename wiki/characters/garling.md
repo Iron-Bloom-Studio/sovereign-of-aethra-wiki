@@ -8,8 +8,8 @@ character_sheet: true
 character_looks:
   - id: young
     label: Young
-    image: /assets/characters/garling/GARLING_YOUNG_PROLOGUE_MASTER_v1.0.png
-    alt: Young Garling character reference
+    reference_sheet: /assets/characters/garling/GARLING_YOUNG_PROLOGUE_MASTER_v1.0.png
+    reference_sheet_alt: Young Garling production reference sheet
     caption: Garling during the Beta War.
 era: Beta War
 race: Human

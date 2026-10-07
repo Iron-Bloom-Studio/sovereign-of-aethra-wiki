@@ -1,0 +1,23 @@
+{% assign looks = page.character_looks %}
+{% assign has_public_reference = false %}
+{% for look in looks %}{% if look.reference_sheet and look.publish_reference_sheet == true %}{% assign has_public_reference = true %}{% endif %}{% endfor %}
+{% if has_public_reference %}
+<section class="article-gallery character-reference-gallery" aria-labelledby="character-reference-title">
+  <h2 id="character-reference-title">Character Reference</h2>
+  <div class="article-gallery__grid">
+    {% for look in looks %}
+      {% if look.reference_sheet and look.publish_reference_sheet == true %}
+      <figure class="article-gallery__item">
+        <a class="lightbox-link" href="{{ look.reference_sheet | relative_url }}" data-lightbox data-caption="{{ look.reference_sheet_caption | default: look.reference_sheet_alt | default: page.title }}">
+          <img loading="lazy" src="{{ look.reference_sheet | relative_url }}" alt="{{ look.reference_sheet_alt | default: page.title }}">
+        </a>
+        <figcaption>
+          <strong>{{ look.label | default: look.id }} character sheet</strong>
+          {% if look.reference_sheet_caption %}<span>{{ look.reference_sheet_caption }}</span>{% endif %}
+        </figcaption>
+      </figure>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

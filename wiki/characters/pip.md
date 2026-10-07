@@ -1,15 +1,23 @@
 ---
 layout: character
 title: Pip
-artwork_era: Initial Form — Standard Sheet
+description: Goblin traveler from a small tribe near Monster Forest.
+character_sheet: true
+character_looks:
+  - id: present
+    label: Present
+    portrait: /assets/characters/pip/wiki/SOA_PIP_WIKI_PORTRAIT_v01.png
+    portrait_alt: Pip in his early-story traveler attire holding a dagger
+    portrait_caption: Pip during the early story.
+    reference_sheet: /assets/characters/pip/SOA_PIP_SIMPLE_MASTER_v02.png
+    reference_sheet_alt: Pip early-story character reference sheet
+    reference_sheet_caption: Approved early-story production reference.
+    publish_reference_sheet: true
 infobox:
   name: Pip
-  image: /assets/characters/pip/SOA_PIP_SIMPLE_MASTER_v02.png
-  image_alt: Pip simplified character reference sheet
   fields:
     Race: Goblin
 ---
-<p class="breadcrumb">Home › Characters › Pip</p>
-# Pip
+## Background
 
 Pip is a Goblin traveler from a small tribe near Monster Forest.

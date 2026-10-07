@@ -12,17 +12,20 @@
       {% endfor %}
     </div>
     {% for look in looks %}
+    {% assign panel_image = look.portrait | default: look.image | default: look.reference_sheet %}
+    {% assign panel_alt = look.portrait_alt | default: look.alt | default: look.reference_sheet_alt | default: page.title %}
+    {% assign panel_caption = look.portrait_caption | default: look.caption | default: look.reference_sheet_caption | default: panel_alt %}
     <section id="character-look-panel-{{ character_key }}-{{ look.id }}" class="character-look-selector__panel" role="tabpanel" aria-labelledby="character-look-tab-{{ character_key }}-{{ look.id }}"{% unless forloop.first %} hidden{% endunless %}>
-      {% if look.image %}
-      <a class="lightbox-link character-profile-panel__image-link" href="{{ look.image | relative_url }}" data-lightbox data-caption="{{ look.caption | default: look.alt | default: page.title }}">
-        <img class="character-profile-panel__image" {% unless forloop.first %}loading="lazy" {% endunless %}src="{{ look.image | relative_url }}" alt="{{ look.alt | default: page.title }}">
+      {% if panel_image %}
+      <a class="lightbox-link character-profile-panel__image-link" href="{{ panel_image | relative_url }}" data-lightbox data-caption="{{ panel_caption }}">
+        <img class="character-profile-panel__image{% if look.reference_sheet and look.portrait == nil and look.image == nil %} character-profile-panel__image--reference-fallback{% endif %}" {% unless forloop.first %}loading="lazy" {% endunless %}src="{{ panel_image | relative_url }}" alt="{{ panel_alt }}">
       </a>
       {% else %}
-      <div class="character-profile-panel__placeholder" role="img" aria-label="Artwork not yet publicly available for {{ look.label | default: page.title }}">
-        <span>Artwork Not Yet Publicly Available</span>
+      <div class="character-profile-panel__placeholder character-profile-panel__placeholder--compact" role="img" aria-label="Portrait not yet published for {{ look.label | default: page.title }}">
+        <span>Portrait not yet published.</span>
       </div>
       {% endif %}
-      {% if look.caption %}<p class="character-profile-panel__caption">{{ look.caption }}</p>{% endif %}
+      {% if panel_image and look.caption %}<p class="character-profile-panel__caption">{{ look.caption }}</p>{% endif %}
       {% if look.fields %}
       <dl class="character-profile-panel__look-fields">
         {% for item in look.fields %}{% if item[1] != nil and item[1] != '' %}<dt>{{ item[0] }}</dt><dd>{{ item[1] }}</dd>{% endif %}{% endfor %}

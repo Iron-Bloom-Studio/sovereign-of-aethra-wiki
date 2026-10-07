@@ -15,6 +15,7 @@ layout: default
       {% if page.toc %}{% include table-of-contents.html %}{% endif %}
       {{ content }}
       {% if page.gallery %}{% include image-gallery.html %}{% endif %}
+      {% include character-reference-gallery.html %}
       {% if page.show_related and page.related %}{% include related-articles.html %}{% endif %}
     </div>
     {% include character-profile-panel.html %}

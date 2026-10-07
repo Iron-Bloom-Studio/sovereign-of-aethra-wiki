@@ -6,9 +6,13 @@ character_sheet: true
 character_looks:
   - id: present
     label: Present
-    image: /assets/characters/luca/SOA_LUCA_SIMPLE_MASTER_v02.png
-    alt: Luca simplified character reference sheet
-    caption: Approved early-story visual reference.
+    portrait: /assets/characters/luca/wiki/SOA_LUCA_WIKI_PORTRAIT_v01.png
+    portrait_alt: Luca in his early-story adventurer clothes holding a sword
+    portrait_caption: Luca during the early story.
+    reference_sheet: /assets/characters/luca/SOA_LUCA_SIMPLE_MASTER_v02.png
+    reference_sheet_alt: Luca early-story character reference sheet
+    reference_sheet_caption: Approved early-story production reference.
+    publish_reference_sheet: true
 infobox:
   name: Luca
   fields:

@@ -57,6 +57,21 @@ characters:
   url: /wiki/characters/
   content_type: portal
 
+bram:
+  title: Bram
+  url: /wiki/characters/bram/
+  content_type: character
+
+deren:
+  title: Deren
+  url: /wiki/characters/deren/
+  content_type: character
+
+rae:
+  title: Rae
+  url: /wiki/characters/rae/
+  content_type: character
+
 raizen:
   title: Raizen
   url: /wiki/characters/raizen/

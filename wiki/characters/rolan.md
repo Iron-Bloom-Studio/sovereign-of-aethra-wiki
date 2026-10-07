@@ -6,7 +6,6 @@ character_sheet: true
 character_looks:
   - id: guildmaster
     label: Guildmaster
-    caption: No approved Guildmaster-era artwork is currently published.
 infobox:
   name: Rolan
   fields:

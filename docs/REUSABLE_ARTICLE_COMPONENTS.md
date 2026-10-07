@@ -119,6 +119,20 @@ gallery:
 
 Only approved local assets may be referenced. A character page with `gallery` uses this gallery instead of the legacy single-sheet gallery.
 
+## Character Visual Assets
+
+Named-character pages distinguish public portraits from internal production sheets:
+
+```yaml
+character_looks:
+  - id: present
+    label: Present
+    portrait: /assets/characters/name/wiki/name-present-portrait.png
+    portrait_alt: Public-safe portrait description
+```
+
+The profile panel prefers `portrait`, retains legacy `image` compatibility, and may use `reference_sheet` only as a temporary fallback when that exact sheet was already approved for public display. Internal Character Sheets are visual source material and must not be copied into the wiki merely because they exist in the private repository. An explicitly public-safe sheet may appear below the article only with `publish_reference_sheet: true`; this flag is opt-in and fail-closed. A Wiki Portrait must preserve the approved sheet's face, hairstyle, proportions, race traits, costume, palette, and signature equipment while revealing only the character's current public identity.
+
 ## Tabs
 
 Tabs are front-matter-driven, keyboard accessible, and require no third-party dependency:

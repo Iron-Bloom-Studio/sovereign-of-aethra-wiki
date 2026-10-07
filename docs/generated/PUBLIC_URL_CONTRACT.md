@@ -6,7 +6,7 @@ This inventory is generated from the current Jekyll source. Documentation files 
 
 ## Summary
 
-- Public page URLs: **71**
+- Public page URLs: **74**
 - Protected anchor destinations: **5**
 - Permalink mode: `pretty`
 - Production base URL: `/sovereign-of-aethra-wiki`
@@ -28,7 +28,7 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | Source file | Current URL | Content type | Referenced anchors | Referenced elsewhere? |
 |---|---|---|---|---|
 | `404.html` | `/404.html` | error page | — | No detected references |
-| `index.md` | `/` | homepage | — | Yes (68 files) |
+| `index.md` | `/` | homepage | — | Yes (71 files) |
 | `search/index.md` | `/search/` | search utility | — | No detected references |
 | `wiki/about.md` | `/wiki/about/` | meta | — | No detected references |
 | `wiki/artwork.md` | `/wiki/artwork/` | gallery | — | No detected references |
@@ -40,12 +40,15 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/categories/human.md` | `/wiki/categories/human/` | category portal | — | Yes (2 files) |
 | `wiki/categories/index.md` | `/wiki/categories/` | category portal | — | Yes (2 files) |
 | `wiki/categories/realms.md` | `/wiki/categories/realms/` | category portal | — | Yes (1 files) |
+| `wiki/characters/bram.md` | `/wiki/characters/bram/` | character | — | Yes (1 files) |
+| `wiki/characters/deren.md` | `/wiki/characters/deren/` | character | — | Yes (1 files) |
 | `wiki/characters/eldren.md` | `/wiki/characters/eldren/` | character | — | Yes (3 files) |
 | `wiki/characters/garling.md` | `/wiki/characters/garling/` | character | — | Yes (12 files) |
 | `wiki/characters/index.md` | `/wiki/characters/` | portal | — | Yes (20 files) |
 | `wiki/characters/luca.md` | `/wiki/characters/luca/` | character | — | Yes (5 files) |
 | `wiki/characters/lysara.md` | `/wiki/characters/lysara/` | character | — | Yes (2 files) |
 | `wiki/characters/pip.md` | `/wiki/characters/pip/` | character | — | Yes (3 files) |
+| `wiki/characters/rae.md` | `/wiki/characters/rae/` | character | — | Yes (1 files) |
 | `wiki/characters/raizen.md` | `/wiki/characters/raizen/` | character | — | Yes (11 files) |
 | `wiki/characters/rolan.md` | `/wiki/characters/rolan/` | character | — | Yes (3 files) |
 | `wiki/characters/serena.md` | `/wiki/characters/serena/` | character | — | Yes (4 files) |

@@ -10,18 +10,30 @@ layout: character
 title: Character Name
 slug: character-name
 description: Short public definition.
-image: /assets/characters/name/APPROVED_FILE.png # optional
-image_alt: Approved character reference
-race: Human # optional
-era: Beta War # optional
-categories: [Characters]
-related: [beta-war]
-public: true
-spoiler_level: 0
+character_sheet: true
+character_looks:
+  - id: present
+    label: Present
+    portrait: /assets/characters/name/wiki/name-present-portrait.png
+    portrait_alt: Public-safe description of the portrait
+    reference_sheet: /assets/characters/name/reference/name-present-sheet.png
+    reference_sheet_alt: Public-safe description of the sheet
+    publish_reference_sheet: true # only with explicit public approval
+infobox:
+  name: Character Name
+  fields:
+    Race: Human
 ---
 ```
 
 Use `infobox.fields` for confirmed facts only.
+
+Named-character artwork uses two distinct tiers:
+
+- **Character Sheet** — private/internal production reference and visual source of truth. Do not copy it into the public wiki automatically.
+- **Wiki Portrait** — clean, spoiler-safe public artwork used by character pages and navigation cards.
+
+Use `portrait` for new public artwork. `reference_sheet` exists as a migration fallback for sheets that were already explicitly public-safe. Set `publish_reference_sheet: true` only when the exact sheet is approved for the public Character Reference section below the article; omission is fail-closed. It must never point to private or spoiler-sensitive production material. Do not add unrevealed forms as hidden tabs, metadata, filenames, or unused frontmatter.
 
 ## Race / Evolution
 
