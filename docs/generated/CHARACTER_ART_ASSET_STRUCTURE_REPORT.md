@@ -41,6 +41,7 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 - Added Serena's dedicated Wiki Portrait while retaining her explicitly approved Character Sheet below the article.
 - Added Lysara's dedicated Wiki Portrait and updated Mage Character Sheet below the article.
 - Added Pip's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
+- Added Zerak's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
 - Added Bram's dedicated Wiki Portrait with a name-only public entry.
 - Added public Human, Elf, Dwarf, Hiveborn, and Dragonkind generic race reference assets.
 
@@ -51,11 +52,12 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 - Added Rae's portrait under `01-Characters/Rae/Wiki/`.
 - Added Lysara's portrait and current Mage sheet under `01-Characters/Lysara/Wiki/`.
 - Added Pip's portrait under `01-Characters/Pip/Wiki/`.
+- Added Zerak's portrait under `01-Characters/Zerak/Wiki/`.
 
 ## Migration and Fallback
 
 - Luca now uses a dedicated Wiki Portrait. His exact approved public-safe sheet is opt-in below the article as Character Reference.
-- Serena, Lysara, and Pip now follow the same portrait-first pattern, with their approved public-safe sheets shown below the article.
+- Serena, Lysara, Pip, and Zerak now follow the same portrait-first pattern, with their approved public-safe sheets shown below the article.
 - Garling still lacks a dedicated Wiki Portrait; his previously public-safe sheet remains a temporary panel fallback and is not automatically duplicated into a gallery.
 - Rolan Guildmaster has no approved portrait and uses the compact missing-portrait state.
 - Other legacy character pages remain compatible while they are migrated gradually.
