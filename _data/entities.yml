@@ -77,6 +77,12 @@ rae:
   url: /wiki/characters/rae/
   content_type: character
 
+rhaen:
+  title: Rhaen
+  url: /wiki/characters/rhaen/
+  content_type: character
+  description: The mysterious Dragon Emperor.
+
 reika:
   title: Reika
   url: /wiki/characters/reika/
@@ -106,6 +112,12 @@ oni:
   url: /wiki/races/oni/
   content_type: evolution
   description: A publicly revealed Natural Evolution form of Ogre.
+
+hobgoblin:
+  title: Hobgoblin
+  url: /wiki/races/hobgoblin/
+  content_type: evolution
+  description: A publicly revealed Natural Evolution form of Goblin.
 
 orc:
   title: Orc

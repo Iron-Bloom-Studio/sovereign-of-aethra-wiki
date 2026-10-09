@@ -31,20 +31,18 @@ A race is not automatically bound to a kingdom, faction, civilization, or politi
 
 The word *monster* does not automatically identify a biological race. Sapient peoples are documented here according to approved biological classification; creatures documented as wildlife or monsters belong to the separate Bestiary archive, which is not yet publicly available.
 
-## Known Peoples
+## Known Races
 
-<div class="cards">
-<a class="card" href="{{ '/wiki/races/human/' | relative_url }}"><strong>Human</strong>A known people of Terra.</a>
-<a class="card" href="{{ '/wiki/races/elf/' | relative_url }}"><strong>Elf</strong>A known people with publicly revealed Natural Evolution branches.</a>
-<a class="card" href="{{ '/wiki/races/dwarf/' | relative_url }}"><strong>Dwarf</strong>A known people of Terra.</a>
-<a class="card" href="{{ '/wiki/races/goblin/' | relative_url }}"><strong>Goblin</strong>A known people of Terra.</a>
-<a class="card" href="{{ '/wiki/races/hiveborn/' | relative_url }}"><strong>Hiveborn</strong>A known people of Terra.</a>
-<a class="card" href="{{ '/wiki/races/dragonkind/' | relative_url }}"><strong>Dragonkind</strong>A known lineage of Terra.</a>
-<a class="card" href="{{ '/wiki/races/ogre/' | relative_url }}"><strong>Ogre</strong>A biological race recorded in the Beta War.</a>
-<a class="card" href="{{ '/wiki/races/orc/' | relative_url }}"><strong>Orc</strong>A biological race of Terra.</a>
-<a class="card" href="{{ '/wiki/races/harpy/' | relative_url }}"><strong>Harpy</strong>A biological race of Terra.</a>
-<a class="card" href="{{ '/wiki/races/gargoyle/' | relative_url }}"><strong>Gargoyle</strong>A biological race of Terra.</a>
-</div>
+- [Human]({{ '/wiki/races/human/' | relative_url }}) — A known race of Terra.
+- [Elf]({{ '/wiki/races/elf/' | relative_url }}) — A known race with publicly revealed Natural Evolution branches.
+- [Dwarf]({{ '/wiki/races/dwarf/' | relative_url }}) — A known race of Terra.
+- [Goblin]({{ '/wiki/races/goblin/' | relative_url }}) — A known race of Terra.
+- [Hiveborn]({{ '/wiki/races/hiveborn/' | relative_url }}) — A known race of Terra.
+- [Dragonkind]({{ '/wiki/races/dragonkind/' | relative_url }}) — A known lineage of Terra.
+- [Ogre]({{ '/wiki/races/ogre/' | relative_url }}) — A biological race recorded in the Beta War.
+- [Orc]({{ '/wiki/races/orc/' | relative_url }}) — A biological race of Terra.
+- [Harpy]({{ '/wiki/races/harpy/' | relative_url }}) — A biological race of Terra.
+- [Gargoyle]({{ '/wiki/races/gargoyle/' | relative_url }}) — A biological race of Terra.
 
 ## Publicly Revealed Natural Evolution
 
@@ -53,7 +51,10 @@ The word *monster* does not automatically identify a biological race. Sapient pe
 └─ Dark Elf
 
 <a href="{{ '/wiki/races/ogre/' | relative_url }}">Ogre</a>
-└─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a></div>
+└─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a>
+
+<a href="{{ '/wiki/races/goblin/' | relative_url }}">Goblin</a>
+└─ <a href="{{ '/wiki/races/hobgoblin/' | relative_url }}">Hobgoblin</a></div>
 
 No Natural Evolution is known for Human or Dwarf.
 

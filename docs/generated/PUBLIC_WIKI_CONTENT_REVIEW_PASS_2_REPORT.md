@@ -81,7 +81,7 @@ Public manifest and page audit confirmed these approved profiles:
 - Eldren
 - Raizen
 
-Rae has no public character page and is not linked to Rhaen. Rhaen remains independently documented only in already-public Dragon Throne material.
+No unapproved character-identity links were added. Public Dragon Throne material remains independently documented.
 
 ## Cross-Taxonomy Corrections
 
@@ -109,7 +109,7 @@ No broken or circular link pattern was introduced.
 
 - `At the current public narrative state` beside Luca's Human classification risked implying hidden biology; removed.
 - `Aethra Pattern` and `Stage 1` introduced unnecessary mechanics/game-stat framing; removed from the reviewed Natural Evolution pages.
-- No Rae/Rhaen identity connection, private Asteron detail, or hidden Sovereign mechanic was found in the final scoped content.
+- No hidden character-identity connection, private Asteron detail, or hidden Sovereign mechanic was found in the final scoped content.
 
 ## Routes
 
@@ -126,7 +126,7 @@ No broken or circular link pattern was introduced.
 - Natural Evolution/Class/Authority separation checks: passed
 - Seven-affinity and opposed-pair assertions: passed
 - Luca Human-only and spoiler scans: passed
-- Rae/Rhaen separation scan: passed
+- Public character-identity separation scan: passed
 - Visible Founding Five label scan: passed
 - Character manifest/page/search audit: passed
 - YAML parsing: passed

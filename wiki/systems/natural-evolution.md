@@ -20,7 +20,10 @@ Natural Evolution is lasting biological development along a lineage's known path
 └─ Dark Elf
 
 <a href="{{ '/wiki/races/ogre/' | relative_url }}">Ogre</a>
-└─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a></div>
+└─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a>
+
+<a href="{{ '/wiki/races/goblin/' | relative_url }}">Goblin</a>
+└─ <a href="{{ '/wiki/races/hobgoblin/' | relative_url }}">Hobgoblin</a></div>
 
 No Natural Evolution is known for Human or Dwarf. Only publicly documented paths are listed.
 

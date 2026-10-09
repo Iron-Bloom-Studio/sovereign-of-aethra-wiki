@@ -71,7 +71,11 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 
 ## Rae
 
-Rae is the first complete Wiki Portrait example. `SOA_RAE_WIKI_PORTRAIT_v01.png` is stored under the dedicated `wiki/` tier and used by `/wiki/characters/rae/`. The current page intentionally contains only Rae's name and portrait, with no lore or profile fields.
+Rae is the first complete Wiki Portrait example. `SOA_RAE_WIKI_PORTRAIT_v01.png` is stored under the dedicated `wiki/` tier and used by `/wiki/characters/rae/`. The current page is limited to the approved public identity of a Rank B traveling adventurer.
+
+## Rhaen
+
+`SOA_RHAEN_PUBLIC_SILHOUETTE_v01.png` is the sole current public representation used by `/wiki/characters/rhaen/`. The public page identifies Rhaen as the Dragon Emperor and Dragonkind while preserving the absence of reliable Human records of his appearance. Revealed design material is not stored in the public Wiki.
 
 ## Deren
 
@@ -88,6 +92,7 @@ Rae is the first complete Wiki Portrait example. `SOA_RAE_WIKI_PORTRAIT_v01.png`
 - Dwarf: `SOA_DWARF_RACE_REFERENCE_v01.png`
 - Hiveborn: `SOA_HIVEBORN_RACE_REFERENCE_v01.jpg`
 - Dragonkind: `SOA_DRAGONKIND_RACE_REFERENCE_v01.jpg`
+- Hobgoblin: `SOA_HOBGOBLIN_EVOLUTION_REFERENCE_v01.png` and `SOA_HOBGOBLIN_WIKI_PORTRAIT_v01.png`
 
 These are generic race references, not named-character sheets and not Wiki Portraits.
 
@@ -95,12 +100,12 @@ The supplied Vargan file is byte-for-byte identical to the existing private appr
 
 ## Validation
 
-- Public URL contract: 76 routes; no existing route removed.
+- Public URL contract: 78 routes; no existing route removed.
 - Protected anchors: five; all valid.
 - Internal links, assets, navigation targets, and character image paths: valid.
-- Search JSON: valid with 55 unique entries.
+- Search JSON: valid with 57 unique entries.
 - Public and private YAML manifests: valid.
-- Rae spoiler scan: passed; no Rhaen, Dragonkind, alias, or hidden-identity disclosure.
+- Rae public-identity scan: passed; no hidden-identity or non-public lineage disclosure.
 - Rae, Bram, and Deren name-only audit: passed; no lore/profile fields are rendered.
 - Vargan public-export scan: passed; no Vargan file or route exists in the public repository.
 - Cross-repository checksums for exported portraits and race references: matched.

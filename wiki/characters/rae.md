@@ -1,6 +1,7 @@
 ---
 layout: character
 title: Rae
+description: Rank B traveling adventurer.
 categories: [Characters, Human Kingdom Characters]
 character_sheet: true
 character_looks:
@@ -11,4 +12,7 @@ character_looks:
     portrait_caption: Rae
 infobox:
   name: Rae
+  fields:
+    Occupation: Traveling Adventurer
+    Rank: B
 ---

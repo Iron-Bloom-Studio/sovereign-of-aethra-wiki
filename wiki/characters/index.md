@@ -17,7 +17,7 @@ The core group of characters whose journeys become closely intertwined during th
 ## Human Kingdom Characters
 
 <span id="beta-war"></span>
-<div class="cards"><a class="card" href="{{ '/wiki/characters/rae/' | relative_url }}"><strong>Rae</strong></a><a class="card" href="{{ '/wiki/characters/bram/' | relative_url }}"><strong>Bram</strong></a><a class="card" href="{{ '/wiki/characters/deren/' | relative_url }}"><strong>Deren</strong></a><a class="card" href="{{ '/wiki/characters/garling/' | relative_url }}"><strong>Garling</strong>Human Hero · Beta War</a><a class="card" href="{{ '/wiki/characters/rolan/' | relative_url }}"><strong>Rolan</strong>Guildmaster · Beta War</a></div>
+<div class="cards"><a class="card" href="{{ '/wiki/characters/rae/' | relative_url }}"><strong>Rae</strong>Traveling Adventurer · Rank B</a><a class="card" href="{{ '/wiki/characters/bram/' | relative_url }}"><strong>Bram</strong></a><a class="card" href="{{ '/wiki/characters/deren/' | relative_url }}"><strong>Deren</strong></a><a class="card" href="{{ '/wiki/characters/garling/' | relative_url }}"><strong>Garling</strong>Human Hero · Beta War</a><a class="card" href="{{ '/wiki/characters/rolan/' | relative_url }}"><strong>Rolan</strong>Guildmaster · Beta War</a></div>
 
 ## Elven Realm Characters
 
@@ -26,5 +26,9 @@ The core group of characters whose journeys become closely intertwined during th
 ## Seven Sigils Characters
 
 <div class="cards"><a class="card" href="{{ '/wiki/characters/raizen/' | relative_url }}"><strong>Raizen</strong>Demon Lord Beta</a><a class="card" href="{{ '/wiki/characters/reika/' | relative_url }}"><strong>Reika</strong>Daughter of Raizen</a><a class="card" href="{{ '/wiki/characters/gorzan/' | relative_url }}"><strong>Gorzan</strong></a></div>
+
+## Dragon Throne Characters
+
+<div class="cards"><a class="card" href="{{ '/wiki/characters/rhaen/' | relative_url }}"><strong>Rhaen</strong>Dragon Emperor</a></div>
 
 <p class="source-note">Cards without an image use a neutral presentation so the archive never substitutes unapproved art for a character.</p>

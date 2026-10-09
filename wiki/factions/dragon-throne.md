@@ -29,9 +29,9 @@ infobox:
 <p class="breadcrumb">Home › Realms & Civilizations › The Dragon Throne</p>
 # The Dragon Throne
 
-The **Dragon Throne** is the Great Power of **Dragonkind**, centered on **Great Dragon Mountain**. It is one of Terra's oldest and most formidable political powers, ruled in the present era by **Dragon Emperor Rhaen**, a True Dragon associated with the Dark element.
+The **Dragon Throne** is the Great Power of **Dragonkind**, centered on **Great Dragon Mountain**. It is one of Terra's oldest and most formidable political powers, ruled in the present era by **Dragon Emperor Rhaen**.
 
-Dark Aethra or a Dark elemental affinity is not inherently evil. Rhaen is known as a patient and deliberate ruler rather than a figure defined by Human ideas of darkness.
+Human records preserve little reliable detail about the Emperor's appearance.
 
 ## Approved Visual Reference
 

@@ -92,7 +92,7 @@ No multi-look character was published in this pass because no second approved, r
 
 ## Spoiler Safety
 
-Only explicitly configured public looks are emitted into HTML. There are no hidden tabs, future-form data attributes, private JSON entries, or spoiler-bearing filenames for additional states. The implementation does not connect Rae to Rhaen, does not add Asteron-era details, and does not expose Luca's hidden identity or future mechanics.
+Only explicitly configured public looks are emitted into HTML. There are no hidden tabs, future-form data attributes, private JSON entries, or spoiler-bearing filenames for additional states. The implementation does not add hidden-identity links, Asteron-era details, or Luca's hidden identity or future mechanics.
 
 ## Route and Search Compatibility
 

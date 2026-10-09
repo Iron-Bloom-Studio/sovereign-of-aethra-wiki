@@ -2,9 +2,9 @@ public_story_phase: pre-volume-1
 spoiler_level: 0
 entities:
   world: [terra, aethra]
-  characters: [luca, serena, lysara, zerak, pip, rae, bram, deren, garling, rolan, eldren, raizen, reika, gorzan]
+  characters: [luca, serena, lysara, zerak, pip, rae, rhaen, bram, deren, garling, rolan, eldren, raizen, reika, gorzan]
   races: [human, dwarf, elf, goblin, hiveborn, dragonkind, ogre, orc, harpy, gargoyle]
-  evolution: [oni]
+  evolution: [oni, hobgoblin]
   terminology: [demonkind]
   realms: [astrelia, verenza, solmaria, eldoria, auregrad, arklune, sylvaris, dwarven-holds, the-hive, dragon-throne]
   factions: [grand-concord, dwarven-holds, the-hive, dragon-throne, seven-sigils]
@@ -58,6 +58,8 @@ assets:
   - DRAGON_THRONE_FIELD_SILVER_DRAGON_BANNER_v1
   - GRAND_CONCORD_FOUNDING_CEREMONY_CONCEPT_v0.1
   - SOA_GOBLIN_RACE_REFERENCE_v01
+  - SOA_HOBGOBLIN_EVOLUTION_REFERENCE_v01
+  - SOA_HOBGOBLIN_WIKI_PORTRAIT_v01
   - SOA_HUMAN_RACE_REFERENCE_v01
   - SOA_ELF_RACE_REFERENCE_v01
   - SOA_DWARF_RACE_REFERENCE_v01
@@ -72,5 +74,6 @@ assets:
   - SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_INTERIOR_v01
   - SOA_ARKLUNE_CEREMONIAL_BANNER_v01
   - SOA_RAE_WIKI_PORTRAIT_v01
+  - SOA_RHAEN_PUBLIC_SILHOUETTE_v01
   - SOA_BRAM_WIKI_PORTRAIT_v01
   - SOA_DEREN_WIKI_PORTRAIT_v01
