@@ -41,6 +41,7 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 - Added Serena's dedicated Wiki Portrait while retaining her explicitly approved Character Sheet below the article.
 - Added Lysara's dedicated Wiki Portrait and updated Mage Character Sheet below the article.
 - Added Pip's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
+- Added Pip's pre-Luca Wiki Portrait as a distinct public visual state without replacing his present portrait.
 - Added Zerak's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
 - Added Raizen's dedicated Wiki Portrait while retaining his explicitly approved Beta War Character Sheet below the article.
 - Added Reika's approved Character Sheet and public character route under Seven Sigils Characters.

@@ -13,6 +13,11 @@ character_looks:
     reference_sheet_alt: Pip early-story character reference sheet
     reference_sheet_caption: Approved early-story production reference.
     publish_reference_sheet: true
+  - id: before-luca
+    label: Before Joining Luca
+    portrait: /assets/characters/pip/SOA_PIP_PRE_LUCA_WIKI_PORTRAIT_v01.png
+    portrait_alt: Pip in simple tribal clothing holding a dagger before joining Luca
+    portrait_caption: Pip before joining Luca.
 infobox:
   name: Pip
   fields:
