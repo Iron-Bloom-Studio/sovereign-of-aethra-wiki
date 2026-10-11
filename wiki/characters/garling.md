@@ -6,12 +6,21 @@ category: character
 description: Human Hero of the Beta War.
 character_sheet: true
 character_looks:
-  - id: young
-    label: Young
+  - id: present
+    label: Present
+    portrait: /assets/characters/garling/SOA_GARLING_PRESENT_WIKI_PORTRAIT_v01.jpeg
+    portrait_alt: Present-day Garling in weathered adventuring armor and cloak
+    portrait_caption: Garling in the present era.
+  - id: beta-war
+    label: Beta War
+    portrait: /assets/characters/garling/SOA_GARLING_BETA_WAR_WIKI_PORTRAIT_v01.jpeg
+    portrait_alt: Garling in blue and silver armor carrying a sword during the Beta War
+    portrait_caption: Garling during the Beta War.
     reference_sheet: /assets/characters/garling/GARLING_YOUNG_PROLOGUE_MASTER_v1.0.png
-    reference_sheet_alt: Young Garling production reference sheet
-    caption: Garling during the Beta War.
-era: Beta War
+    reference_sheet_alt: Garling Beta War production reference sheet
+    reference_sheet_caption: Approved Beta War production reference.
+    publish_reference_sheet: true
+era: Present / Beta War
 race: Human
 categories: [Characters, Human, Human Kingdom Characters, Beta War Characters]
 related: [raizen, beta-war]
@@ -22,7 +31,7 @@ infobox:
     Age: Approximately 28–32 during Beta War
     Role: Hero / frontline swordsman
     Authority: Rune Sigil — 1st Form
-    Era: Beta War
+    Known eras: Present; Beta War
 ---
 ## Background
 

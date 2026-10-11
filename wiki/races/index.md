@@ -52,6 +52,8 @@ The word *monster* does not automatically identify a biological race. Sapient pe
 
 <a href="{{ '/wiki/races/ogre/' | relative_url }}">Ogre</a>
 └─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a>
+   ├─ Oni (Warrior)
+   └─ Oni (Magus)
 
 <a href="{{ '/wiki/races/goblin/' | relative_url }}">Goblin</a>
 └─ <a href="{{ '/wiki/races/hobgoblin/' | relative_url }}">Hobgoblin</a></div>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Magic
-description: Reader-safe overview of magic, major affinities, and everyday magical practice in Terra.
+description: Reader-safe overview of the six Fundamental Affinities and known magical expressions in Terra.
 public: true
 spoiler_level: 0
 category: World Lore
@@ -14,30 +14,49 @@ Magic in Terra is associated with the use of **Aethra**, the fundamental force p
 
 Magic is not universal. Its use depends on aptitude, sensitivity to Aethra, training, and the traditions available to the practitioner. Magic remains distinct from Race, Natural Evolution, and recognition by a [Sigil]({{ '/wiki/systems/sigils/' | relative_url }}).
 
-## Major Affinities
+## Six Fundamental Affinities
 
-Seven major magical affinities are publicly recognized:
+Six Fundamental Affinities are publicly recognized:
 
 - Fire
-- Ice
-- Earth
+- Water
 - Wind
-- Lightning
+- Earth
 - Light
 - Dark
 
 An individual may possess affinity toward one or more elements. Affinity does not determine character, allegiance, or morality.
 
-## Known Affinity Relationships
+## Fundamental Opposition
 
-Two opposed relationships are currently established:
+The known opposition structure is:
 
-- Fire ↔ Ice
+- Fire ↔ Water
+- Wind ↔ Earth
 - Light ↔ Dark
 
-No complete symmetrical affinity wheel is presented. Earth and Wind are not stated here as a locked pair, and Lightning has no publicly established opposite.
+Opposite affinities are naturally harder to master together, but opposition does not make dual learning impossible and does not imply good and evil, political hostility, or automatic cancellation.
 
-Light may be used for healing, restoration, purification, and barriers; **Lesser Heal** is a known basic example. Dark affinity is not inherently evil.
+## Advanced Expressions
+
+- Water may develop into **Ice**.
+- Wind may develop into **Lightning**.
+
+Ice and Lightning are advanced expressions rather than Fundamental Affinities. Possessing Water or Wind affinity does not automatically grant the corresponding advanced expression; greater control, training, aptitude, or specialization is required.
+
+## Composite Magic
+
+Multiple affinities may combine into Composite Magic. The confirmed public example is:
+
+- Fire + Earth → **Magma / Lava**
+
+Magma/Lava is not a Fundamental Affinity. No complete combination matrix is currently recorded.
+
+## Light and Dark
+
+Light may restore, purify, and protect; **Lesser Heal** is a known basic example. Light is not inherently good.
+
+Dark may absorb, transfer, and weaken. Dark is not inherently evil.
 
 ## Magic in Everyday Life
 

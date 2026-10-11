@@ -21,6 +21,8 @@ Natural Evolution is lasting biological development along a lineage's known path
 
 <a href="{{ '/wiki/races/ogre/' | relative_url }}">Ogre</a>
 └─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a>
+   ├─ Oni (Warrior)
+   └─ Oni (Magus)
 
 <a href="{{ '/wiki/races/goblin/' | relative_url }}">Goblin</a>
 └─ <a href="{{ '/wiki/races/hobgoblin/' | relative_url }}">Hobgoblin</a></div>

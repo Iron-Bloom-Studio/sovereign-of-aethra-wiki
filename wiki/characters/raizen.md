@@ -8,7 +8,7 @@ character_sheet: true
 character_looks:
   - id: beta-war
     label: Beta War
-    portrait: /assets/characters/raizen/wiki/SOA_RAIZEN_WIKI_PORTRAIT_v01.png
+    portrait: /assets/characters/raizen/wiki/SOA_RAIZEN_WIKI_PORTRAIT_v02.png
     portrait_alt: Raizen as Demon Lord Beta in crimson and black armor carrying a great kanabo
     portrait_caption: Raizen, Demon Lord Beta, during the Beta War.
     reference_sheet: /assets/characters/raizen/RAIZEN_BETA_MASTER_v01.png
@@ -27,7 +27,7 @@ infobox:
     Authority: Beta Sigil / Demon Lord Beta
     Era: Beta War
 ---
-Raizen is the Oni King and Demon Lord Beta in the Beta War record. He is an Oni, a natural evolutionary form of Ogre. Demon Lord is an Authority/title, not a biological evolution.
+Raizen is the Oni King and Demon Lord Beta in the Beta War record. He is an Oni, the Natural Evolution of Ogre. Demon Lord is an Authority/title, not a biological evolution.
 
 ## Related Articles
 

@@ -8,18 +8,20 @@ infobox:
   image_alt: Approved generic Ogre race reference sheet
   fields:
     Classification: Race
-    Known evolution: Oni
+    Known evolution: Oni (Warrior / Magus)
 categories: [Races]
 ---
 <p class="breadcrumb">Home › Races › Ogre</p>
 # Ogre
 
-Ogre is a biological race with a publicly known Natural Evolution form: [Oni]({{ '/wiki/races/oni/' | relative_url }}).
+Ogre is a biological race with a publicly known Natural Evolution form: [Oni]({{ '/wiki/races/oni/' | relative_url }}). The currently documented Oni expressions are **Oni (Warrior)** and **Oni (Magus)**.
 
 Beta War records may group Ogres under the historical or political term [Demonkind]({{ '/wiki/races/demonkind/' | relative_url }}). That association is not a biological parent category.
 
 <div class="tree">Ogre
-└─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a></div>
+└─ <a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a>
+   ├─ Oni (Warrior)
+   └─ Oni (Magus)</div>
 
 ## Approved Visual Reference
 
