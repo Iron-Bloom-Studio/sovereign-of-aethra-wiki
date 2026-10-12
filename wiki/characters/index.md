@@ -14,10 +14,10 @@ The core group of characters whose journeys become closely intertwined during th
 
 | Name | Race | Public role |
 | --- | --- | --- |
-| [Luca]({{ '/wiki/characters/luca/' | relative_url }}) | Human | Low-rank adventurer |
+| [Luca]({{ '/wiki/characters/luca/' | relative_url }}) | Human | New adventurer |
 | [Serena]({{ '/wiki/characters/serena/' | relative_url }}) | Human | Former knight |
 | [Lysara]({{ '/wiki/characters/lysara/' | relative_url }}) | Elf | Mage |
-| [Zerak]({{ '/wiki/characters/zerak/' | relative_url }}) | Hiveborn | Lance user |
+| [Zerak]({{ '/wiki/characters/zerak/' | relative_url }}) | Hiveborn | Unpurposed Hiveborn · Lance user |
 | [Pip]({{ '/wiki/characters/pip/' | relative_url }}) | Goblin | Traveler |
 
 ## Human Kingdom Characters
@@ -29,8 +29,8 @@ The core group of characters whose journeys become closely intertwined during th
 | [Rae]({{ '/wiki/characters/rae/' | relative_url }}) | Traveling adventurer | Far Horizon · Rank B |
 | [Nina]({{ '/wiki/characters/nina/' | relative_url }}) | Healer | Far Horizon · Rank B party |
 | [Gustav]({{ '/wiki/characters/gustav/' | relative_url }}) | Defender | Far Horizon · Rank B party |
-| [Bram]({{ '/wiki/characters/bram/' | relative_url }}) | — | — |
-| [Deren]({{ '/wiki/characters/deren/' | relative_url }}) | — | — |
+| [Bram]({{ '/wiki/characters/bram/' | relative_url }}) | Aven villager | Aven, Eldoria |
+| [Deren]({{ '/wiki/characters/deren/' | relative_url }}) | Aven villager | Aven, Eldoria |
 | [Garling]({{ '/wiki/characters/garling/' | relative_url }}) | Human Hero | Beta War |
 | [Rolan]({{ '/wiki/characters/rolan/' | relative_url }}) | Guildmaster | Beta War |
 

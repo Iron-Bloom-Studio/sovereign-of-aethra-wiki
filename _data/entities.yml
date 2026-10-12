@@ -66,11 +66,13 @@ bram:
   title: Bram
   url: /wiki/characters/bram/
   content_type: character
+  description: Aven villager.
 
 deren:
   title: Deren
   url: /wiki/characters/deren/
   content_type: character
+  description: Aven villager.
 
 rae:
   title: Rae

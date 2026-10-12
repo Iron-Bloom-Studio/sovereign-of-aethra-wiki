@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Zerak
-description: Hiveborn lance user pursuing a purpose of his own.
+description: Unpurposed Hiveborn lance user pursuing a purpose of his own.
 character_sheet: true
 character_looks:
   - id: present
@@ -17,8 +17,9 @@ infobox:
   name: Zerak
   fields:
     Race: Hiveborn
+    Status: Unpurposed
     Weapon: Lance
 ---
 ## Background
 
-Zerak is a Hiveborn lance user pursuing a purpose of his own.
+Zerak is an **Unpurposed Hiveborn** lance user pursuing a purpose of his own. “Unpurposed” is the public term for a Hiveborn no longer connected to a Hive's assigned purpose.

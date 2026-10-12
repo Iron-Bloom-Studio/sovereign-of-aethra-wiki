@@ -74,9 +74,9 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/locations/arklune.md` | `/wiki/locations/arklune/` | realm | `#the-grand-adventurer-guild` | Yes (10 files) |
 | `wiki/locations/astrelia.md` | `/wiki/locations/astrelia/` | realm | — | Yes (5 files) |
 | `wiki/locations/auregrad.md` | `/wiki/locations/auregrad/` | realm | — | Yes (5 files) |
-| `wiki/locations/aven.md` | `/wiki/locations/aven/` | article | — | Yes (3 files) |
-| `wiki/locations/eldoria.md` | `/wiki/locations/eldoria/` | realm | — | Yes (7 files) |
-| `wiki/locations/index.md` | `/wiki/locations/` | portal | — | Yes (21 files) |
+| `wiki/locations/aven.md` | `/wiki/locations/aven/` | article | — | Yes (5 files) |
+| `wiki/locations/eldoria.md` | `/wiki/locations/eldoria/` | realm | — | Yes (9 files) |
+| `wiki/locations/index.md` | `/wiki/locations/` | portal | — | Yes (23 files) |
 | `wiki/locations/khazir.md` | `/wiki/locations/khazir/` | article | — | Yes (4 files) |
 | `wiki/locations/solmaria.md` | `/wiki/locations/solmaria/` | realm | — | Yes (5 files) |
 | `wiki/locations/sylvaris.md` | `/wiki/locations/sylvaris/` | realm | — | Yes (9 files) |

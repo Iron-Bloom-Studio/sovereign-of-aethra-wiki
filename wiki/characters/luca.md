@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Luca
-description: Human low-rank adventurer from Aven in Eldoria.
+description: Human new adventurer from Aven in Eldoria.
 character_sheet: true
 character_looks:
   - id: present
@@ -18,11 +18,11 @@ infobox:
   fields:
     Race: Human
     Origin: Aven, Eldoria
-    Occupation: Low-rank adventurer
+    Occupation: New adventurer
 ---
 ## Background
 
-Luca is a Human low-rank adventurer from Aven in Eldoria. He travels toward Arklune.
+Luca is a Human new adventurer from Aven in Eldoria. He travels toward Arklune.
 
 ## Personality
 
