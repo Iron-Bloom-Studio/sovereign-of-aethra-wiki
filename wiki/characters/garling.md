@@ -37,6 +37,8 @@ infobox:
 
 Garling was a young Human Hero and frontline swordsman during the Beta War, approximately 43 years before the main story. He bears an active Rune Sigil in its 1st Form.
 
+Before later becoming known as the Hero, Garling was associated with **Blue Vanguard**, a famous adventurer party from his younger adventuring years. The party is no longer active in the present era, but is remembered for the considerable fame and success it once achieved.
+
 ## Appearance
 
 Garling has brown hair, practical silver and white knight armor, navy cloth and cape, and restrained gold accents. A prominent scar crosses the left-eye region; the eye remains intact.

@@ -12,23 +12,46 @@ This directory includes characters with approved public profiles.
 
 The core group of characters whose journeys become closely intertwined during the early story.
 
-<div class="cards"><a class="card" href="{{ '/wiki/characters/luca/' | relative_url }}"><strong>Luca</strong>Human · Low-rank adventurer</a><a class="card" href="{{ '/wiki/characters/serena/' | relative_url }}"><strong>Serena</strong>Human · Former knight</a><a class="card" href="{{ '/wiki/characters/lysara/' | relative_url }}"><strong>Lysara</strong>Elf · Mage</a><a class="card" href="{{ '/wiki/characters/zerak/' | relative_url }}"><strong>Zerak</strong>Hiveborn · Lance user</a><a class="card" href="{{ '/wiki/characters/pip/' | relative_url }}"><strong>Pip</strong>Goblin · Traveler</a></div>
+| Name | Race | Public role |
+| --- | --- | --- |
+| [Luca]({{ '/wiki/characters/luca/' | relative_url }}) | Human | Low-rank adventurer |
+| [Serena]({{ '/wiki/characters/serena/' | relative_url }}) | Human | Former knight |
+| [Lysara]({{ '/wiki/characters/lysara/' | relative_url }}) | Elf | Mage |
+| [Zerak]({{ '/wiki/characters/zerak/' | relative_url }}) | Hiveborn | Lance user |
+| [Pip]({{ '/wiki/characters/pip/' | relative_url }}) | Goblin | Traveler |
 
 ## Human Kingdom Characters
 
 <span id="beta-war"></span>
-<div class="cards"><a class="card" href="{{ '/wiki/characters/rae/' | relative_url }}"><strong>Rae</strong>Traveling Adventurer · Rank B</a><a class="card" href="{{ '/wiki/characters/bram/' | relative_url }}"><strong>Bram</strong></a><a class="card" href="{{ '/wiki/characters/deren/' | relative_url }}"><strong>Deren</strong></a><a class="card" href="{{ '/wiki/characters/garling/' | relative_url }}"><strong>Garling</strong>Human Hero · Beta War</a><a class="card" href="{{ '/wiki/characters/rolan/' | relative_url }}"><strong>Rolan</strong>Guildmaster · Beta War</a></div>
+
+| Name | Public role | Affiliation or era |
+| --- | --- | --- |
+| [Rae]({{ '/wiki/characters/rae/' | relative_url }}) | Traveling adventurer | Far Horizon · Rank B |
+| [Nina]({{ '/wiki/characters/nina/' | relative_url }}) | Healer | Far Horizon · Rank B party |
+| [Gustav]({{ '/wiki/characters/gustav/' | relative_url }}) | Defender | Far Horizon · Rank B party |
+| [Bram]({{ '/wiki/characters/bram/' | relative_url }}) | — | — |
+| [Deren]({{ '/wiki/characters/deren/' | relative_url }}) | — | — |
+| [Garling]({{ '/wiki/characters/garling/' | relative_url }}) | Human Hero | Beta War |
+| [Rolan]({{ '/wiki/characters/rolan/' | relative_url }}) | Guildmaster | Beta War |
 
 ## Elven Realm Characters
 
-<div class="cards"><a class="card" href="{{ '/wiki/characters/eldren/' | relative_url }}"><strong>Eldren</strong>Elf scholar · Beta War</a></div>
+| Name | Public role | Era |
+| --- | --- | --- |
+| [Eldren]({{ '/wiki/characters/eldren/' | relative_url }}) | Elf scholar | Beta War |
 
 ## Seven Sigils Characters
 
-<div class="cards"><a class="card" href="{{ '/wiki/characters/raizen/' | relative_url }}"><strong>Raizen</strong>Demon Lord Beta</a><a class="card" href="{{ '/wiki/characters/reika/' | relative_url }}"><strong>Reika</strong>Daughter of Raizen</a><a class="card" href="{{ '/wiki/characters/gorzan/' | relative_url }}"><strong>Gorzan</strong></a></div>
+| Name | Public description |
+| --- | --- |
+| [Raizen]({{ '/wiki/characters/raizen/' | relative_url }}) | Demon Lord Beta |
+| [Reika]({{ '/wiki/characters/reika/' | relative_url }}) | Daughter of Raizen |
+| [Gorzan]({{ '/wiki/characters/gorzan/' | relative_url }}) | Seven Sigils character |
 
 ## Dragon Throne Characters
 
-<div class="cards"><a class="card" href="{{ '/wiki/characters/rhaen/' | relative_url }}"><strong>Rhaen</strong>Dragon Emperor</a></div>
+| Name | Public title |
+| --- | --- |
+| [Rhaen]({{ '/wiki/characters/rhaen/' | relative_url }}) | Dragon Emperor |
 
-<p class="source-note">Cards without an image use a neutral presentation so the archive never substitutes unapproved art for a character.</p>
+<p class="source-note">This directory uses compact tables so it remains readable as the public character archive grows.</p>

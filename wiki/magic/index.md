@@ -64,4 +64,8 @@ Magic is used beyond combat. Practical Ice magic, for example, can support refri
 
 ## Related Articles
 
-<div class="cards"><a class="card" href="{{ '/wiki/world/aethra/' | relative_url }}"><strong>Aethra</strong>The fundamental force associated with life, nature, and magic.</a><a class="card" href="{{ '/wiki/locations/astrelia/' | relative_url }}"><strong>Astrelia</strong>A Human kingdom known for formal magical education and Aethra study.</a><a class="card" href="{{ '/wiki/locations/solmaria/' | relative_url }}"><strong>Solmaria</strong>A Human kingdom with public traditions of healing and protective magic.</a></div>
+| Related article | Public overview |
+| --- | --- |
+| [Aethra]({{ '/wiki/world/aethra/' | relative_url }}) | Fundamental force associated with life, nature, and magic |
+| [Astrelia]({{ '/wiki/locations/astrelia/' | relative_url }}) | Human kingdom known for formal magical education and Aethra study |
+| [Solmaria]({{ '/wiki/locations/solmaria/' | relative_url }}) | Human kingdom with public traditions of healing and protective magic |

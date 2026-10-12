@@ -12,7 +12,13 @@ This guide presents only currently released knowledge of the world and its obser
 
 ## World Guide
 
-<div class="cards"><a class="card" href="{{ '/wiki/world/terra/' | relative_url }}"><strong>Terra</strong>Overview of the living world and its known lands.</a><a class="card" href="{{ '/wiki/world/terra/#geography' | relative_url }}"><strong>Geography</strong>Major environments, landmarks, and frontiers of the Great Continent.</a><a class="card" href="{{ '/wiki/world/terra/#the-great-continent' | relative_url }}"><strong>Regions &amp; Continents</strong>Reader-safe introduction to the principal known landmass.</a><a class="card" href="{{ '/wiki/world/aethra/' | relative_url }}"><strong>Aethra</strong>The fundamental force observed throughout Terra and living beings.</a><a class="card" href="{{ '/wiki/history/' | relative_url }}"><strong>History</strong>Public records of major events and their known consequences.</a></div>
+| Entry | Description |
+|---|---|
+| [Terra]({{ '/wiki/world/terra/' | relative_url }}) | Overview of the living world and its known lands. |
+| [Geography]({{ '/wiki/world/terra/#geography' | relative_url }}) | Major environments, landmarks, and frontiers of the Great Continent. |
+| [Regions & Continents]({{ '/wiki/world/terra/#the-great-continent' | relative_url }}) | Reader-safe introduction to the principal known landmass. |
+| [Aethra]({{ '/wiki/world/aethra/' | relative_url }}) | The fundamental force observed throughout Terra and living beings. |
+| [History]({{ '/wiki/history/' | relative_url }}) | Public records of major events and their known consequences. |
 
 ## Political Geography
 

@@ -2,13 +2,13 @@ public_story_phase: pre-volume-1
 spoiler_level: 0
 entities:
   world: [terra, aethra]
-  characters: [luca, serena, lysara, zerak, pip, rae, rhaen, bram, deren, garling, rolan, eldren, raizen, reika, gorzan]
+  characters: [luca, serena, lysara, zerak, pip, rae, nina, gustav, rhaen, bram, deren, garling, rolan, eldren, raizen, reika, gorzan]
   races: [human, dwarf, elf, goblin, hiveborn, dragonkind, ogre, orc, harpy, gargoyle]
   evolution: [oni, hobgoblin]
   terminology: [demonkind]
   realms: [astrelia, verenza, solmaria, eldoria, auregrad, arklune, sylvaris, dwarven-holds, the-hive, dragon-throne]
   factions: [grand-concord, dwarven-holds, the-hive, dragon-throne, seven-sigils]
-  organizations: [grand-adventurer-guild]
+  organizations: [grand-adventurer-guild, far-horizon]
   other_factions: [rogue-hive]
   locations: [terra, aven, arklune, astrelia, verenza, solmaria, eldoria, auregrad, sylvaris, khazir]
   history: [beta-war]
@@ -85,6 +85,8 @@ assets:
   - SOA_ARKLUNE_GRAND_ADVENTURER_GUILD_INTERIOR_v01
   - SOA_ARKLUNE_CEREMONIAL_BANNER_v01
   - SOA_RAE_WIKI_PORTRAIT_v01
+  - SOA_NINA_WIKI_PORTRAIT_v01
+  - SOA_GUSTAV_WIKI_PORTRAIT_v01
   - SOA_RHAEN_PUBLIC_SILHOUETTE_v01
   - SOA_BRAM_WIKI_PORTRAIT_v01
   - SOA_DEREN_WIKI_PORTRAIT_v01

@@ -4,4 +4,16 @@ title: Lore Index
 ---
 <p class="breadcrumb">Home › Lore Index</p>
 # Lore Index
-<div class="cards"><a class="card" href="{{ '/wiki/world/aethra/' | relative_url }}"><strong>Aethra</strong></a><a class="card" href="{{ '/wiki/realms/' | relative_url }}"><strong>Realms & Civilizations</strong>Ten realm and civilization articles.</a><a class="card" href="{{ '/wiki/factions/' | relative_url }}"><strong>Great Powers</strong>Major geopolitical powers of present-day Terra.</a><a class="card" href="{{ '/wiki/factions/other/' | relative_url }}"><strong>Other Factions</strong>Independent powers and organizations.</a><a class="card" href="{{ '/wiki/history/beta-war/' | relative_url }}"><strong>Beta War</strong></a><a class="card" href="{{ '/wiki/races/elf/' | relative_url }}"><strong>Elf</strong></a><a class="card" href="{{ '/wiki/characters/garling/' | relative_url }}"><strong>Garling</strong></a><a class="card" href="{{ '/wiki/races/oni/' | relative_url }}"><strong>Oni</strong></a><a class="card" href="{{ '/wiki/characters/raizen/' | relative_url }}"><strong>Raizen</strong></a><a class="card" href="{{ '/wiki/world/terra/' | relative_url }}"><strong>Terra</strong></a></div>
+
+| Entry | Type | Description |
+|---|---|---|
+| [Aethra]({{ '/wiki/world/aethra/' | relative_url }}) | World lore | Terra's fundamental force. |
+| [Realms & Civilizations]({{ '/wiki/realms/' | relative_url }}) | Portal | Public realms and civilizations. |
+| [Great Powers]({{ '/wiki/factions/' | relative_url }}) | Factions | Major geopolitical powers of present-day Terra. |
+| [Other Factions]({{ '/wiki/factions/other/' | relative_url }}) | Factions and groups | Independent powers, organizations, and adventurer parties. |
+| [Beta War]({{ '/wiki/history/beta-war/' | relative_url }}) | History | Public historical overview. |
+| [Elf]({{ '/wiki/races/elf/' | relative_url }}) | Race | Public Elf entry. |
+| [Oni]({{ '/wiki/races/oni/' | relative_url }}) | Natural Evolution | Public Oni entry. |
+| [Garling]({{ '/wiki/characters/garling/' | relative_url }}) | Character | Human Hero associated with the Beta War. |
+| [Raizen]({{ '/wiki/characters/raizen/' | relative_url }}) | Character | Oni King associated with the Beta War. |
+| [Terra]({{ '/wiki/world/terra/' | relative_url }}) | World | Overview of the living world. |

@@ -8,4 +8,16 @@ description: Realm and civilization articles in the public Sovereign of Aethra W
 
 This category collects public articles about Terra's realms and civilizations.
 
-<div class="cards"><a class="card" href="{{ '/wiki/realms/' | relative_url }}"><strong>Realms & Civilizations</strong>Browse the complete realm portal.</a><a class="card" href="{{ '/wiki/locations/astrelia/' | relative_url }}"><strong>Astrelia</strong>Human Kingdom.</a><a class="card" href="{{ '/wiki/locations/verenza/' | relative_url }}"><strong>Verenza</strong>Human Kingdom.</a><a class="card" href="{{ '/wiki/locations/solmaria/' | relative_url }}"><strong>Solmaria</strong>Human Kingdom.</a><a class="card" href="{{ '/wiki/locations/eldoria/' | relative_url }}"><strong>Eldoria</strong>Human Kingdom.</a><a class="card" href="{{ '/wiki/locations/auregrad/' | relative_url }}"><strong>Auregrad</strong>Human Kingdom.</a><a class="card" href="{{ '/wiki/locations/arklune/' | relative_url }}"><strong>Free City of Arklune</strong>Independent city-state.</a><a class="card" href="{{ '/wiki/locations/sylvaris/' | relative_url }}"><strong>Sylvaris</strong>Elven realm.</a><a class="card" href="{{ '/wiki/factions/dwarven-holds/' | relative_url }}"><strong>Dwarven Holds</strong>Dwarven civilization.</a><a class="card" href="{{ '/wiki/factions/the-hive/' | relative_url }}"><strong>The Hive</strong>Hiveborn civilization.</a><a class="card" href="{{ '/wiki/factions/dragon-throne/' | relative_url }}"><strong>The Dragon Throne</strong>Dragonkind Great Power.</a></div>
+| Entry | Classification |
+| --- | --- |
+| [Realms & Civilizations]({{ '/wiki/realms/' | relative_url }}) | Complete realm directory |
+| [Astrelia]({{ '/wiki/locations/astrelia/' | relative_url }}) | Human Kingdom |
+| [Verenza]({{ '/wiki/locations/verenza/' | relative_url }}) | Human Kingdom |
+| [Solmaria]({{ '/wiki/locations/solmaria/' | relative_url }}) | Human Kingdom |
+| [Eldoria]({{ '/wiki/locations/eldoria/' | relative_url }}) | Human Kingdom |
+| [Auregrad]({{ '/wiki/locations/auregrad/' | relative_url }}) | Human Kingdom |
+| [Free City of Arklune]({{ '/wiki/locations/arklune/' | relative_url }}) | Independent city-state |
+| [Sylvaris]({{ '/wiki/locations/sylvaris/' | relative_url }}) | Elven realm |
+| [Dwarven Holds]({{ '/wiki/factions/dwarven-holds/' | relative_url }}) | Dwarven civilization |
+| [The Hive]({{ '/wiki/factions/the-hive/' | relative_url }}) | Hiveborn civilization |
+| [The Dragon Throne]({{ '/wiki/factions/dragon-throne/' | relative_url }}) | Dragonkind Great Power |

@@ -15,6 +15,10 @@ categories: [Races]
 
 Dragonkind is among Terra's publicly known lineages. Public material identifies Great Dragon Mountain and the Dragon Throne, its sacred high seat above the cloud layer.
 
+## Public Titles
+
+**Dragon Lord** is a title or status associated with exceptional Dragons rather than the name of a race. **Dragon Emperor** is the superior title held by [Rhaen]({{ '/wiki/characters/rhaen/' | relative_url }}).
+
 ## Approved Visual Reference
 
 <figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/races/dragonkind/SOA_DRAGONKIND_RACE_REFERENCE_v01.jpg' | relative_url }}" data-lightbox data-caption="Dragonkind — approved generic race reference"><img loading="lazy" class="map" src="{{ '/assets/races/dragonkind/SOA_DRAGONKIND_RACE_REFERENCE_v01.jpg' | relative_url }}" alt="Approved generic Dragonkind race sheet with Human height comparison, adult turnaround, female, and dragon visual references"></a><figcaption>Dragonkind — approved generic race reference. It does not depict a named individual.</figcaption></figure>

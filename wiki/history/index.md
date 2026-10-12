@@ -11,4 +11,6 @@ This portal records only history released to the public. Additional eras and eve
 
 ## Major Events
 
-<div class="cards"><a class="card" href="{{ '/wiki/history/beta-war/' | relative_url }}"><strong>Beta War</strong>A conflict approximately 43 years before the main story.</a></div>
+| Event | Description |
+|---|---|
+| [Beta War]({{ '/wiki/history/beta-war/' | relative_url }}) | A conflict approximately 43 years before the main story. |

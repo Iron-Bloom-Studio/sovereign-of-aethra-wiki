@@ -6,4 +6,7 @@ description: Public articles about recognition-based Authority systems and title
 <p class="breadcrumb">Home › Categories › Authority</p>
 # Category: Authority
 
-<div class="cards"><a class="card" href="{{ '/wiki/systems/sigils/' | relative_url }}"><strong>Sigils</strong>Reader-safe overview of recognition-based Authorities and their bearers.</a><a class="card" href="{{ '/wiki/factions/seven-sigils/' | relative_url }}"><strong>The Seven Sigils</strong>The geopolitical Great Power associated with the known Sigil domains.</a></div>
+| Entry | Public overview |
+| --- | --- |
+| [Sigils]({{ '/wiki/systems/sigils/' | relative_url }}) | Reader-safe overview of recognition-based Authorities and their bearers |
+| [The Seven Sigils]({{ '/wiki/factions/seven-sigils/' | relative_url }}) | Geopolitical Great Power associated with the known Sigil domains |

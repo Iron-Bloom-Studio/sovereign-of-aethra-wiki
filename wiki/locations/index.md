@@ -7,8 +7,14 @@ title: Locations
 
 ## World
 
-<div class="cards"><a class="card" href="{{ '/wiki/world/terra/' | relative_url }}"><strong>Terra</strong>The Great Continent.</a><a class="card" href="{{ '/wiki/realms/' | relative_url }}"><strong>Realms & Civilizations</strong>Browse Terra's kingdoms and major civilizations.</a></div>
+| Entry | Description |
+|---|---|
+| [Terra]({{ '/wiki/world/terra/' | relative_url }}) | The Great Continent. |
+| [Realms & Civilizations]({{ '/wiki/realms/' | relative_url }}) | Browse Terra's kingdoms and major civilizations. |
 
 ## Settlements
 
-<div class="cards"><a class="card" href="{{ '/wiki/locations/khazir/' | relative_url }}"><strong>Khazir Hold</strong>Major subterranean Dwarven Hold.</a><a class="card" href="{{ '/wiki/locations/aven/' | relative_url }}"><strong>Aven</strong>Village in Eldoria.</a></div>
+| Settlement | Description |
+|---|---|
+| [Khazir Hold]({{ '/wiki/locations/khazir/' | relative_url }}) | Major subterranean Dwarven Hold. |
+| [Aven]({{ '/wiki/locations/aven/' | relative_url }}) | Village in Eldoria. |

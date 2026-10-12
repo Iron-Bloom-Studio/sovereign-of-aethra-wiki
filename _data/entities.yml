@@ -77,6 +77,18 @@ rae:
   url: /wiki/characters/rae/
   content_type: character
 
+nina:
+  title: Nina
+  url: /wiki/characters/nina/
+  content_type: character
+  description: Human healer of Far Horizon.
+
+gustav:
+  title: Gustav
+  url: /wiki/characters/gustav/
+  content_type: character
+  description: Human defender and frontline combatant of Far Horizon.
+
 rhaen:
   title: Rhaen
   url: /wiki/characters/rhaen/
@@ -196,6 +208,13 @@ grand-adventurer-guild:
   content_type: organization
   classification: International adventuring institution
   destination_type: section
+
+far-horizon:
+  title: Far Horizon
+  url: /wiki/factions/other/far-horizon/
+  content_type: organization
+  classification: Rank B adventurer party
+  description: Active traveling party consisting of Rae, Nina, and Gustav.
 
 beta-remnant:
   title: Beta Remnant

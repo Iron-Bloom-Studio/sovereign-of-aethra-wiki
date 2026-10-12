@@ -6,7 +6,7 @@ This inventory is generated from the current Jekyll source. Documentation files 
 
 ## Summary
 
-- Public page URLs: **78**
+- Public page URLs: **81**
 - Protected anchor destinations: **5**
 - Permalink mode: `pretty`
 - Production base URL: `/sovereign-of-aethra-wiki`
@@ -28,7 +28,7 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | Source file | Current URL | Content type | Referenced anchors | Referenced elsewhere? |
 |---|---|---|---|---|
 | `404.html` | `/404.html` | error page | — | No detected references |
-| `index.md` | `/` | homepage | — | Yes (75 files) |
+| `index.md` | `/` | homepage | — | Yes (78 files) |
 | `search/index.md` | `/search/` | search utility | — | No detected references |
 | `wiki/about.md` | `/wiki/about/` | meta | — | No detected references |
 | `wiki/artwork.md` | `/wiki/artwork/` | gallery | — | No detected references |
@@ -45,14 +45,16 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/characters/eldren.md` | `/wiki/characters/eldren/` | character | — | Yes (3 files) |
 | `wiki/characters/garling.md` | `/wiki/characters/garling/` | character | — | Yes (12 files) |
 | `wiki/characters/gorzan.md` | `/wiki/characters/gorzan/` | character | — | Yes (1 files) |
-| `wiki/characters/index.md` | `/wiki/characters/` | portal | — | Yes (21 files) |
+| `wiki/characters/gustav.md` | `/wiki/characters/gustav/` | character | — | Yes (5 files) |
+| `wiki/characters/index.md` | `/wiki/characters/` | portal | — | Yes (26 files) |
 | `wiki/characters/luca.md` | `/wiki/characters/luca/` | character | — | Yes (5 files) |
 | `wiki/characters/lysara.md` | `/wiki/characters/lysara/` | character | — | Yes (2 files) |
+| `wiki/characters/nina.md` | `/wiki/characters/nina/` | character | — | Yes (5 files) |
 | `wiki/characters/pip.md` | `/wiki/characters/pip/` | character | — | Yes (3 files) |
-| `wiki/characters/rae.md` | `/wiki/characters/rae/` | character | — | Yes (1 files) |
+| `wiki/characters/rae.md` | `/wiki/characters/rae/` | character | — | Yes (5 files) |
 | `wiki/characters/raizen.md` | `/wiki/characters/raizen/` | character | — | Yes (12 files) |
 | `wiki/characters/reika.md` | `/wiki/characters/reika/` | character | — | Yes (1 files) |
-| `wiki/characters/rhaen.md` | `/wiki/characters/rhaen/` | character | — | Yes (1 files) |
+| `wiki/characters/rhaen.md` | `/wiki/characters/rhaen/` | character | — | Yes (2 files) |
 | `wiki/characters/rolan.md` | `/wiki/characters/rolan/` | character | — | Yes (3 files) |
 | `wiki/characters/serena.md` | `/wiki/characters/serena/` | character | — | Yes (4 files) |
 | `wiki/characters/zerak.md` | `/wiki/characters/zerak/` | character | — | Yes (3 files) |
@@ -61,23 +63,24 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/factions/dragon-throne.md` | `/wiki/factions/dragon-throne/` | realm | — | Yes (10 files) |
 | `wiki/factions/dwarven-holds.md` | `/wiki/factions/dwarven-holds/` | realm | — | Yes (9 files) |
 | `wiki/factions/grand-concord.md` | `/wiki/factions/grand-concord/` | Factions | — | Yes (11 files) |
-| `wiki/factions/index.md` | `/wiki/factions/` | portal | — | Yes (32 files) |
-| `wiki/factions/other/index.md` | `/wiki/factions/other/` | portal | — | Yes (6 files) |
+| `wiki/factions/index.md` | `/wiki/factions/` | portal | — | Yes (36 files) |
+| `wiki/factions/other/far-horizon.md` | `/wiki/factions/other/far-horizon/` | faction | — | Yes (5 files) |
+| `wiki/factions/other/index.md` | `/wiki/factions/other/` | portal | — | Yes (10 files) |
 | `wiki/factions/seven-sigils.md` | `/wiki/factions/seven-sigils/` | Great Powers | — | Yes (10 files) |
-| `wiki/factions/the-hive.md` | `/wiki/factions/the-hive/` | realm | `#zyrath-hive`, `#the-rogue-hive` | Yes (9 files) |
+| `wiki/factions/the-hive.md` | `/wiki/factions/the-hive/` | realm | `#the-rogue-hive` | Yes (9 files) |
 | `wiki/history/beta-war.md` | `/wiki/history/beta-war/` | event | — | Yes (16 files) |
 | `wiki/history/index.md` | `/wiki/history/` | portal | — | Yes (16 files) |
 | `wiki/index/index.md` | `/wiki/index/` | portal | — | No detected references |
 | `wiki/locations/arklune.md` | `/wiki/locations/arklune/` | realm | `#the-grand-adventurer-guild` | Yes (10 files) |
-| `wiki/locations/astrelia.md` | `/wiki/locations/astrelia/` | realm | — | Yes (6 files) |
-| `wiki/locations/auregrad.md` | `/wiki/locations/auregrad/` | realm | — | Yes (6 files) |
+| `wiki/locations/astrelia.md` | `/wiki/locations/astrelia/` | realm | — | Yes (5 files) |
+| `wiki/locations/auregrad.md` | `/wiki/locations/auregrad/` | realm | — | Yes (5 files) |
 | `wiki/locations/aven.md` | `/wiki/locations/aven/` | article | — | Yes (3 files) |
-| `wiki/locations/eldoria.md` | `/wiki/locations/eldoria/` | realm | — | Yes (8 files) |
+| `wiki/locations/eldoria.md` | `/wiki/locations/eldoria/` | realm | — | Yes (7 files) |
 | `wiki/locations/index.md` | `/wiki/locations/` | portal | — | Yes (21 files) |
 | `wiki/locations/khazir.md` | `/wiki/locations/khazir/` | article | — | Yes (4 files) |
-| `wiki/locations/solmaria.md` | `/wiki/locations/solmaria/` | realm | — | Yes (6 files) |
+| `wiki/locations/solmaria.md` | `/wiki/locations/solmaria/` | realm | — | Yes (5 files) |
 | `wiki/locations/sylvaris.md` | `/wiki/locations/sylvaris/` | realm | — | Yes (9 files) |
-| `wiki/locations/verenza.md` | `/wiki/locations/verenza/` | realm | — | Yes (5 files) |
+| `wiki/locations/verenza.md` | `/wiki/locations/verenza/` | realm | — | Yes (4 files) |
 | `wiki/magic/index.md` | `/wiki/magic/` | portal | — | Yes (1 files) |
 | `wiki/novel/en/prologue.md` | `/wiki/novel/en/prologue/` | novel portal/manuscript | — | Yes (1 files) |
 | `wiki/novel/id/prologue.md` | `/wiki/novel/id/prologue/` | novel portal/manuscript | — | Yes (1 files) |
@@ -91,8 +94,8 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/races/harpy.md` | `/wiki/races/harpy/` | race | — | Yes (2 files) |
 | `wiki/races/hiveborn.md` | `/wiki/races/hiveborn/` | race | — | Yes (2 files) |
 | `wiki/races/hobgoblin.md` | `/wiki/races/hobgoblin/` | evolution | — | Yes (3 files) |
-| `wiki/races/human.md` | `/wiki/races/human/` | race | — | Yes (5 files) |
-| `wiki/races/index.md` | `/wiki/races/` | portal | — | Yes (28 files) |
+| `wiki/races/human.md` | `/wiki/races/human/` | race | — | Yes (8 files) |
+| `wiki/races/index.md` | `/wiki/races/` | portal | — | Yes (31 files) |
 | `wiki/races/ogre.md` | `/wiki/races/ogre/` | race | — | Yes (7 files) |
 | `wiki/races/oni.md` | `/wiki/races/oni/` | evolution | — | Yes (7 files) |
 | `wiki/races/orc.md` | `/wiki/races/orc/` | race | — | Yes (2 files) |
