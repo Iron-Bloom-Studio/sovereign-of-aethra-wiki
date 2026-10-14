@@ -29,6 +29,12 @@ infobox:
 ---
 Raizen is the Oni King and Demon Lord Beta in the Beta War record. He is an Oni, the Natural Evolution of Ogre. Demon Lord is an Authority/title, not a biological evolution.
 
+## Four Oni Warriors
+
+Four Oni warriors associated with Raizen are preserved in the public archive through an approved group visual reference. Their individual names, ranks, abilities, and histories are not currently documented publicly.
+
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/characters/raizen/SOA_RAIZEN_FOUR_ONI_WARRIORS_v01.png' | relative_url }}" data-lightbox data-caption="Raizen's Four Oni Warriors — approved group visual reference"><img loading="lazy" class="map" src="{{ '/assets/characters/raizen/SOA_RAIZEN_FOUR_ONI_WARRIORS_v01.png' | relative_url }}" alt="Approved monochrome group visual of four Oni warriors associated with Raizen, carrying a greatsword, paired axes, a curved sword, and a war hammer."></a><figcaption><strong>Four Oni Warriors</strong> — approved group visual reference. Select to enlarge.</figcaption></figure>
+
 ## Related Articles
 
 <ul class="related-list"><li><a href="{{ '/wiki/races/oni/' | relative_url }}">Oni</a></li><li><a href="{{ '/wiki/races/ogre/' | relative_url }}">Ogre</a></li><li><a href="{{ '/wiki/races/demonkind/' | relative_url }}">Demonkind</a></li><li><a href="{{ '/wiki/factions/seven-sigils/' | relative_url }}">Seven Sigils</a></li><li><a href="{{ '/wiki/history/beta-war/' | relative_url }}">Beta War</a></li></ul>
