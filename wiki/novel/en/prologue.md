@@ -1136,6 +1136,8 @@ Raizen.
 
 **Demon Lord Beta.**
 
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/history/beta-war/SOA_RAIZEN_FOUR_ONI_WARRIORS_ARRIVAL_v01.png' | relative_url }}" data-lightbox data-caption="Raizen arrives with the Four Oni Warriors"><img loading="lazy" class="map" src="{{ '/assets/history/beta-war/SOA_RAIZEN_FOUR_ONI_WARRIORS_ARRIVAL_v01.png' | relative_url }}" alt="Monochrome illustration of Raizen arriving on the Beta War battlefield with four Oni warriors."></a><figcaption><strong>Raizen and the Four Oni Warriors</strong> — their arrival on the Beta War battlefield. Select the image to enlarge.</figcaption></figure>
+
 For six days, he had commanded the war without entering the battlefield.
 
 His army had nearly destroyed Asteron without him ever needing to raise a weapon.
@@ -1303,6 +1305,8 @@ He drew his sword.
 "Two stupid Humans."
 
 Then followed them down.
+
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/history/beta-war/SOA_BETA_WAR_TRIO_v01.jpg' | relative_url }}" data-lightbox data-caption="Beta War Trio — Rolan, Garling, and Eldren"><img loading="lazy" class="map" src="{{ '/assets/history/beta-war/SOA_BETA_WAR_TRIO_v01.jpg' | relative_url }}" alt="Monochrome manga illustration of Rolan, Garling, and Eldren standing together during the Beta War."></a><figcaption><strong>Beta War Trio</strong> — Rolan, Garling, and Eldren. Select the image to enlarge.</figcaption></figure>
 
 ---
 

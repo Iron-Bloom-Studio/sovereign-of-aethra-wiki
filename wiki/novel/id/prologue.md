@@ -1194,6 +1194,8 @@ Raizen.
 
 **Demon Lord Beta.**
 
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/history/beta-war/SOA_RAIZEN_FOUR_ONI_WARRIORS_ARRIVAL_v01.png' | relative_url }}" data-lightbox data-caption="Kemunculan Raizen bersama Four Oni Warriors"><img loading="lazy" class="map" src="{{ '/assets/history/beta-war/SOA_RAIZEN_FOUR_ONI_WARRIORS_ARRIVAL_v01.png' | relative_url }}" alt="Ilustrasi monokrom kemunculan Raizen bersama empat prajurit Oni di medan Beta War."></a><figcaption><strong>Raizen dan Four Oni Warriors</strong> — kemunculan mereka di medan Beta War. Pilih gambar untuk memperbesar.</figcaption></figure>
+
 Selama enam hari ia memimpin perang tanpa memasuki medan pertempuran.
 
 Pasukannya hampir menghancurkan Asteron tanpa dirinya perlu mengangkat
@@ -1363,6 +1365,8 @@ Ia menarik pedangnya.
 "Dua manusia bodoh."
 
 Lalu ikut turun.
+
+<figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/history/beta-war/SOA_BETA_WAR_TRIO_v01.jpg' | relative_url }}" data-lightbox data-caption="Trio Beta War — Rolan, Garling, dan Eldren"><img loading="lazy" class="map" src="{{ '/assets/history/beta-war/SOA_BETA_WAR_TRIO_v01.jpg' | relative_url }}" alt="Ilustrasi manga monokrom Rolan, Garling, dan Eldren berdiri bersama dalam Beta War."></a><figcaption><strong>Trio Beta War</strong> — Rolan, Garling, dan Eldren. Pilih gambar untuk memperbesar.</figcaption></figure>
 
 ------------------------------------------------------------------------
 
