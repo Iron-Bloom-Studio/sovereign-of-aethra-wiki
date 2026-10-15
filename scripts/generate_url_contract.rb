@@ -64,7 +64,7 @@ def infer_type(path, data)
   return "category portal" if relative.start_with?("wiki/categories/")
   return "novel portal/manuscript" if relative.start_with?("wiki/novel/")
   return "portal" if relative.end_with?("/index.md")
-  return layout if %w[character event evolution faction location race realm].include?(layout)
+  return layout if %w[character creature event evolution faction location race realm].include?(layout)
   return "meta" if relative == "wiki/about.md"
   return "gallery" if relative == "wiki/artwork.md"
   return "system" if relative.start_with?("wiki/systems/")

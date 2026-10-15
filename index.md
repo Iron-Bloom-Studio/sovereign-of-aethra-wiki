@@ -17,7 +17,7 @@ description: The official public encyclopedia of Terra.
 | [Realms & Civilizations]({{ '/wiki/realms/' | relative_url }}) | Great Powers, kingdoms, independent polities, and major civilizations |
 | [Races]({{ '/wiki/races/' | relative_url }}) | Peoples and biological lineages of Terra |
 | [Characters]({{ '/wiki/characters/' | relative_url }}) | Public character profiles |
-| Bestiary | Public creature records are not yet available |
+| [Bestiary]({{ '/wiki/bestiary/' | relative_url }}) | Wildlife and non-sapient creatures documented across Terra |
 | [Relics & Artifacts]({{ '/wiki/relics-artifacts/' | relative_url }}) | Historically significant objects |
 | [Magic]({{ '/wiki/magic/' | relative_url }}) | Public overview of magic and Aethra |
 | [Sigils]({{ '/wiki/systems/sigils/' | relative_url }}) | Public records of recognition-based Authorities |

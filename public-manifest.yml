@@ -12,6 +12,7 @@ entities:
   other_factions: [rogue-hive]
   locations: [terra, aven, arklune, astrelia, verenza, solmaria, eldoria, auregrad, sylvaris, khazir]
   history: [beta-war]
+  bestiary: [forest-wolf, forest-boar]
   systems: [natural-evolution, class, magic, sigils]
   archives: [relics-artifacts]
   novels: [prologue-id, prologue-en]
@@ -94,3 +95,5 @@ assets:
   - SOA_RHAEN_PUBLIC_SILHOUETTE_v01
   - SOA_BRAM_WIKI_PORTRAIT_v01
   - SOA_DEREN_WIKI_PORTRAIT_v01
+  - SOA_MONSTER_FOREST_WOLF_v01
+  - SOA_MONSTER_FOREST_BOAR_v01

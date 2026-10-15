@@ -6,7 +6,7 @@ This inventory is generated from the current Jekyll source. Documentation files 
 
 ## Summary
 
-- Public page URLs: **81**
+- Public page URLs: **85**
 - Protected anchor destinations: **5**
 - Permalink mode: `pretty`
 - Production base URL: `/sovereign-of-aethra-wiki`
@@ -28,11 +28,15 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | Source file | Current URL | Content type | Referenced anchors | Referenced elsewhere? |
 |---|---|---|---|---|
 | `404.html` | `/404.html` | error page | — | No detected references |
-| `index.md` | `/` | homepage | — | Yes (80 files) |
+| `index.md` | `/` | homepage | — | Yes (84 files) |
 | `search/index.md` | `/search/` | search utility | — | No detected references |
 | `wiki/about.md` | `/wiki/about/` | meta | — | No detected references |
 | `wiki/artwork.md` | `/wiki/artwork/` | gallery | — | No detected references |
+| `wiki/bestiary/forest-boar.md` | `/wiki/bestiary/forest-boar/` | creature | — | Yes (4 files) |
+| `wiki/bestiary/forest-wolf.md` | `/wiki/bestiary/forest-wolf/` | creature | — | Yes (4 files) |
+| `wiki/bestiary/index.md` | `/wiki/bestiary/` | portal | — | Yes (6 files) |
 | `wiki/categories/authority.md` | `/wiki/categories/authority/` | category portal | — | Yes (1 files) |
+| `wiki/categories/bestiary.md` | `/wiki/categories/bestiary/` | category portal | — | Yes (1 files) |
 | `wiki/categories/beta-war.md` | `/wiki/categories/beta-war/` | category portal | — | Yes (3 files) |
 | `wiki/categories/characters.md` | `/wiki/categories/characters/` | category portal | — | Yes (3 files) |
 | `wiki/categories/demonkind.md` | `/wiki/categories/demonkind/` | category portal | — | Yes (2 files) |
@@ -95,7 +99,7 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/races/hiveborn.md` | `/wiki/races/hiveborn/` | race | — | Yes (2 files) |
 | `wiki/races/hobgoblin.md` | `/wiki/races/hobgoblin/` | evolution | — | Yes (3 files) |
 | `wiki/races/human.md` | `/wiki/races/human/` | race | — | Yes (8 files) |
-| `wiki/races/index.md` | `/wiki/races/` | portal | — | Yes (32 files) |
+| `wiki/races/index.md` | `/wiki/races/` | portal | — | Yes (33 files) |
 | `wiki/races/ogre.md` | `/wiki/races/ogre/` | race | — | Yes (7 files) |
 | `wiki/races/oni.md` | `/wiki/races/oni/` | evolution | — | Yes (7 files) |
 | `wiki/races/orc.md` | `/wiki/races/orc/` | race | — | Yes (2 files) |
@@ -106,8 +110,8 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/systems/natural-evolution.md` | `/wiki/systems/natural-evolution/` | evolution | — | Yes (9 files) |
 | `wiki/systems/sigils.md` | `/wiki/systems/sigils/` | system | — | Yes (12 files) |
 | `wiki/world/aethra.md` | `/wiki/world/aethra/` | world lore | — | Yes (8 files) |
-| `wiki/world/index.md` | `/wiki/world/` | portal | — | Yes (18 files) |
-| `wiki/world/terra.md` | `/wiki/world/terra/` | location | `#the-great-continent`, `#geography` | Yes (11 files) |
+| `wiki/world/index.md` | `/wiki/world/` | portal | — | Yes (20 files) |
+| `wiki/world/terra.md` | `/wiki/world/terra/` | location | `#the-great-continent`, `#geography` | Yes (13 files) |
 
 ## Maintenance
 

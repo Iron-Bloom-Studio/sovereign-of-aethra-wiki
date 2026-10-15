@@ -29,7 +29,7 @@ A race is not automatically bound to a kingdom, faction, civilization, or politi
 
 ## Monsters and Peoples
 
-The word *monster* does not automatically identify a biological race. Sapient peoples are documented here according to approved biological classification; creatures documented as wildlife or monsters belong to the separate Bestiary archive, which is not yet publicly available.
+The word *monster* does not automatically identify a biological race. Sapient peoples are documented here according to approved biological classification; creatures documented as wildlife or monsters belong to the separate [Bestiary]({{ '/wiki/bestiary/' | relative_url }}) archive.
 
 ## Known Races
 

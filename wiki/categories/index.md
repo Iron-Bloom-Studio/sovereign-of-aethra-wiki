@@ -15,3 +15,4 @@ description: Browse the public archive by category.
 | [Human]({{ '/wiki/categories/human/' | relative_url }}) | Public Human-related entries |
 | [Demonkind]({{ '/wiki/categories/demonkind/' | relative_url }}) | Public Demonkind-related entries |
 | [Beta War]({{ '/wiki/categories/beta-war/' | relative_url }}) | Public historical entries |
+| [Bestiary]({{ '/wiki/categories/bestiary/' | relative_url }}) | Public creature records |

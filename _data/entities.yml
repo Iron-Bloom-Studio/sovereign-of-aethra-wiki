@@ -33,9 +33,21 @@ races:
 
 bestiary:
   title: Bestiary
+  url: /wiki/bestiary/
   content_type: portal
-  available: false
-  note: No approved public Bestiary landing page exists yet.
+  available: true
+
+forest-wolf:
+  title: Forest Wolf
+  url: /wiki/bestiary/forest-wolf/
+  content_type: creature
+  description: A large mobile woodland predator.
+
+forest-boar:
+  title: Forest Boar
+  url: /wiki/bestiary/forest-boar/
+  content_type: creature
+  description: A powerful forest forager known for its charge.
 
 relics-artifacts:
   title: Relics & Artifacts

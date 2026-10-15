@@ -79,8 +79,11 @@ creature:
     - { key: sapient, label: Sapient }
     - { key: habitat, label: Habitat }
     - { key: range, label: Range }
+    - { key: height, label: Approximate Height }
     - { key: traits, label: Known Traits }
     - { key: threat_level, label: Threat Level }
+    - { key: primary_attacks, label: Primary Attacks }
+    - { key: novel_appearance, label: Novel Appearance }
 
 sigil:
   label: Sigil domain facts
