@@ -10,7 +10,7 @@ infobox:
   image_alt: Approved Forest Wolf bestiary portrait
   fields:
     Classification: Natural woodland predator
-    Sapient: No
+    Sapient: "No"
     Habitat: Forest Edge and Outer Forest
     Approximate height: About 1.2 m at the shoulder
     Threat profile: Mobile common forest danger

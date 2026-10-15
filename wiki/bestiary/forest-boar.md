@@ -10,7 +10,7 @@ infobox:
   image_alt: Approved Forest Boar bestiary portrait
   fields:
     Classification: Large wild boar
-    Sapient: No
+    Sapient: "No"
     Habitat: Forest Edge and Outer Forest
     Approximate height: About 1.3 m at the shoulder
     Threat profile: Powerful aggressive terrestrial hazard
