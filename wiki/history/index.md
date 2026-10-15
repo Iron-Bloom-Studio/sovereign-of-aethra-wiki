@@ -13,4 +13,4 @@ This portal records only history released to the public. Additional eras and eve
 
 | Event | Description |
 |---|---|
-| [Beta War]({{ '/wiki/history/beta-war/' | relative_url }}) | A conflict approximately 43 years before the main story. |
+| [Beta War]({{ '/wiki/history/beta-war/' | relative_url }}) | The invasion led by Demon Lord Beta and the seven-day Battle of Asteron, approximately 43 years before the main story. |
