@@ -2,6 +2,7 @@ header:
   - entity: home
   - entity: lore
     label: Lore Index
+  - entity: interactive-maps
   - entity: about
   - entity: novel
     label: Read the Novel ↗
@@ -9,6 +10,7 @@ header:
 sidebar:
   - items:
       - entity: world
+      - entity: interactive-maps
       - entity: realms
       - entity: races
       - entity: characters

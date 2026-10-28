@@ -1,0 +1,307 @@
+.interactive-map-grid {
+  max-width: 1680px;
+  grid-template-columns: 192px minmax(0, 1fr);
+}
+
+.interactive-map-page {
+  min-width: 0;
+}
+
+.interactive-map-page h1 {
+  margin-bottom: .35rem;
+}
+
+.interactive-map-intro {
+  max-width: 76ch;
+  color: var(--muted);
+}
+
+.interactive-map-shell {
+  margin-top: 1.35rem;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: #1c2730;
+  box-shadow: var(--shadow);
+}
+
+.interactive-map-toolbar {
+  display: grid;
+  grid-template-columns: minmax(220px, 1fr) minmax(170px, .45fr) auto auto;
+  gap: .65rem;
+  align-items: end;
+  padding: .8rem;
+  border-bottom: 1px solid #8c744e;
+  background: #f5ead2;
+  font: .8rem Arial, sans-serif;
+}
+
+.interactive-map-field {
+  display: grid;
+  gap: .25rem;
+  color: #594726;
+  font-weight: 700;
+}
+
+.interactive-map-field input,
+.interactive-map-field select,
+.interactive-map-button {
+  min-height: 42px;
+  border: 1px solid #af9367;
+  border-radius: 3px;
+  background: #fffaf0;
+  color: var(--ink);
+  font: 1rem Arial, sans-serif;
+}
+
+.interactive-map-field input,
+.interactive-map-field select {
+  width: 100%;
+  padding: .55rem .65rem;
+}
+
+.interactive-map-button {
+  padding: .5rem .85rem;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.interactive-map-button:hover,
+.interactive-map-button:focus-visible {
+  border-color: var(--aethra);
+  background: #e9f0ec;
+}
+
+.interactive-map-workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  min-height: 680px;
+}
+
+.interactive-map-canvas {
+  min-height: 680px;
+  background: #162129;
+  font-family: Arial, sans-serif;
+}
+
+.interactive-map-panel {
+  padding: 1rem;
+  border-left: 1px solid #8c744e;
+  background: linear-gradient(180deg, #fff9ec, #eee0c3);
+  color: var(--ink);
+}
+
+.interactive-map-panel__eyebrow {
+  margin: 0 0 .25rem;
+  color: var(--gold);
+  font: 700 .7rem Arial, sans-serif;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.interactive-map-panel h2 {
+  margin: 0 0 .55rem;
+  border: 0;
+  color: var(--navy);
+  font-size: 1.45rem;
+  line-height: 1.2;
+}
+
+.interactive-map-panel__region {
+  margin: 0 0 .8rem;
+  color: var(--muted);
+  font: .85rem Arial, sans-serif;
+}
+
+.interactive-map-panel__description {
+  margin: 0 0 1rem;
+}
+
+.interactive-map-panel__link {
+  display: inline-block;
+  padding: .45rem .7rem;
+  border: 1px solid var(--gold);
+  background: #fffaf0;
+  color: var(--navy);
+  font: 700 .83rem Arial, sans-serif;
+  text-decoration: none;
+}
+
+.interactive-map-panel__link[hidden] {
+  display: none;
+}
+
+.interactive-map-panel__link:hover,
+.interactive-map-panel__link:focus-visible {
+  background: #eadcc0;
+}
+
+.interactive-map-legend {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .45rem .7rem;
+  margin: 1.25rem 0 0;
+  padding: 1rem 0 0;
+  border-top: 1px solid var(--line);
+  color: #554b3f;
+  font: .75rem Arial, sans-serif;
+}
+
+.interactive-map-legend span {
+  display: flex;
+  gap: .4rem;
+  align-items: center;
+}
+
+.interactive-map-swatch {
+  width: .72rem;
+  height: .72rem;
+  flex: 0 0 auto;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 0 1px #4a3c2b;
+}
+
+.interactive-map-swatch--capital { background: #d6a02d; }
+.interactive-map-swatch--city { background: #3e86a0; }
+.interactive-map-swatch--settlement { background: #5d9965; }
+.interactive-map-swatch--realm { background: #9b4d8a; }
+.interactive-map-swatch--region { background: #557c48; }
+.interactive-map-swatch--landmark { background: #b76c3e; }
+.interactive-map-swatch--domain { background: #983f46; }
+
+.interactive-map-status {
+  margin: 0;
+  padding: .55rem .8rem;
+  border-top: 1px solid #8c744e;
+  background: #f5ead2;
+  color: #594726;
+  font: .78rem Arial, sans-serif;
+}
+
+.interactive-map-shell:fullscreen {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.interactive-map-shell:fullscreen .interactive-map-workspace {
+  min-height: 0;
+  flex: 1 1 auto;
+}
+
+.interactive-map-shell:fullscreen .interactive-map-canvas {
+  min-height: 0;
+  height: 100%;
+}
+
+.interactive-map-marker {
+  display: block;
+  width: 15px;
+  height: 15px;
+  border: 2px solid #fff8e8;
+  border-radius: 50%;
+  box-shadow: 0 1px 5px #000b, 0 0 0 1px #302718;
+}
+
+.interactive-map-marker--capital { background: #d6a02d; }
+.interactive-map-marker--city { background: #3e86a0; }
+.interactive-map-marker--settlement { background: #5d9965; }
+.interactive-map-marker--realm { background: #9b4d8a; }
+.interactive-map-marker--region { background: #557c48; }
+.interactive-map-marker--landmark { background: #b76c3e; }
+.interactive-map-marker--domain { background: #983f46; }
+
+.interactive-map-marker.is-active {
+  transform: scale(1.45);
+  box-shadow: 0 1px 6px #000c, 0 0 0 3px #fff4bf;
+}
+
+.interactive-map-canvas .leaflet-tooltip {
+  padding: .35rem .5rem;
+  border-color: #90754b;
+  background: #fff9e9;
+  color: #213650;
+  font: 700 .78rem Arial, sans-serif;
+  box-shadow: 0 3px 12px #0004;
+}
+
+.interactive-map-canvas .leaflet-control-zoom a {
+  color: var(--navy);
+  background: #fff9e9;
+}
+
+.interactive-map-canvas:focus-visible {
+  outline: 3px solid var(--aethra);
+  outline-offset: -3px;
+}
+
+.interactive-map-note {
+  margin-top: 1rem;
+  padding: .75rem 1rem;
+  border-left: 4px solid var(--aethra);
+  background: #e8f1ef;
+  color: #3f4d4e;
+  font-size: .9rem;
+}
+
+@media (max-width: 1180px) {
+  .interactive-map-toolbar {
+    grid-template-columns: minmax(210px, 1fr) minmax(170px, .6fr);
+  }
+
+  .interactive-map-workspace {
+    grid-template-columns: minmax(0, 1fr) 260px;
+  }
+}
+
+@media (max-width: 900px) {
+  .interactive-map-grid {
+    display: block;
+  }
+
+  .interactive-map-grid .site-nav {
+    display: none;
+  }
+
+  .interactive-map-grid .site-nav.open {
+    display: block;
+  }
+
+  .interactive-map-workspace {
+    grid-template-columns: 1fr;
+  }
+
+  .interactive-map-panel {
+    border-top: 1px solid #8c744e;
+    border-left: 0;
+  }
+
+  .interactive-map-canvas,
+  .interactive-map-workspace {
+    min-height: 560px;
+  }
+
+  .interactive-map-panel {
+    min-height: 240px;
+  }
+}
+
+@media (max-width: 620px) {
+  .interactive-map-toolbar {
+    grid-template-columns: 1fr;
+  }
+
+  .interactive-map-canvas,
+  .interactive-map-workspace {
+    min-height: 480px;
+  }
+
+  .interactive-map-legend {
+    grid-template-columns: 1fr;
+  }
+}

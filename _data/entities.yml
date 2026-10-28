@@ -16,6 +16,12 @@ world:
   url: /wiki/world/
   content_type: portal
 
+interactive-maps:
+  title: Interactive Maps
+  url: /interactive-maps/
+  content_type: interactive map
+  description: Searchable public map of Terra with spoiler-safe wiki markers.
+
 realms:
   title: Realms & Civilizations
   url: /wiki/realms/

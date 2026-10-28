@@ -1,0 +1,241 @@
+{
+  "map": {
+    "id": "terra",
+    "title": "Terra — The Great Continent",
+    "image": "/assets/maps/SOA_TERRA_WORLD_MAP_v01.png",
+    "width": 1322,
+    "height": 1190
+  },
+  "locations": [
+    {
+      "id": "myra",
+      "name": "Myra",
+      "category": "capital",
+      "region": "Astrelia",
+      "x": 393,
+      "y": 262,
+      "description": "Capital of Astrelia, the Magic Kingdom of the Grand Concord.",
+      "href": "/wiki/locations/astrelia/"
+    },
+    {
+      "id": "lumen",
+      "name": "Lumen",
+      "category": "capital",
+      "region": "Solmaria",
+      "x": 673,
+      "y": 251,
+      "description": "Capital of Solmaria, the Holy Kingdom of the Grand Concord.",
+      "href": "/wiki/locations/solmaria/"
+    },
+    {
+      "id": "ceres",
+      "name": "Ceres",
+      "category": "capital",
+      "region": "Verenza",
+      "x": 550,
+      "y": 320,
+      "description": "Capital of Verenza, the Trade Kingdom of the Grand Concord.",
+      "href": "/wiki/locations/verenza/"
+    },
+    {
+      "id": "adren",
+      "name": "Adren",
+      "category": "capital",
+      "region": "Eldoria",
+      "x": 773,
+      "y": 358,
+      "description": "Capital of Eldoria, the Knowledge Kingdom of the Grand Concord.",
+      "href": "/wiki/locations/eldoria/"
+    },
+    {
+      "id": "aven",
+      "name": "Aven",
+      "category": "settlement",
+      "region": "Eldoria",
+      "x": 768,
+      "y": 407,
+      "description": "A village in Eldoria and Luca's home.",
+      "href": "/wiki/locations/aven/"
+    },
+    {
+      "id": "arklune",
+      "name": "Arklune",
+      "category": "city",
+      "region": "Independent Free City",
+      "x": 831,
+      "y": 478,
+      "description": "Independent multiracial free city on Eldoria's southern frontier.",
+      "href": "/wiki/locations/arklune/"
+    },
+    {
+      "id": "elyra",
+      "name": "Elyra",
+      "category": "capital",
+      "region": "Sylvaris",
+      "x": 1068,
+      "y": 412,
+      "description": "Principal city marked within the Elven realm of Sylvaris.",
+      "href": "/wiki/locations/sylvaris/"
+    },
+    {
+      "id": "varen",
+      "name": "Varen",
+      "category": "capital",
+      "region": "Auregrad",
+      "x": 1123,
+      "y": 490,
+      "description": "Capital of Auregrad, the Military Kingdom of the Grand Concord.",
+      "href": "/wiki/locations/auregrad/"
+    },
+    {
+      "id": "zyrath-hive",
+      "name": "Zyrath Hive",
+      "category": "realm",
+      "region": "The Hive",
+      "x": 1048,
+      "y": 151,
+      "description": "The leading political Hive of the present era.",
+      "href": "/wiki/factions/the-hive/#zyrath-hive"
+    },
+    {
+      "id": "great-forest",
+      "name": "The Great Forest",
+      "category": "region",
+      "region": "Eastern Great Continent",
+      "x": 913,
+      "y": 238,
+      "description": "One of the continent's largest ancient ecosystems.",
+      "href": "/wiki/locations/sylvaris/"
+    },
+    {
+      "id": "rogue-hive",
+      "name": "Rogue Hive — Zavor",
+      "category": "landmark",
+      "region": "The Great Forest",
+      "x": 968,
+      "y": 313,
+      "description": "A hostile Rogue Hive distinct from Hiveborn civilization as a whole.",
+      "href": "/wiki/factions/the-hive/#the-rogue-hive"
+    },
+    {
+      "id": "great-tree",
+      "name": "The Great Tree",
+      "category": "landmark",
+      "region": "Sylvaris",
+      "x": 1131,
+      "y": 326,
+      "description": "Sacred landmark associated with Sylvaris and the Wardens of the Great Tree.",
+      "href": "/wiki/locations/sylvaris/"
+    },
+    {
+      "id": "drakara",
+      "name": "Drakara",
+      "category": "realm",
+      "region": "Great Dragon Mountains",
+      "x": 537,
+      "y": 610,
+      "description": "Dragonkind territory associated with the Dragon Throne.",
+      "href": "/wiki/factions/dragon-throne/"
+    },
+    {
+      "id": "khazir-north-gate",
+      "name": "Khazir North Gate",
+      "category": "landmark",
+      "region": "Dwarven Holds",
+      "x": 654,
+      "y": 474,
+      "description": "Northern access toward Arklune and the frontier routes.",
+      "href": "/wiki/locations/khazir/"
+    },
+    {
+      "id": "khazir-south-gate",
+      "name": "Khazir South Gate",
+      "category": "landmark",
+      "region": "Dwarven Holds",
+      "x": 566,
+      "y": 680,
+      "description": "Southern access marked within the Great Dragon Mountains.",
+      "href": "/wiki/locations/khazir/"
+    },
+    {
+      "id": "abandoned-settlement",
+      "name": "Abandoned Settlement",
+      "category": "landmark",
+      "region": "Southern Frontier",
+      "x": 771,
+      "y": 591,
+      "description": "An abandoned settlement marked on the approved public map.",
+      "href": "/wiki/world/terra/"
+    },
+    {
+      "id": "beta-remnant",
+      "name": "Beta Remnant",
+      "category": "domain",
+      "region": "Former Beta Territory",
+      "x": 817,
+      "y": 703,
+      "description": "Former territory associated with Beta and the historical conflict that bears the name.",
+      "href": "/wiki/history/beta-war/"
+    },
+    {
+      "id": "theta-domain",
+      "name": "Theta Domain",
+      "category": "domain",
+      "region": "Southern Domains",
+      "x": 323,
+      "y": 824,
+      "description": "Publicly mapped southern domain associated with the Seven Sigils.",
+      "href": "/wiki/factions/seven-sigils/"
+    },
+    {
+      "id": "gamma-domain",
+      "name": "Gamma Domain",
+      "category": "domain",
+      "region": "Southern Domains",
+      "x": 554,
+      "y": 794,
+      "description": "Publicly mapped southern domain associated with the Seven Sigils.",
+      "href": "/wiki/factions/seven-sigils/"
+    },
+    {
+      "id": "sigma-domain",
+      "name": "Sigma Domain",
+      "category": "domain",
+      "region": "Southern Domains",
+      "x": 596,
+      "y": 898,
+      "description": "Publicly mapped southern domain associated with the Seven Sigils.",
+      "href": "/wiki/factions/seven-sigils/"
+    },
+    {
+      "id": "alpha-dominion",
+      "name": "Alpha Dominion",
+      "category": "domain",
+      "region": "Southern Domains",
+      "x": 969,
+      "y": 812,
+      "description": "Publicly mapped southern dominion associated with the Seven Sigils.",
+      "href": "/wiki/factions/seven-sigils/"
+    },
+    {
+      "id": "delta-domain",
+      "name": "Delta Domain",
+      "category": "domain",
+      "region": "Southern Domains",
+      "x": 1000,
+      "y": 915,
+      "description": "Publicly mapped southern domain associated with the Seven Sigils.",
+      "href": "/wiki/factions/seven-sigils/"
+    },
+    {
+      "id": "omega-domain",
+      "name": "Omega Domain",
+      "category": "domain",
+      "region": "Southern Domains",
+      "x": 727,
+      "y": 1019,
+      "description": "Southern domain whose status is marked as unknown on the approved public map.",
+      "href": "/wiki/factions/seven-sigils/"
+    }
+  ]
+}

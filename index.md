@@ -14,6 +14,7 @@ description: The official public encyclopedia of Terra.
 | Section | Contents |
 | --- | --- |
 | [World]({{ '/wiki/world/' | relative_url }}) | Terra, Aethra, geography, and public history |
+| [Interactive Maps]({{ '/interactive-maps/' | relative_url }}) | Searchable map of Terra with public wiki markers |
 | [Realms & Civilizations]({{ '/wiki/realms/' | relative_url }}) | Great Powers, kingdoms, independent polities, and major civilizations |
 | [Races]({{ '/wiki/races/' | relative_url }}) | Peoples and biological lineages of Terra |
 | [Characters]({{ '/wiki/characters/' | relative_url }}) | Public character profiles |
@@ -49,3 +50,5 @@ description: The official public encyclopedia of Terra.
 ## Map of Terra
 
 <figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" data-lightbox data-caption="Approved public map of Terra"><img loading="lazy" class="map" src="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" alt="Approved public map of Terra"></a><figcaption>Approved public map of Terra. Select to enlarge.</figcaption></figure>
+
+<p><a href="{{ '/interactive-maps/' | relative_url }}">Explore the interactive map of Terra</a></p>

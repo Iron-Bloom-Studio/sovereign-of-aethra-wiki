@@ -32,6 +32,8 @@ The largest known landmass in the current setting is commonly referred to as the
 
 <figure class="map-figure"><a class="lightbox-link" href="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" data-lightbox data-caption="Approved public map of Terra"><img loading="lazy" class="map" src="{{ '/assets/maps/SOA_TERRA_WORLD_MAP_v01.png' | relative_url }}" alt="Approved public map of Terra"></a><figcaption>Approved public map of Terra. Select to enlarge.</figcaption></figure>
 
+<p><a href="{{ '/interactive-maps/' | relative_url }}">Open the Interactive Map of Terra</a></p>
+
 ## The Great Continent
 
 The Great Continent contains a wide range of environments and civilizations.

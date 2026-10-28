@@ -2,6 +2,7 @@ public_story_phase: pre-volume-1
 spoiler_level: 0
 entities:
   world: [terra, aethra]
+  interactive_maps: [terra]
   characters: [luca, serena, lysara, zerak, pip, rae, nina, gustav, rhaen, bram, deren, garling, rolan, eldren, raizen, reika, gorzan]
   races: [human, dwarf, elf, goblin, hiveborn, dragonkind, ogre, orc, harpy, gargoyle]
   evolution: [oni, hobgoblin]

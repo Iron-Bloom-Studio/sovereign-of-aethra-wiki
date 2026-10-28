@@ -6,7 +6,7 @@ This inventory is generated from the current Jekyll source. Documentation files 
 
 ## Summary
 
-- Public page URLs: **85**
+- Public page URLs: **86**
 - Protected anchor destinations: **5**
 - Permalink mode: `pretty`
 - Production base URL: `/sovereign-of-aethra-wiki`
@@ -28,7 +28,7 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | Source file | Current URL | Content type | Referenced anchors | Referenced elsewhere? |
 |---|---|---|---|---|
 | `404.html` | `/404.html` | error page | — | No detected references |
-| `index.md` | `/` | homepage | — | Yes (84 files) |
+| `index.md` | `/` | homepage | — | Yes (85 files) |
 | `search/index.md` | `/search/` | search utility | — | No detected references |
 | `wiki/about.md` | `/wiki/about/` | meta | — | No detected references |
 | `wiki/artwork.md` | `/wiki/artwork/` | gallery | — | No detected references |
@@ -75,12 +75,13 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/history/beta-war.md` | `/wiki/history/beta-war/` | event | — | Yes (16 files) |
 | `wiki/history/index.md` | `/wiki/history/` | portal | — | Yes (16 files) |
 | `wiki/index/index.md` | `/wiki/index/` | portal | — | No detected references |
+| `wiki/interactive-maps/index.md` | `/interactive-maps/` | portal | — | Yes (2 files) |
 | `wiki/locations/arklune.md` | `/wiki/locations/arklune/` | realm | `#the-grand-adventurer-guild` | Yes (10 files) |
 | `wiki/locations/astrelia.md` | `/wiki/locations/astrelia/` | realm | — | Yes (5 files) |
 | `wiki/locations/auregrad.md` | `/wiki/locations/auregrad/` | realm | — | Yes (5 files) |
 | `wiki/locations/aven.md` | `/wiki/locations/aven/` | article | — | Yes (5 files) |
 | `wiki/locations/eldoria.md` | `/wiki/locations/eldoria/` | realm | — | Yes (10 files) |
-| `wiki/locations/index.md` | `/wiki/locations/` | portal | — | Yes (24 files) |
+| `wiki/locations/index.md` | `/wiki/locations/` | portal | — | Yes (25 files) |
 | `wiki/locations/khazir.md` | `/wiki/locations/khazir/` | article | — | Yes (4 files) |
 | `wiki/locations/solmaria.md` | `/wiki/locations/solmaria/` | realm | — | Yes (5 files) |
 | `wiki/locations/sylvaris.md` | `/wiki/locations/sylvaris/` | realm | — | Yes (9 files) |
@@ -103,15 +104,15 @@ Do not rename the headings that generate these anchors until an explicit redirec
 | `wiki/races/ogre.md` | `/wiki/races/ogre/` | race | — | Yes (7 files) |
 | `wiki/races/oni.md` | `/wiki/races/oni/` | evolution | — | Yes (7 files) |
 | `wiki/races/orc.md` | `/wiki/races/orc/` | race | — | Yes (2 files) |
-| `wiki/realms/index.md` | `/wiki/realms/` | portal | — | Yes (8 files) |
+| `wiki/realms/index.md` | `/wiki/realms/` | portal | — | Yes (9 files) |
 | `wiki/relics-artifacts/index.md` | `/wiki/relics-artifacts/` | portal | — | Yes (1 files) |
 | `wiki/systems/class.md` | `/wiki/systems/class/` | system | — | Yes (5 files) |
 | `wiki/systems/index.md` | `/wiki/systems/` | portal | — | Yes (19 files) |
 | `wiki/systems/natural-evolution.md` | `/wiki/systems/natural-evolution/` | evolution | — | Yes (9 files) |
 | `wiki/systems/sigils.md` | `/wiki/systems/sigils/` | system | — | Yes (12 files) |
 | `wiki/world/aethra.md` | `/wiki/world/aethra/` | world lore | — | Yes (8 files) |
-| `wiki/world/index.md` | `/wiki/world/` | portal | — | Yes (20 files) |
-| `wiki/world/terra.md` | `/wiki/world/terra/` | location | `#the-great-continent`, `#geography` | Yes (13 files) |
+| `wiki/world/index.md` | `/wiki/world/` | portal | — | Yes (21 files) |
+| `wiki/world/terra.md` | `/wiki/world/terra/` | location | `#the-great-continent`, `#geography` | Yes (14 files) |
 
 ## Maintenance
 

@@ -147,7 +147,7 @@ asset_scan_files = ROOT.glob("**/*.{md,html,yml,yaml,json,css,js}").reject do |p
   path.to_s.include?("/.git/") || asset_example_documents.include?(path.relative_path_from(ROOT).to_s)
 end
 asset_scan_files.each do |path|
-  path.read.scan(%r{/assets/[A-Za-z0-9_./-]+\.(?:png|jpe?g|svg|css|js|json)}).uniq.each do |asset|
+  path.read.scan(%r{/assets/[A-Za-z0-9_./-]+\.(?:png|jpe?g|svg|css|json|js)(?![A-Za-z0-9])}).uniq.each do |asset|
     asset_path = ROOT.join(asset.sub(%r{\A/}, ""))
     errors << "Missing asset #{asset} referenced by #{path.relative_path_from(ROOT)}" unless asset_path.file?
   end
