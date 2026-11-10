@@ -48,6 +48,12 @@ The core group of characters whose journeys become closely intertwined during th
 | [Reika]({{ '/wiki/characters/reika/' | relative_url }}) | Daughter of Raizen |
 | [Gorzan]({{ '/wiki/characters/gorzan/' | relative_url }}) | Seven Sigils character |
 
+## Great Forest Characters
+
+| Name | Public description |
+| --- | --- |
+| [Gruk — The Goblin Overlord]({{ '/wiki/characters/gruk/' | relative_url }}) | Goblin leader from a tribe distinct from Pip's. |
+
 ## Dragon Throne Characters
 
 | Name | Public title |
