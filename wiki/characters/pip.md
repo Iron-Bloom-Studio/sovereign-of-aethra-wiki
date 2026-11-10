@@ -6,8 +6,8 @@ character_sheet: true
 character_looks:
   - id: present
     label: Present
-    portrait: /assets/characters/pip/wiki/SOA_PIP_WIKI_PORTRAIT_v01.png
-    portrait_alt: Pip in his early-story traveler attire holding a dagger
+    portrait: /assets/characters/pip/wiki/SOA_PIP_WIKI_PORTRAIT_v02.png
+    portrait_alt: Pip, a Goblin traveler in a short green cape and brown vest, holding a dagger
     portrait_caption: Pip during the early story.
     reference_sheet: /assets/characters/pip/SOA_PIP_SIMPLE_MASTER_v02.png
     reference_sheet_alt: Pip early-story character reference sheet
