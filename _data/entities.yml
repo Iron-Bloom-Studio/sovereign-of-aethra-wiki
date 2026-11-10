@@ -75,6 +75,12 @@ characters:
   url: /wiki/characters/
   content_type: portal
 
+gruk:
+  title: Gruk — The Goblin Overlord
+  url: /wiki/characters/gruk/
+  content_type: character
+  description: Goblin leader from a different tribe than Pip.
+
 gorzan:
   title: Gorzan
   url: /wiki/characters/gorzan/
