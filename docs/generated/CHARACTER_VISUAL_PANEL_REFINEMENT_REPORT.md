@@ -27,7 +27,7 @@ The panel resolves artwork in this order: `portrait`, legacy `image`, then `refe
 
 ## Luca
 
-`SOA_LUCA_WIKI_PORTRAIT_v01.png` is now the dedicated primary portrait. `SOA_LUCA_SIMPLE_MASTER_v02.png` remains an explicitly public-safe Character Sheet and is displayed below the article under Character Reference through the opt-in `publish_reference_sheet: true` flag.
+`SOA_LUCA_WIKI_PORTRAIT_v02.png` is now the dedicated primary portrait (replacing v01). `SOA_LUCA_SIMPLE_MASTER_v02.png` remains an explicitly public-safe Character Sheet and is displayed below the article under Character Reference through the opt-in `publish_reference_sheet: true` flag.
 
 ## Rolan
 

@@ -6,9 +6,9 @@ character_sheet: true
 character_looks:
   - id: present
     label: Present
-    portrait: /assets/characters/zerak/wiki/SOA_ZERAK_WIKI_PORTRAIT_v02.png
-    portrait_alt: Zerak in his early-story Hiveborn form wielding a lance
-    portrait_caption: Zerak during the early story — final approved portrait.
+    portrait: /assets/characters/zerak/wiki/SOA_ZERAK_WIKI_PORTRAIT_v03.png
+    portrait_alt: Zerak, a Hiveborn lance user with a dark armored body and clawed hands
+    portrait_caption: Zerak during the early story.
     reference_sheet: /assets/characters/zerak/SOA_ZERAK_SIMPLE_MASTER_v03.png
     reference_sheet_alt: Zerak early-story character reference sheet
     reference_sheet_caption: Approved early-story production reference.
