@@ -58,9 +58,10 @@ Dragonkind has existed as an independent power across eras of Human and Demonkin
 **Dragon Emperor Rhaen** stands at the center of the Dragon Throne. He is advised or balanced by the **Dragon Conclave**, a council associated with powerful Dragon Lords.
 
 Known or developing members include:
-- **Ignar** — Fire.
-- **Lumera** — Light.
-- Additional Lords associated with Lightning, Water/Ice, Earth, and Wind remain PROVISIONAL.
+- **Fire Dragon Lord, Ignar the Inferno** — Fire.
+- **Wind Dragon Lord, Zefir the Gale** — Wind.
+- **Water Dragon Lord, Nereon the Blizzard** — Water/Ice.
+- **Earth Dragon Lord, Terrisa the Stonebloom** — Earth.
 
 The exact legal relationship between Emperor, Conclave, territories, and individual Dragon Lords remains under development.
 
