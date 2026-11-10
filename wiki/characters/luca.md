@@ -16,17 +16,28 @@ character_looks:
 infobox:
   name: Luca
   fields:
+    Age: "18"
     Race: Human
+    Height: Not publicly documented
+    Weight: Not publicly documented
     Origin: Aven, Eldoria
-    Occupation: New adventurer
+    Current status: New adventurer
 ---
-## Background
+## Overview
 
-Luca is a Human new adventurer from Aven in Eldoria. He travels toward Arklune.
+Luca is an eighteen-year-old Human and a new adventurer from Aven, a small village in Eldoria. His first journey takes him toward the Free City of Arklune.
+
+## Backstory
+
+At the opening of the story, Luca lives in Aven Village. He leaves home at the age of eighteen to pursue life as an adventurer, beginning with little rank or reputation beyond his village. His encounters on the road gradually connect him with the other members of the Founding Five.
 
 ## Personality
 
-Luca is known for judging people by their actions.
+Luca tends to judge people by their actions rather than their race, origin, or inherited reputation.
+
+## Current Role
+
+Luca is currently presented as a new adventurer traveling from Aven toward Arklune.
 
 ## Related Articles
 

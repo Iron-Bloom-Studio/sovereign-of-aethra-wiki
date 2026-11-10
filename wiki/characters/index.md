@@ -10,15 +10,15 @@ This directory includes characters with approved public profiles.
 
 ## Founding Five
 
-The core group of characters whose journeys become closely intertwined during the early story.
+The core group whose separate journeys become closely intertwined during the early story. Each profile records only information currently available to readers.
 
-| Name | Race | Public role |
-| --- | --- | --- |
-| [Luca]({{ '/wiki/characters/luca/' | relative_url }}) | Human | New adventurer |
-| [Serena]({{ '/wiki/characters/serena/' | relative_url }}) | Human | Former knight |
-| [Lysara]({{ '/wiki/characters/lysara/' | relative_url }}) | Elf | Mage |
-| [Zerak]({{ '/wiki/characters/zerak/' | relative_url }}) | Hiveborn | Unpurposed Hiveborn · Lance user |
-| [Pip]({{ '/wiki/characters/pip/' | relative_url }}) | Goblin | Traveler |
+| Name | Race | Age | Origin | Current status |
+| --- | --- | --- | --- | --- |
+| [Luca]({{ '/wiki/characters/luca/' | relative_url }}) | Human | 18 | Aven, Eldoria | New adventurer |
+| [Serena]({{ '/wiki/characters/serena/' | relative_url }}) | Human | Not publicly documented | Not publicly documented | Former knight · Frontline protector |
+| [Lysara]({{ '/wiki/characters/lysara/' | relative_url }}) | Elf | Not publicly documented | Not publicly documented | Mage · Seeker of truth |
+| [Zerak]({{ '/wiki/characters/zerak/' | relative_url }}) | Hiveborn | Not publicly documented | Not publicly documented | Unpurposed Hiveborn · Lance user |
+| [Pip]({{ '/wiki/characters/pip/' | relative_url }}) | Goblin | Not publicly documented | Small tribe in or near Monster Forest | Traveler · Dagger user |
 
 ## Human Kingdom Characters
 

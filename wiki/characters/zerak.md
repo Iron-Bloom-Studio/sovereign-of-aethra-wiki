@@ -16,10 +16,29 @@ character_looks:
 infobox:
   name: Zerak
   fields:
+    Age: Not publicly documented
     Race: Hiveborn
+    Height: Approximately 200 cm
+    Weight: Not publicly documented
+    Origin: Not publicly documented
     Status: Unpurposed
     Weapon: Lance
+    Current status: Unpurposed Hiveborn / lance user
 ---
-## Background
+## Overview
 
-Zerak is an **Unpurposed Hiveborn** lance user pursuing a purpose of his own. “Unpurposed” is the public term for a Hiveborn no longer connected to a Hive's assigned purpose.
+Zerak is an approximately two-meter-tall **Unpurposed Hiveborn** and a lance user. “Unpurposed” is the public term for a Hiveborn no longer connected to a Hive's assigned purpose.
+
+## Backstory
+
+Zerak once belonged to a low-ranked Warrior Caste, where purpose was assigned through the Hive. After becoming Unpurposed, he is left to confront a question unfamiliar to his former life: what does he want for himself? His search for a self-determined purpose brings him into the journey that forms the Founding Five.
+
+## Current Role
+
+Zerak currently travels as an Unpurposed Hiveborn lance user. His original Hive and exact age remain undocumented in public records.
+
+## Related Articles
+
+- [Hiveborn]({{ '/wiki/races/hiveborn/' | relative_url }})
+- [The Hive]({{ '/wiki/factions/the-hive/' | relative_url }})
+- [Characters]({{ '/wiki/characters/' | relative_url }})

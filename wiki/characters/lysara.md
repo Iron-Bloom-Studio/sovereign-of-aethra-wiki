@@ -16,9 +16,27 @@ character_looks:
 infobox:
   name: Lysara
   fields:
+    Age: Not publicly documented
     Race: Elf
+    Height: Not publicly documented
+    Weight: Not publicly documented
+    Origin: Not publicly documented
     Class: Mage
+    Current status: Mage / seeker of truth
 ---
-## Background
+## Overview
 
-Lysara is an Elf mage and a member of the Founding Five.
+Lysara is an Elf mage whose path is shaped by truth and guidance. She becomes one of the Founding Five as the group's separate investigations and journeys converge.
+
+## Backstory
+
+Lysara leaves the boundaries of inherited history to seek answers for herself. She is aware that official accounts can be incomplete and approaches unfamiliar events as an investigator as well as a mage. Her exact age, birthplace, and family history have not yet been publicly documented.
+
+## Current Role
+
+Lysara currently serves as a mage and seeker of truth, using knowledge and magical control to guide the group through unfamiliar phenomena.
+
+## Related Articles
+
+- [Elf]({{ '/wiki/races/elf/' | relative_url }})
+- [Characters]({{ '/wiki/characters/' | relative_url }})

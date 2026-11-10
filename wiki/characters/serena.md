@@ -16,9 +16,26 @@ character_looks:
 infobox:
   name: Serena
   fields:
+    Age: Not publicly documented
     Race: Human
-    Role: Former knight / protector
+    Height: Not publicly documented
+    Weight: Not publicly documented
+    Origin: Not publicly documented
+    Current status: Former knight / frontline protector
 ---
-## Background
+## Overview
 
-Serena is a former Human knight shaped by protection, oath, and conviction.
+Serena is a Human former knight who serves as a disciplined frontline protector. Her public identity is defined by protection, oath, and conviction.
+
+## Backstory
+
+Serena's life before meeting the other Founding Five is connected to her service as a knight. Although she no longer holds that role, its discipline continues to shape how she approaches danger, responsibility, and the protection of others. Her precise birthplace, age, and earlier service record have not yet been publicly documented.
+
+## Current Role
+
+Serena currently acts as a former knight and frontline protector, favoring a sword-and-shield defensive role.
+
+## Related Articles
+
+- [Human]({{ '/wiki/races/human/' | relative_url }})
+- [Characters]({{ '/wiki/characters/' | relative_url }})
