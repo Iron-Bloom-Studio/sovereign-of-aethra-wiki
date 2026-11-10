@@ -18,7 +18,7 @@ The core group whose separate journeys become closely intertwined during the ear
 | [Serena]({{ '/wiki/characters/serena/' | relative_url }}) | Human | Not publicly documented | Not publicly documented | Former knight · Frontline protector |
 | [Lysara]({{ '/wiki/characters/lysara/' | relative_url }}) | Elf | Not publicly documented | Not publicly documented | Mage · Seeker of truth |
 | [Zerak]({{ '/wiki/characters/zerak/' | relative_url }}) | Hiveborn | Not publicly documented | Not publicly documented | Unpurposed Hiveborn · Lance user |
-| [Pip]({{ '/wiki/characters/pip/' | relative_url }}) | Goblin | Not publicly documented | Small tribe in or near Monster Forest | Traveler · Dagger user |
+| [Pip]({{ '/wiki/characters/pip/' | relative_url }}) | Goblin | Not publicly documented | Small tribe in or near Monster Forest | Traveler · Dagger and crossbow user |
 
 ## Human Kingdom Characters
 

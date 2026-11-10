@@ -6,8 +6,8 @@ character_sheet: true
 character_looks:
   - id: present
     label: Present
-    portrait: /assets/characters/serena/wiki/SOA_SERENA_WIKI_PORTRAIT_v01.png
-    portrait_alt: Serena in her early-story knight attire carrying a sword and heraldic shield
+    portrait: /assets/characters/serena/wiki/SOA_SERENA_WIKI_PORTRAIT_v02.jpg
+    portrait_alt: Serena, a Human former knight in a white cropped jacket and white pleated skirt, holding a plain straight sword and a plain round navy shield with a silver rim
     portrait_caption: Serena during the early story.
     reference_sheet: /assets/characters/serena/SOA_SERENA_SIMPLE_MASTER_v02.png
     reference_sheet_alt: Serena early-story character reference sheet
