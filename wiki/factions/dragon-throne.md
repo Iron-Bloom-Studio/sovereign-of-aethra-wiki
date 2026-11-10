@@ -62,8 +62,6 @@ Known or developing members include:
 - **Wind Dragon Lord, Zefir the Gale** — Wind.
 - **Water Dragon Lord, Nereon the Blizzard** — Water/Ice.
 - **Earth Dragon Lord, Terrisa the Stonebloom** — Earth.
-- **Lumera** — Light.
-- Additional Lords associated with Lightning remain PROVISIONAL.
 
 The exact legal relationship between Emperor, Conclave, territories, and individual Dragon Lords remains under development.
 
