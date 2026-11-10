@@ -97,8 +97,6 @@ Rae is the first complete Wiki Portrait example. `SOA_RAE_WIKI_PORTRAIT_v01.png`
 
 These are generic race references, not named-character sheets and not Wiki Portraits.
 
-The supplied Vargan file is byte-for-byte identical to the existing private approved `SOA_VARGAN_EVOLUTION_REFERENCE_v01.png`. No duplicate was created and it remains private because its lore/publication status is provisional.
-
 ## Validation
 
 - Public URL contract: 78 routes; no existing route removed.
@@ -108,7 +106,6 @@ The supplied Vargan file is byte-for-byte identical to the existing private appr
 - Public and private YAML manifests: valid.
 - Rae public-identity scan: passed; no hidden-identity or non-public lineage disclosure.
 - Rae, Bram, and Deren name-only audit: passed; no lore/profile fields are rendered.
-- Vargan public-export scan: passed; no Vargan file or route exists in the public repository.
 - Cross-repository checksums for exported portraits and race references: matched.
 - JavaScript syntax, CSS braces, and `git diff --check`: passed.
 - Local Jekyll build: unavailable because the Jekyll executable is not installed.

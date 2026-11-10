@@ -16,7 +16,7 @@ Verified local files include:
 - Arklune Grand Adventurer Guild Hall interior.
 - Arklune ceremonial banner.
 - Generic Goblin variants sheet with an approximately 130 cm adult reference.
-- Current Ogre, Oni, Orc, Harpy, Gargoyle, and Vargan visual sheets.
+- Current Ogre, Oni, Orc, Harpy, and Gargoyle visual sheets.
 
 The author explicitly approved the generic Goblin sheet. Source, Master, artwork archive, and Wiki copies are byte-identical (SHA-256 `bed2908296203c2058e6b1127775f71d67197ddf51bc3e12143bd86af79534f8`).
 
@@ -33,8 +33,6 @@ The following assets had already been promoted to the private Master approved di
 - `SOA_ORC_RACE_REFERENCE_v01`
 - `SOA_HARPY_RACE_REFERENCE_v01`
 - `SOA_GARGOYLE_RACE_REFERENCE_v01`
-
-The Vargan visual remains preserved in the private Master and artwork archive with provisional-lore handling. It is not published in the Wiki because its evolutionary relationship is not public-safe.
 
 ## 4. Artwork copied to Wiki public assets
 
@@ -57,25 +55,20 @@ No image was edited, re-encoded, generated, or hotlinked during this correction 
 
 The Arklune article continues to show the Guild exterior, Guild Hall interior, and banner in its existing approved visual section. A dedicated Arklune cityscape was not substituted because none was found.
 
-The provisional Vargan page and its public navigation/search/gallery references were removed to avoid exposing an unrevealed evolutionary relationship. Its private source asset was retained.
-
 ## 6. `public-manifest.yml` changes
 
-- Removed Vargan from public evolution entities.
-- Removed `SOA_VARGAN_EVOLUTION_REFERENCE_v01` from public assets.
 - Added `SOA_GOBLIN_RACE_REFERENCE_v01` after explicit author approval.
 - Retained the verified Arklune, Ogre, Oni, Orc, Harpy, and Gargoyle identifiers.
 - No Alpha, Beta, or Gamma banner identifiers were added because no matching local files were found.
 
 ## 7. Artwork found but intentionally not published
 
-- `SOA_VARGAN_EVOLUTION_REFERENCE_v01.png`: retained privately because publication would reveal an unreleased evolution branch.
 - Founding Goblin and Founding Hiveborn sheets: character-specific references, not current generic race sheets.
 - Archived superseded character sheets remain stored but are not used as current page artwork.
 
 ## 8. Artwork needing manual review
 
-- **Vargan** — visual approval is recorded privately, but public-release permission for the identity and evolutionary relationship is absent.
+- None.
 
 ## 9. Missing expected artwork
 
@@ -102,7 +95,6 @@ No substitute or invented artwork was used.
 - JavaScript source load through macOS JavaScriptCore: **passed** (`node` is not installed in this environment).
 - `git diff --check`: **passed**.
 - Current public pages, front matter, search metadata, and manifest contain no active `Drakara` reference and no plural `Great Dragon Mountains` reference.
-- No public Vargan page, search entry, entity entry, manifest entry, or artwork reference remains.
 - Duplicate raster hashes inside the public Wiki: **0**.
 
 ## 12. Jekyll build result
