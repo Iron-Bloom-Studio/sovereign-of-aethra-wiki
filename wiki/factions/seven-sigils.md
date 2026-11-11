@@ -47,3 +47,4 @@ No individual Sigil is presented here as a separate Great Power.
 - [Great Powers]({{ '/wiki/factions/' | relative_url }})
 - [Beta War]({{ '/wiki/history/beta-war/' | relative_url }})
 - [Raizen]({{ '/wiki/characters/raizen/' | relative_url }})
+- [Rex — Demon Lord Delta]({{ '/wiki/characters/rex/' | relative_url }})
