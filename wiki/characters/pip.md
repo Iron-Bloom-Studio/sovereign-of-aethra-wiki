@@ -17,9 +17,9 @@ character_looks:
 infobox:
   name: Pip
   fields:
-    Age: Not publicly documented
+    Age: 16 (human-equivalent approximately 16–17)
     Race: Goblin
-    Height: Not publicly documented
+    Height: Around 130 cm
     Weight: Not publicly documented
     Origin: Small tribe in or near Monster Forest
     Weapon: Dagger, crossbow
@@ -27,11 +27,11 @@ infobox:
 ---
 ## Overview
 
-Pip is a Goblin traveler from a small tribe in or near Monster Forest, armed with a dagger and a crossbow. His story centers on belonging and becoming a bridge between peoples who might otherwise distrust one another.
+Pip is a 16-year-old Goblin traveler (human-equivalent approximately 16–17), around 130 cm tall, from a small tribe in or near Monster Forest, armed with a dagger and a crossbow. His story centers on belonging and becoming a bridge between peoples who might otherwise distrust one another.
 
 ## Backstory
 
-Pip begins with little physical power and few advantages beyond his dagger, crossbow, practical instincts, and determination. He comes from a small Goblin community near Monster Forest and later leaves that earlier life behind to travel with Luca. His age, height, and weight have not yet been publicly documented.
+Pip begins with little physical power and few advantages beyond his dagger, crossbow, practical instincts, and determination. He comes from a small Goblin community near Monster Forest and later leaves that earlier life behind to travel with Luca. His weight has not yet been publicly documented.
 
 ## Current Role
 

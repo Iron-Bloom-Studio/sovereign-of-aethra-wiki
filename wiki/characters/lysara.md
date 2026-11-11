@@ -12,9 +12,9 @@ character_looks:
 infobox:
   name: Lysara
   fields:
-    Age: Not publicly documented
+    Age: approximately 60 (human-equivalent approximately 15)
     Race: Elf
-    Height: Not publicly documented
+    Height: Around 170 cm
     Weight: Not publicly documented
     Origin: Not publicly documented
     Class: Mage
@@ -22,11 +22,11 @@ infobox:
 ---
 ## Overview
 
-Lysara is an Elf mage whose path is shaped by truth and guidance. She becomes one of the Founding Five as the group's separate investigations and journeys converge.
+Lysara is an Elf mage, approximately 60 years old (human-equivalent approximately 15) and around 170 cm tall, whose path is shaped by truth and guidance. She becomes one of the Founding Five as the group's separate investigations and journeys converge.
 
 ## Backstory
 
-Lysara leaves the boundaries of inherited history to seek answers for herself. She is aware that official accounts can be incomplete and approaches unfamiliar events as an investigator as well as a mage. Her exact age, birthplace, and family history have not yet been publicly documented.
+Lysara leaves the boundaries of inherited history to seek answers for herself. She is aware that official accounts can be incomplete and approaches unfamiliar events as an investigator as well as a mage. Her birthplace and family history have not yet been publicly documented.
 
 ## Current Role
 

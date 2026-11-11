@@ -12,9 +12,9 @@ character_looks:
 infobox:
   name: Zerak
   fields:
-    Age: Not publicly documented
+    Age: 5 (human-equivalent approximately 20, fully adult)
     Race: Hiveborn
-    Height: Approximately 200 cm
+    Height: Around 200 cm
     Weight: Not publicly documented
     Origin: Not publicly documented
     Status: Unpurposed
@@ -23,7 +23,7 @@ infobox:
 ---
 ## Overview
 
-Zerak is an approximately two-meter-tall **Unpurposed Hiveborn** and a lance user. “Unpurposed” is the public term for a Hiveborn no longer connected to a Hive's assigned purpose.
+Zerak is an **Unpurposed Hiveborn**, around 200 cm tall, and a lance user. He is 5 years old, with a human-equivalent age of approximately 20 (fully adult). “Unpurposed” is the public term for a Hiveborn no longer connected to a Hive's assigned purpose.
 
 ## Backstory
 
@@ -31,7 +31,7 @@ Zerak once belonged to a low-ranked Warrior Caste, where purpose was assigned th
 
 ## Current Role
 
-Zerak currently travels as an Unpurposed Hiveborn lance user. His original Hive and exact age remain undocumented in public records.
+Zerak currently travels as an Unpurposed Hiveborn lance user. His original Hive remains undocumented in public records.
 
 ## Related Articles
 

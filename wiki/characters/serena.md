@@ -12,20 +12,20 @@ character_looks:
 infobox:
   name: Serena
   fields:
-    Age: Not publicly documented
+    Age: "19"
     Race: Human
-    Height: Not publicly documented
+    Height: Around 170 cm
     Weight: Not publicly documented
     Origin: Not publicly documented
     Current status: Former knight / frontline protector
 ---
 ## Overview
 
-Serena is a Human former knight who serves as a disciplined frontline protector. Her public identity is defined by protection, oath, and conviction.
+Serena is a 19-year-old Human former knight, around 170 cm tall, who serves as a disciplined frontline protector. Her public identity is defined by protection, oath, and conviction.
 
 ## Backstory
 
-Serena's life before meeting the other Founding Five is connected to her service as a knight. Although she no longer holds that role, its discipline continues to shape how she approaches danger, responsibility, and the protection of others. Her precise birthplace, age, and earlier service record have not yet been publicly documented.
+Serena's life before meeting the other Founding Five is connected to her service as a knight. Although she no longer holds that role, its discipline continues to shape how she approaches danger, responsibility, and the protection of others. Her precise birthplace and earlier service record have not yet been publicly documented.
 
 ## Current Role
 
