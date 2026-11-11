@@ -12,9 +12,6 @@ character_looks:
     portrait: /assets/characters/reika/wiki/SOA_REIKA_WIKI_PORTRAIT_v01.png
     portrait_alt: Reika with white hair, in a dark floral kimono, carrying a sheathed sword
     portrait_caption: Reika during the early story.
-    reference_sheet: /assets/characters/reika/SOA_REIKA_CHARACTER_SHEET_v01.png
-    reference_sheet_alt: Reika character sheet with expressions and turnaround views
-    reference_sheet_caption: Approved character reference for Reika.
 infobox:
   name: Reika
   fields:
