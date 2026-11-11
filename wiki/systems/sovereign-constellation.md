@@ -1,14 +1,14 @@
 ---
 layout: default
 title: The Sovereign Constellation
-description: Public roster of the Sovereign Constellation, with identified members and unrevealed places marked as unknown.
+description: Public roster of the Sovereign Constellation, with identified members; other members are TBD.
 ---
 <p class="breadcrumb">Home › Systems › The Sovereign Constellation</p>
 # The Sovereign Constellation
 
-<p class="lede">A public roster of 35 places, of which five members are currently identified.</p>
+<p class="lede">A public roster of the Sovereign Constellation. Five members are currently identified; other members are TBD.</p>
 
-The Sovereign Constellation is the name given to a roster of 35 places associated with [Luca]({{ '/wiki/characters/luca/' | relative_url }}). Public records currently identify five members. The remaining places have not yet been revealed, and are shown here as unknown.
+The Sovereign Constellation is the name given to a group of members associated with [Luca]({{ '/wiki/characters/luca/' | relative_url }}). Public records currently identify five members. Other members have not yet been revealed and are marked as TBD.
 
 This page records only publicly available identities. Appearance, role, and other details remain undisclosed until they are released.
 
@@ -39,7 +39,7 @@ This page records only publicly available identities. Appearance, role, and othe
   </div>
   <p class="member-roster__section-title">Unrevealed</p>
   <div class="member-roster__grid">
-    {% include unknown-member-tiles.html count=30 %}
+    {% include unknown-member-tiles.html count=1 role="Other members TBD" %}
   </div>
 </div>
 
@@ -65,9 +65,9 @@ Zerak is an Unpurposed Hiveborn, around 200 cm tall, and a lance user. He is 5 y
 
 Pip is a 16-year-old Goblin traveler (human-equivalent approximately 16–17), around 130 cm tall, from a small tribe in or near Monster Forest, armed with a dagger and a crossbow.
 
-## Unrevealed Places
+## Unrevealed Members
 
-The remaining thirty places in this roster have not been publicly identified. Details unknown.
+Other members of the Sovereign Constellation have not been publicly identified. TBD.
 
 ## Related Articles
 

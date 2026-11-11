@@ -12,4 +12,4 @@ title: Systems
 | [Sigils]({{ '/wiki/systems/sigils/' | relative_url }}) | Recognition-based Authority systems. |
 | [The Seven Sigils]({{ '/wiki/factions/seven-sigils/' | relative_url }}) | The geopolitical Great Power associated with the known Sigil domains. |
 | [Demon Lords]({{ '/wiki/factions/demon-lords/' | relative_url }}) | Public roster of the seven Demon Lord titles, from Alpha to Omega. |
-| [The Sovereign Constellation]({{ '/wiki/systems/sovereign-constellation/' | relative_url }}) | Public roster of 35 places associated with Luca; unrevealed places are marked unknown. |
+| [The Sovereign Constellation]({{ '/wiki/systems/sovereign-constellation/' | relative_url }}) | Public roster of members associated with Luca; other members are TBD. |

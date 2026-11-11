@@ -67,7 +67,7 @@ Rex is publicly known as Demon Lord Delta, a recognized bearer of the Delta Sigi
 
 ### Demon Lord Theta
 
-Demon Lord Theta commands the power of the seas, drawing strength from several Leviathans who share Poseidon-like abilities.
+Demon Lord Theta holds a Poseidon-like authority over the seas, including currents, tidal walls, storms and pressure, along with Leviathan-related powers.
 
 ### Demon Lord Sigma
 
