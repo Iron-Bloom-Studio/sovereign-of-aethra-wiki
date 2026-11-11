@@ -1,65 +1,450 @@
 [
-  {"title":"Aethra","type":"World","tags":"magic life nature environmental flow evolution distortion aethra scar asteron","description":"Fundamental force present throughout Terra, with an approved natural-world visual reference.","url":"/sovereign-of-aethra-wiki/wiki/world/aethra/"},
-  {"title":"Free City of Arklune","type":"Realm / Free City","tags":"arklune independent city-state sovereign enclave multiracial grand adventurer guild eldoria other factions","description":"An independent multiracial city-state and sovereign enclave on Eldoria's southern frontier.","url":"/sovereign-of-aethra-wiki/wiki/locations/arklune/"},
-  {"title":"Aven","type":"Location","tags":"eldoria luca village","description":"Village in Eldoria and Luca's home.","url":"/sovereign-of-aethra-wiki/wiki/locations/aven/"},
-  {"title":"Astrelia","type":"Realm / Human Kingdom","tags":"magic kingdom myra grand concord","description":"The Magic Kingdom and one of the five sovereign Human kingdoms of the Grand Concord.","url":"/sovereign-of-aethra-wiki/wiki/locations/astrelia/"},
-  {"title":"Auregrad","type":"Realm / Human Kingdom","tags":"military kingdom varen grand concord","description":"The Military Kingdom and one of the five sovereign Human kingdoms of the Grand Concord.","url":"/sovereign-of-aethra-wiki/wiki/locations/auregrad/"},
-  {"title":"Beta War","type":"History","tags":"asteron chronology garling rolan eldren raizen grand concord aethra scar historical","description":"The invasion led by Demon Lord Beta and the seven-day Battle of Asteron approximately 43 years before the main story.","url":"/sovereign-of-aethra-wiki/wiki/history/beta-war/"},
-  {"title":"Bram","type":"Character","tags":"bram aven villager eldoria","description":"Aven villager.","url":"/sovereign-of-aethra-wiki/wiki/characters/bram/"},
-  {"title":"Characters","type":"Character Portal","tags":"characters directory founding five historical figures","description":"Directory of the Founding Five and other characters with approved public profiles.","url":"/sovereign-of-aethra-wiki/wiki/characters/"},
-  {"title":"Class","type":"System","tags":"profession progression","description":"Profession and ability progression.","url":"/sovereign-of-aethra-wiki/wiki/systems/class/"},
-  {"title":"Demonkind","type":"Historical / Political Terminology","tags":"cultural social geopolitical historical identity demon domains","description":"An in-world umbrella term, not one biological race or a biological superclass.","url":"/sovereign-of-aethra-wiki/wiki/races/demonkind/"},
-  {"title":"Deren","type":"Character","tags":"deren aven villager eldoria","description":"Aven villager.","url":"/sovereign-of-aethra-wiki/wiki/characters/deren/"},
-  {"title":"Dragonkind","type":"Race","tags":"dragon dragon throne great dragon mountain generic visual reference","description":"Known lineage of Terra with an approved generic race reference.","url":"/sovereign-of-aethra-wiki/wiki/races/dragonkind/"},
-  {"title":"Dwarf","type":"Race","tags":"dwarves generic visual reference","description":"Known people of Terra with an approved generic race reference.","url":"/sovereign-of-aethra-wiki/wiki/races/dwarf/"},
-  {"title":"Dwarven Holds","type":"Realm / Dwarven Civilization","tags":"dwarf khazir hold subterranean","description":"The great subterranean and mountain settlements of the Dwarves, including Khazir.","url":"/sovereign-of-aethra-wiki/wiki/factions/dwarven-holds/"},
-  {"title":"Eldren","type":"Character","tags":"elf spellblade aethra scholar beta war","description":"Elven Spellblade and Aethra Scholar associated with the Beta War.","url":"/sovereign-of-aethra-wiki/wiki/characters/eldren/"},
-  {"title":"Eldoria","type":"Realm / Human Kingdom","tags":"knowledge kingdom arden grand concord","description":"The Kingdom of Knowledge and one of the five sovereign Human kingdoms of the Grand Concord.","url":"/sovereign-of-aethra-wiki/wiki/locations/eldoria/"},
-  {"title":"Elf","type":"Race","tags":"high elf dark elf lysara generic visual reference","description":"Known people with two public evolution branches and an approved generic race reference.","url":"/sovereign-of-aethra-wiki/wiki/races/elf/"},
-  {"title":"Far Horizon","type":"Organization / Adventurer Party","tags":"adventurer party rank b traveling rae nina gustav","description":"Active Rank B traveling adventurer party.","url":"/sovereign-of-aethra-wiki/wiki/factions/other/far-horizon/"},
-  {"title":"Forest Boar","type":"Bestiary Entry","tags":"monster forest wildlife boar charge tusks","description":"Large forest forager whose primary attack is a powerful charge.","url":"/sovereign-of-aethra-wiki/wiki/bestiary/forest-boar/"},
-  {"title":"Forest Wolf","type":"Bestiary Entry","tags":"monster forest wildlife wolf luca volume one caravan","description":"Large mobile woodland predator recorded in Volume I, Chapter 2.","url":"/sovereign-of-aethra-wiki/wiki/bestiary/forest-wolf/"},
-  {"title":"Garling","type":"Character","tags":"hero human beta war rune sigil blue vanguard","description":"Human Hero of the Beta War and former member of the famed Blue Vanguard adventurer party.","url":"/sovereign-of-aethra-wiki/wiki/characters/garling/"},
-  {"title":"Gargoyle","type":"Race","tags":"race biological people terra","description":"A biological race of Terra with an approved public visual reference.","url":"/sovereign-of-aethra-wiki/wiki/races/gargoyle/"},
-  {"title":"Goblin","type":"Race","tags":"pip race people generic visual reference","description":"Known people of Terra with an approved generic race reference.","url":"/sovereign-of-aethra-wiki/wiki/races/goblin/"},
-  {"title":"Gorzan","type":"Character","tags":"gorzan seven sigils character","description":"","url":"/sovereign-of-aethra-wiki/wiki/characters/gorzan/"},
-  {"title":"Gustav","type":"Character","tags":"human defender frontline far horizon adventurer rank b armor shield axe","description":"Human defender and frontline combatant of Far Horizon.","url":"/sovereign-of-aethra-wiki/wiki/characters/gustav/"},
-  {"title":"Grand Concord","type":"Great Power / Political Alliance","tags":"five sovereign human kingdoms astrelia verenza solmaria eldoria auregrad founding ceremony heraldry","description":"Alliance of five sovereign Human kingdoms; official founding reference and heraldry standard.","url":"/sovereign-of-aethra-wiki/wiki/factions/grand-concord/"},
-  {"title":"Grand Adventurer Guild","type":"Organization","tags":"arklune adventurers guild contracts expeditions","description":"Influential adventuring institution headquartered in the Free City of Arklune.","url":"/sovereign-of-aethra-wiki/wiki/locations/arklune/#the-grand-adventurer-guild"},
-  {"title":"Great Powers","type":"Faction Portal","tags":"geopolitical powers grand concord wardens dwarven holds hive dragon throne seven sigils","description":"The major geopolitical powers of present-day Terra.","url":"/sovereign-of-aethra-wiki/wiki/factions/"},
-  {"title":"Hiveborn","type":"Race","tags":"zerak hive generic visual reference","description":"Known people of Terra with an approved generic race reference.","url":"/sovereign-of-aethra-wiki/wiki/races/hiveborn/"},
-  {"title":"Hobgoblin","type":"Natural Evolution","tags":"goblin natural evolution generic visual reference","description":"Natural Evolution form of Goblin.","url":"/sovereign-of-aethra-wiki/wiki/races/hobgoblin/"},
-  {"title":"Human","type":"Race","tags":"garling serena luca grand concord generic visual reference","description":"Known people of Terra with an approved generic race reference.","url":"/sovereign-of-aethra-wiki/wiki/races/human/"},
-  {"title":"Interactive Maps","type":"Map","tags":"terra map geography locations capitals realms domains search","description":"Searchable public map of Terra with spoiler-safe wiki markers.","url":"/sovereign-of-aethra-wiki/interactive-maps/"},
-  {"title":"Harpy","type":"Race","tags":"race biological people terra","description":"A biological race of Terra with an approved public visual reference.","url":"/sovereign-of-aethra-wiki/wiki/races/harpy/"},
-  {"title":"Khazir","type":"Location","tags":"dwarf dwarven holds subterranean city","description":"Subterranean Dwarven city with an approved public visual reference.","url":"/sovereign-of-aethra-wiki/wiki/locations/khazir/"},
-  {"title":"Luca","type":"Character","tags":"aven new adventurer human founding five","description":"Eighteen-year-old Human new adventurer from Aven.","url":"/sovereign-of-aethra-wiki/wiki/characters/luca/"},
-  {"title":"Lysara","type":"Character","tags":"elf mage truth founding five","description":"Elf mage and seeker of truth among the Founding Five.","url":"/sovereign-of-aethra-wiki/wiki/characters/lysara/"},
-  {"title":"Magic","type":"World Lore Portal","tags":"magic aethra affinity compatibility fire water wind earth light dark ice lightning magma lava advanced expression composite spellcraft civilian magic","description":"Reader-safe overview of the Six Fundamental Affinities, their conceptual compatibility map, advanced expressions, and Composite Magic.","url":"/sovereign-of-aethra-wiki/wiki/magic/"},
-  {"title":"Natural Evolution","type":"System","tags":"race biological lineage elf high elf dark elf ogre oni goblin hobgoblin","description":"Public overview of revealed biological lineage development.","url":"/sovereign-of-aethra-wiki/wiki/systems/natural-evolution/"},
-  {"title":"Nina","type":"Character","tags":"human healer far horizon adventurer rank b","description":"Human healer of Far Horizon.","url":"/sovereign-of-aethra-wiki/wiki/characters/nina/"},
-  {"title":"Ogre","type":"Race","tags":"oni warrior magus natural evolution demonkind historical term","description":"Biological race with two publicly known Oni Natural Evolution expressions.","url":"/sovereign-of-aethra-wiki/wiki/races/ogre/"},
-  {"title":"Oni","type":"Natural Evolution","tags":"ogre oni warrior oni magus raizen demonkind natural evolution","description":"Natural Evolution of Ogre, publicly documented in Warrior and Magus expressions.","url":"/sovereign-of-aethra-wiki/wiki/races/oni/"},
-  {"title":"Orc","type":"Race","tags":"race biological people terra","description":"A biological race of Terra with an approved public visual reference.","url":"/sovereign-of-aethra-wiki/wiki/races/orc/"},
-  {"title":"Other Factions","type":"Faction Portal","tags":"arklune grand adventurer guild far horizon rogue hive zavor organizations","description":"Political powers and organizations not classified among Terra's Great Powers.","url":"/sovereign-of-aethra-wiki/wiki/factions/other/"},
-  {"title":"Pip","type":"Character","tags":"goblin traveler dagger crossbow monster forest founding five","description":"Goblin traveler from a tribe near Monster Forest, armed with a dagger and a crossbow.","url":"/sovereign-of-aethra-wiki/wiki/characters/pip/"},
-  {"title":"Raizen","type":"Character","tags":"oni king demon lord beta sigil beta war four oni warriors","description":"Oni King associated with the Beta War and the Four Oni Warriors.","url":"/sovereign-of-aethra-wiki/wiki/characters/raizen/"},
-  {"title":"Rae","type":"Character","tags":"human traveling adventurer rank b far horizon leader","description":"Rank B traveling adventurer and apparent leader of Far Horizon.","url":"/sovereign-of-aethra-wiki/wiki/characters/rae/"},
-  {"title":"Rhaen","type":"Character","tags":"dragon emperor dragonkind dragon throne","description":"The mysterious Dragon Emperor.","url":"/sovereign-of-aethra-wiki/wiki/characters/rhaen/"},
-  {"title":"Reika","type":"Character","tags":"reika raizen seven sigils","description":"Daughter of Raizen.","url":"/sovereign-of-aethra-wiki/wiki/characters/reika/"},
-  {"title":"Races of Terra","type":"Race Portal","tags":"race biology natural evolution peoples identity luca human","description":"Reader-safe guide to biological identity and publicly revealed Natural Evolution.","url":"/sovereign-of-aethra-wiki/wiki/races/"},
-  {"title":"Rogue Hive — Zavor","type":"Other Faction","tags":"zavor severed rogue hive great forest sylvaris","description":"A hostile faction associated with the Great Forest region, distinct from The Hive as a civilization.","url":"/sovereign-of-aethra-wiki/wiki/factions/the-hive/#the-rogue-hive"},
-  {"title":"Rolan","type":"Character","tags":"human guildmaster arklune adventurers guild field commander beta war","description":"Guildmaster of the Arklune Adventurers' Guild.","url":"/sovereign-of-aethra-wiki/wiki/characters/rolan/"},
-  {"title":"Serena","type":"Character","tags":"human former knight protector founding five","description":"Former Human knight and frontline protector.","url":"/sovereign-of-aethra-wiki/wiki/characters/serena/"},
-  {"title":"The Seven Sigils","type":"Great Power","tags":"authority dominion recognition demon lord alpha beta gamma delta theta sigma omega raizen political domain great power","description":"The geopolitical Great Power associated with the seven known Sigil domains.","url":"/sovereign-of-aethra-wiki/wiki/factions/seven-sigils/"},
-  {"title":"Sigils","type":"Authority System","tags":"rune sigil hero demon sigil demon lord recognition eligibility dominion","description":"Reader-safe overview of Sigils as recognition-based Authorities.","url":"/sovereign-of-aethra-wiki/wiki/systems/sigils/"},
-  {"title":"Realms & Civilizations","type":"World Portal","tags":"realms civilizations kingdoms free city great powers terra","description":"Explore the sovereign realms and major civilizations of Terra.","url":"/sovereign-of-aethra-wiki/wiki/realms/"},
-  {"title":"Relics & Artifacts","type":"World Lore Portal","tags":"relics artifacts objects archive terra","description":"Public archive for notable relics, artifacts, and historically significant objects of Terra.","url":"/sovereign-of-aethra-wiki/wiki/relics-artifacts/"},
-  {"title":"Solmaria","type":"Realm / Human Kingdom","tags":"holy kingdom lumen grand concord","description":"The Holy Kingdom and one of the five sovereign Human kingdoms of the Grand Concord.","url":"/sovereign-of-aethra-wiki/wiki/locations/solmaria/"},
-  {"title":"Sylvaris","type":"Realm / Elven Civilization","tags":"elf elven realm great forest great tree wardens","description":"The principal Elven realm of Terra and heart of the Wardens of the Great Tree.","url":"/sovereign-of-aethra-wiki/wiki/locations/sylvaris/"},
-  {"title":"Terra","type":"World / Location","tags":"great continent panorama landscape map peoples civilizations geography aethra","description":"Vast living world and primary setting, with approved Great Continent artwork and map.","url":"/sovereign-of-aethra-wiki/wiki/world/terra/"},
-  {"title":"The Dragon Throne","type":"Realm / Dragonkind Great Power","tags":"dragonkind great dragon mountain summit dragon emperor rhaen dragon conclave sanctuary silver dragon banner","description":"The Great Power of Dragonkind centered on Great Dragon Mountain and its sacred summit seat.","url":"/sovereign-of-aethra-wiki/wiki/factions/dragon-throne/"},
-  {"title":"The Hive","type":"Realm / Hiveborn Civilization","tags":"hiveborn zyrath hive great power","description":"The civilization of the Hiveborn and a recognized Great Power of Terra.","url":"/sovereign-of-aethra-wiki/wiki/factions/the-hive/"},
-  {"title":"Verenza","type":"Realm / Human Kingdom","tags":"trade kingdom ceres grand concord","description":"The Trade Kingdom and one of the five sovereign Human kingdoms of the Grand Concord.","url":"/sovereign-of-aethra-wiki/wiki/locations/verenza/"},
-  {"title":"Zerak","type":"Character","tags":"hiveborn unpurposed lance purpose founding five","description":"Unpurposed Hiveborn lance user pursuing a purpose of his own.","url":"/sovereign-of-aethra-wiki/wiki/characters/zerak/"}
+  {
+    "title": "Aethra",
+    "type": "World",
+    "tags": "magic life nature environmental flow evolution distortion aethra scar asteron",
+    "description": "Fundamental force present throughout Terra, with an approved natural-world visual reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/world/aethra/"
+  },
+  {
+    "title": "Free City of Arklune",
+    "type": "Realm / Free City",
+    "tags": "arklune independent city-state sovereign enclave multiracial grand adventurer guild eldoria other factions",
+    "description": "An independent multiracial city-state and sovereign enclave on Eldoria's southern frontier.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/arklune/"
+  },
+  {
+    "title": "Aven",
+    "type": "Location",
+    "tags": "eldoria luca village",
+    "description": "Village in Eldoria and Luca's home.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/aven/"
+  },
+  {
+    "title": "Astrelia",
+    "type": "Realm / Human Kingdom",
+    "tags": "magic kingdom myra grand concord",
+    "description": "The Magic Kingdom and one of the five sovereign Human kingdoms of the Grand Concord.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/astrelia/"
+  },
+  {
+    "title": "Auregrad",
+    "type": "Realm / Human Kingdom",
+    "tags": "military kingdom varen grand concord",
+    "description": "The Military Kingdom and one of the five sovereign Human kingdoms of the Grand Concord.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/auregrad/"
+  },
+  {
+    "title": "Beta War",
+    "type": "History",
+    "tags": "asteron chronology garling rolan eldren raizen grand concord aethra scar historical",
+    "description": "The invasion led by Demon Lord Beta and the seven-day Battle of Asteron approximately 43 years before the main story.",
+    "url": "/sovereign-of-aethra-wiki/wiki/history/beta-war/"
+  },
+  {
+    "title": "Bram",
+    "type": "Character",
+    "tags": "bram aven villager eldoria",
+    "description": "Aven villager.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/bram/"
+  },
+  {
+    "title": "Characters",
+    "type": "Character Portal",
+    "tags": "characters directory founding five historical figures",
+    "description": "Directory of the Founding Five and other characters with approved public profiles.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/"
+  },
+  {
+    "title": "Class",
+    "type": "System",
+    "tags": "profession progression",
+    "description": "Profession and ability progression.",
+    "url": "/sovereign-of-aethra-wiki/wiki/systems/class/"
+  },
+  {
+    "title": "Demonkind",
+    "type": "Historical / Political Terminology",
+    "tags": "cultural social geopolitical historical identity demon domains",
+    "description": "An in-world umbrella term, not one biological race or a biological superclass.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/demonkind/"
+  },
+  {
+    "title": "Deren",
+    "type": "Character",
+    "tags": "deren aven villager eldoria",
+    "description": "Aven villager.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/deren/"
+  },
+  {
+    "title": "Dragonkind",
+    "type": "Race",
+    "tags": "dragon dragon throne great dragon mountain generic visual reference",
+    "description": "Known lineage of Terra with an approved generic race reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/dragonkind/"
+  },
+  {
+    "title": "Dwarf",
+    "type": "Race",
+    "tags": "dwarves generic visual reference",
+    "description": "Known people of Terra with an approved generic race reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/dwarf/"
+  },
+  {
+    "title": "Dwarven Holds",
+    "type": "Realm / Dwarven Civilization",
+    "tags": "dwarf khazir hold subterranean",
+    "description": "The great subterranean and mountain settlements of the Dwarves, including Khazir.",
+    "url": "/sovereign-of-aethra-wiki/wiki/factions/dwarven-holds/"
+  },
+  {
+    "title": "Eldren",
+    "type": "Character",
+    "tags": "elf spellblade aethra scholar beta war",
+    "description": "Elven Spellblade and Aethra Scholar associated with the Beta War.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/eldren/"
+  },
+  {
+    "title": "Eldoria",
+    "type": "Realm / Human Kingdom",
+    "tags": "knowledge kingdom arden grand concord",
+    "description": "The Kingdom of Knowledge and one of the five sovereign Human kingdoms of the Grand Concord.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/eldoria/"
+  },
+  {
+    "title": "Elf",
+    "type": "Race",
+    "tags": "high elf dark elf lysara generic visual reference",
+    "description": "Known people with two public evolution branches and an approved generic race reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/elf/"
+  },
+  {
+    "title": "Far Horizon",
+    "type": "Organization / Adventurer Party",
+    "tags": "adventurer party rank b traveling rae nina gustav",
+    "description": "Active Rank B traveling adventurer party.",
+    "url": "/sovereign-of-aethra-wiki/wiki/factions/other/far-horizon/"
+  },
+  {
+    "title": "Forest Boar",
+    "type": "Bestiary Entry",
+    "tags": "monster forest wildlife boar charge tusks",
+    "description": "Large forest forager whose primary attack is a powerful charge.",
+    "url": "/sovereign-of-aethra-wiki/wiki/bestiary/forest-boar/"
+  },
+  {
+    "title": "Forest Wolf",
+    "type": "Bestiary Entry",
+    "tags": "monster forest wildlife wolf luca volume one caravan",
+    "description": "Large mobile woodland predator recorded in Volume I, Chapter 2.",
+    "url": "/sovereign-of-aethra-wiki/wiki/bestiary/forest-wolf/"
+  },
+  {
+    "title": "Garling",
+    "type": "Character",
+    "tags": "hero human beta war rune sigil blue vanguard",
+    "description": "Human Hero of the Beta War and former member of the famed Blue Vanguard adventurer party.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/garling/"
+  },
+  {
+    "title": "Gargoyle",
+    "type": "Race",
+    "tags": "race biological people terra",
+    "description": "A biological race of Terra with an approved public visual reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/gargoyle/"
+  },
+  {
+    "title": "Goblin",
+    "type": "Race",
+    "tags": "pip race people generic visual reference",
+    "description": "Known people of Terra with an approved generic race reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/goblin/"
+  },
+  {
+    "title": "Gorzan",
+    "type": "Character",
+    "tags": "gorzan seven sigils character",
+    "description": "",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/gorzan/"
+  },
+  {
+    "title": "Gustav",
+    "type": "Character",
+    "tags": "human defender frontline far horizon adventurer rank b armor shield axe",
+    "description": "Human defender and frontline combatant of Far Horizon.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/gustav/"
+  },
+  {
+    "title": "Grand Concord",
+    "type": "Great Power / Political Alliance",
+    "tags": "five sovereign human kingdoms astrelia verenza solmaria eldoria auregrad founding ceremony heraldry",
+    "description": "Alliance of five sovereign Human kingdoms; official founding reference and heraldry standard.",
+    "url": "/sovereign-of-aethra-wiki/wiki/factions/grand-concord/"
+  },
+  {
+    "title": "Grand Adventurer Guild",
+    "type": "Organization",
+    "tags": "arklune adventurers guild contracts expeditions",
+    "description": "Influential adventuring institution headquartered in the Free City of Arklune.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/arklune/#the-grand-adventurer-guild"
+  },
+  {
+    "title": "Great Powers",
+    "type": "Faction Portal",
+    "tags": "geopolitical powers grand concord wardens dwarven holds hive dragon throne seven sigils",
+    "description": "The major geopolitical powers of present-day Terra.",
+    "url": "/sovereign-of-aethra-wiki/wiki/factions/"
+  },
+  {
+    "title": "Hiveborn",
+    "type": "Race",
+    "tags": "zerak hive generic visual reference",
+    "description": "Known people of Terra with an approved generic race reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/hiveborn/"
+  },
+  {
+    "title": "Hobgoblin",
+    "type": "Natural Evolution",
+    "tags": "goblin natural evolution generic visual reference",
+    "description": "Natural Evolution form of Goblin.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/hobgoblin/"
+  },
+  {
+    "title": "Human",
+    "type": "Race",
+    "tags": "garling serena luca grand concord generic visual reference",
+    "description": "Known people of Terra with an approved generic race reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/human/"
+  },
+  {
+    "title": "Interactive Maps",
+    "type": "Map",
+    "tags": "terra map geography locations capitals realms domains search",
+    "description": "Searchable public map of Terra with spoiler-safe wiki markers.",
+    "url": "/sovereign-of-aethra-wiki/interactive-maps/"
+  },
+  {
+    "title": "Harpy",
+    "type": "Race",
+    "tags": "race biological people terra",
+    "description": "A biological race of Terra with an approved public visual reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/harpy/"
+  },
+  {
+    "title": "Khazir",
+    "type": "Location",
+    "tags": "dwarf dwarven holds subterranean city",
+    "description": "Subterranean Dwarven city with an approved public visual reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/khazir/"
+  },
+  {
+    "title": "Luca",
+    "type": "Character",
+    "tags": "aven new adventurer human founding five",
+    "description": "Eighteen-year-old Human new adventurer from Aven.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/luca/"
+  },
+  {
+    "title": "Lysara",
+    "type": "Character",
+    "tags": "elf mage truth founding five",
+    "description": "Elf mage and seeker of truth among the Founding Five.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/lysara/"
+  },
+  {
+    "title": "Magic",
+    "type": "World Lore Portal",
+    "tags": "magic aethra affinity compatibility fire water wind earth light dark ice lightning magma lava advanced expression composite spellcraft civilian magic",
+    "description": "Reader-safe overview of the Six Fundamental Affinities, their conceptual compatibility map, advanced expressions, and Composite Magic.",
+    "url": "/sovereign-of-aethra-wiki/wiki/magic/"
+  },
+  {
+    "title": "Natural Evolution",
+    "type": "System",
+    "tags": "race biological lineage elf high elf dark elf ogre oni goblin hobgoblin",
+    "description": "Public overview of revealed biological lineage development.",
+    "url": "/sovereign-of-aethra-wiki/wiki/systems/natural-evolution/"
+  },
+  {
+    "title": "Nina",
+    "type": "Character",
+    "tags": "human healer far horizon adventurer rank b",
+    "description": "Human healer of Far Horizon.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/nina/"
+  },
+  {
+    "title": "Ogre",
+    "type": "Race",
+    "tags": "oni warrior magus natural evolution demonkind historical term",
+    "description": "Biological race with two publicly known Oni Natural Evolution expressions.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/ogre/"
+  },
+  {
+    "title": "Oni",
+    "type": "Natural Evolution",
+    "tags": "ogre oni warrior oni magus raizen demonkind natural evolution",
+    "description": "Natural Evolution of Ogre, publicly documented in Warrior and Magus expressions.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/oni/"
+  },
+  {
+    "title": "Orc",
+    "type": "Race",
+    "tags": "race biological people terra",
+    "description": "A biological race of Terra with an approved public visual reference.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/orc/"
+  },
+  {
+    "title": "Other Factions",
+    "type": "Faction Portal",
+    "tags": "arklune grand adventurer guild far horizon rogue hive zavor organizations",
+    "description": "Political powers and organizations not classified among Terra's Great Powers.",
+    "url": "/sovereign-of-aethra-wiki/wiki/factions/other/"
+  },
+  {
+    "title": "Pip",
+    "type": "Character",
+    "tags": "goblin traveler dagger crossbow monster forest founding five",
+    "description": "Goblin traveler from a tribe near Monster Forest, armed with a dagger and a crossbow.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/pip/"
+  },
+  {
+    "title": "Raizen",
+    "type": "Character",
+    "tags": "oni king demon lord beta sigil beta war four oni warriors",
+    "description": "Oni King associated with the Beta War and the Four Oni Warriors.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/raizen/"
+  },
+  {
+    "title": "Rex — Demon Lord Delta",
+    "type": "Character",
+    "tags": "rex demon lord delta seven sigils",
+    "description": "Publicly known as Demon Lord Delta. No confirmed public portrait is available.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/rex/"
+  },
+  {
+    "title": "Rae",
+    "type": "Character",
+    "tags": "human traveling adventurer rank b far horizon leader",
+    "description": "Rank B traveling adventurer and apparent leader of Far Horizon.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/rae/"
+  },
+  {
+    "title": "Rhaen",
+    "type": "Character",
+    "tags": "dragon emperor dragonkind dragon throne",
+    "description": "The mysterious Dragon Emperor.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/rhaen/"
+  },
+  {
+    "title": "Reika",
+    "type": "Character",
+    "tags": "reika raizen seven sigils",
+    "description": "Daughter of Raizen.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/reika/"
+  },
+  {
+    "title": "Races of Terra",
+    "type": "Race Portal",
+    "tags": "race biology natural evolution peoples identity luca human",
+    "description": "Reader-safe guide to biological identity and publicly revealed Natural Evolution.",
+    "url": "/sovereign-of-aethra-wiki/wiki/races/"
+  },
+  {
+    "title": "Rogue Hive — Zavor",
+    "type": "Other Faction",
+    "tags": "zavor severed rogue hive great forest sylvaris",
+    "description": "A hostile faction associated with the Great Forest region, distinct from The Hive as a civilization.",
+    "url": "/sovereign-of-aethra-wiki/wiki/factions/the-hive/#the-rogue-hive"
+  },
+  {
+    "title": "Rolan",
+    "type": "Character",
+    "tags": "human guildmaster arklune adventurers guild field commander beta war",
+    "description": "Guildmaster of the Arklune Adventurers' Guild.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/rolan/"
+  },
+  {
+    "title": "Serena",
+    "type": "Character",
+    "tags": "human former knight protector founding five",
+    "description": "Former Human knight and frontline protector.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/serena/"
+  },
+  {
+    "title": "The Seven Sigils",
+    "type": "Great Power",
+    "tags": "authority dominion recognition demon lord alpha beta gamma delta theta sigma omega raizen political domain great power",
+    "description": "The geopolitical Great Power associated with the seven known Sigil domains.",
+    "url": "/sovereign-of-aethra-wiki/wiki/factions/seven-sigils/"
+  },
+  {
+    "title": "Sigils",
+    "type": "Authority System",
+    "tags": "rune sigil hero demon sigil demon lord recognition eligibility dominion",
+    "description": "Reader-safe overview of Sigils as recognition-based Authorities.",
+    "url": "/sovereign-of-aethra-wiki/wiki/systems/sigils/"
+  },
+  {
+    "title": "Realms & Civilizations",
+    "type": "World Portal",
+    "tags": "realms civilizations kingdoms free city great powers terra",
+    "description": "Explore the sovereign realms and major civilizations of Terra.",
+    "url": "/sovereign-of-aethra-wiki/wiki/realms/"
+  },
+  {
+    "title": "Relics & Artifacts",
+    "type": "World Lore Portal",
+    "tags": "relics artifacts objects archive terra",
+    "description": "Public archive for notable relics, artifacts, and historically significant objects of Terra.",
+    "url": "/sovereign-of-aethra-wiki/wiki/relics-artifacts/"
+  },
+  {
+    "title": "Solmaria",
+    "type": "Realm / Human Kingdom",
+    "tags": "holy kingdom lumen grand concord",
+    "description": "The Holy Kingdom and one of the five sovereign Human kingdoms of the Grand Concord.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/solmaria/"
+  },
+  {
+    "title": "Sylvaris",
+    "type": "Realm / Elven Civilization",
+    "tags": "elf elven realm great forest great tree wardens",
+    "description": "The principal Elven realm of Terra and heart of the Wardens of the Great Tree.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/sylvaris/"
+  },
+  {
+    "title": "Terra",
+    "type": "World / Location",
+    "tags": "great continent panorama landscape map peoples civilizations geography aethra",
+    "description": "Vast living world and primary setting, with approved Great Continent artwork and map.",
+    "url": "/sovereign-of-aethra-wiki/wiki/world/terra/"
+  },
+  {
+    "title": "The Dragon Throne",
+    "type": "Realm / Dragonkind Great Power",
+    "tags": "dragonkind great dragon mountain summit dragon emperor rhaen dragon conclave sanctuary silver dragon banner",
+    "description": "The Great Power of Dragonkind centered on Great Dragon Mountain and its sacred summit seat.",
+    "url": "/sovereign-of-aethra-wiki/wiki/factions/dragon-throne/"
+  },
+  {
+    "title": "The Hive",
+    "type": "Realm / Hiveborn Civilization",
+    "tags": "hiveborn zyrath hive great power",
+    "description": "The civilization of the Hiveborn and a recognized Great Power of Terra.",
+    "url": "/sovereign-of-aethra-wiki/wiki/factions/the-hive/"
+  },
+  {
+    "title": "Verenza",
+    "type": "Realm / Human Kingdom",
+    "tags": "trade kingdom ceres grand concord",
+    "description": "The Trade Kingdom and one of the five sovereign Human kingdoms of the Grand Concord.",
+    "url": "/sovereign-of-aethra-wiki/wiki/locations/verenza/"
+  },
+  {
+    "title": "Zerak",
+    "type": "Character",
+    "tags": "hiveborn unpurposed lance purpose founding five",
+    "description": "Unpurposed Hiveborn lance user pursuing a purpose of his own.",
+    "url": "/sovereign-of-aethra-wiki/wiki/characters/zerak/"
+  }
 ]

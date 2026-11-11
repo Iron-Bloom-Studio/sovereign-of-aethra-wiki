@@ -133,6 +133,12 @@ raizen:
   content_type: character
   description: Oni King associated with the Beta War.
 
+rex:
+  title: Rex — Demon Lord Delta
+  url: /wiki/characters/rex/
+  content_type: character
+  description: Publicly known as Demon Lord Delta.
+
 beta-war:
   title: Beta War
   url: /wiki/history/beta-war/

@@ -3,7 +3,7 @@ spoiler_level: 0
 entities:
   world: [terra, aethra]
   interactive_maps: [terra]
-  characters: [luca, serena, lysara, zerak, pip, rae, nina, gustav, rhaen, bram, deren, garling, rolan, eldren, raizen, reika, gorzan]
+  characters: [luca, serena, lysara, zerak, pip, rae, nina, gustav, rhaen, bram, deren, garling, rolan, eldren, raizen, reika, gorzan, rex]
   races: [human, dwarf, elf, goblin, hiveborn, dragonkind, ogre, orc, harpy, gargoyle]
   evolution: [oni, hobgoblin]
   terminology: [demonkind]
@@ -95,6 +95,7 @@ assets:
   - SOA_NINA_WIKI_PORTRAIT_v01
   - SOA_GUSTAV_WIKI_PORTRAIT_v01
   - SOA_RHAEN_PUBLIC_SILHOUETTE_v01
+  - SOA_REX_PUBLIC_SILHOUETTE_v01
   - SOA_BRAM_WIKI_PORTRAIT_v01
   - SOA_DEREN_WIKI_PORTRAIT_v01
   - SOA_MONSTER_FOREST_WOLF_v01

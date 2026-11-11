@@ -45,6 +45,7 @@ The core group whose separate journeys become closely intertwined during the ear
 | Name | Public description |
 | --- | --- |
 | [Raizen]({{ '/wiki/characters/raizen/' | relative_url }}) | Demon Lord Beta |
+| [Rex]({{ '/wiki/characters/rex/' | relative_url }}) | Demon Lord Delta |
 | [Reika]({{ '/wiki/characters/reika/' | relative_url }}) | Daughter of Raizen |
 | [Gorzan]({{ '/wiki/characters/gorzan/' | relative_url }}) | Seven Sigils character |
 
