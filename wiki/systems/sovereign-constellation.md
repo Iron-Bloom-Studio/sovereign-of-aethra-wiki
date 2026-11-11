@@ -39,7 +39,7 @@ This page records only publicly available identities. Appearance, role, and othe
   </div>
   <p class="member-roster__section-title">Unrevealed</p>
   <div class="member-roster__grid">
-    {% include unknown-member-tiles.html count=1 role="Other members TBD" %}
+    {% include unknown-member-tiles.html count=30 %}
   </div>
 </div>
 
