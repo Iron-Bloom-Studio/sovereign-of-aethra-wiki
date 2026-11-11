@@ -12,13 +12,13 @@
       {% endfor %}
     </div>
     {% for look in looks %}
-    {% assign panel_image = look.portrait | default: look.image | default: look.reference_sheet %}
-    {% assign panel_alt = look.portrait_alt | default: look.alt | default: look.reference_sheet_alt | default: page.title %}
-    {% assign panel_caption = look.portrait_caption | default: look.caption | default: look.reference_sheet_caption | default: panel_alt %}
+    {% assign panel_image = look.portrait | default: look.image %}
+    {% assign panel_alt = look.portrait_alt | default: look.alt | default: page.title %}
+    {% assign panel_caption = look.portrait_caption | default: look.caption | default: panel_alt %}
     <section id="character-look-panel-{{ character_key }}-{{ look.id }}" class="character-look-selector__panel" role="tabpanel" aria-labelledby="character-look-tab-{{ character_key }}-{{ look.id }}"{% unless forloop.first %} hidden{% endunless %}>
       {% if panel_image %}
       <a class="lightbox-link character-profile-panel__image-link" href="{{ panel_image | relative_url }}" data-lightbox data-caption="{{ panel_caption }}">
-        <img class="character-profile-panel__image{% if look.reference_sheet and look.portrait == nil and look.image == nil %} character-profile-panel__image--reference-fallback{% endif %}" {% unless forloop.first %}loading="lazy" {% endunless %}src="{{ panel_image | relative_url }}" alt="{{ panel_alt }}">
+        <img class="character-profile-panel__image" {% unless forloop.first %}loading="lazy" {% endunless %}src="{{ panel_image | relative_url }}" alt="{{ panel_alt }}">
       </a>
       {% else %}
       <div class="character-profile-panel__placeholder character-profile-panel__placeholder--compact" role="img" aria-label="Portrait not yet published for {{ look.label | default: page.title }}">

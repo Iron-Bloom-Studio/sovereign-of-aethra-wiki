@@ -16,10 +16,6 @@ character_looks:
     portrait: /assets/characters/garling/SOA_GARLING_BETA_WAR_WIKI_PORTRAIT_v01.jpeg
     portrait_alt: Garling in blue and silver armor carrying a sword during the Beta War
     portrait_caption: Garling during the Beta War.
-    reference_sheet: /assets/characters/garling/GARLING_YOUNG_PROLOGUE_MASTER_v1.0.png
-    reference_sheet_alt: Garling Beta War production reference sheet
-    reference_sheet_caption: Approved Beta War production reference.
-    publish_reference_sheet: true
 era: Present / Beta War
 race: Human
 categories: [Characters, Human, Human Kingdom Characters, Beta War Characters]

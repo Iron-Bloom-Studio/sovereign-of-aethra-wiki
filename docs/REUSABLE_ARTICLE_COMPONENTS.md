@@ -131,7 +131,7 @@ character_looks:
     portrait_alt: Public-safe portrait description
 ```
 
-The profile panel prefers `portrait`, retains legacy `image` compatibility, and may use `reference_sheet` only as a temporary fallback when that exact sheet was already approved for public display. Internal Character Sheets are visual source material and must not be copied into the wiki merely because they exist in the private repository. An explicitly public-safe sheet may appear below the article only with `publish_reference_sheet: true`; this flag is opt-in and fail-closed. A Wiki Portrait must preserve the approved sheet's face, hairstyle, proportions, race traits, costume, palette, and signature equipment while revealing only the character's current public identity.
+The profile panel prefers `portrait` and retains legacy `image` compatibility. Production Character Sheets remain in the private master repository and are not published or shown as a Character Reference section on the public wiki. A Wiki Portrait must preserve the approved face, hairstyle, proportions, race traits, costume, palette, and signature equipment while revealing only the character's current public identity.
 
 ## Tabs
 

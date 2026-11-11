@@ -9,10 +9,6 @@ character_looks:
     portrait: /assets/characters/luca/wiki/SOA_LUCA_WIKI_PORTRAIT_v02.png
     portrait_alt: Luca, a young adventurer in a short green hooded capelet and a light shirt, holding a short sword
     portrait_caption: Luca during the early story.
-    reference_sheet: /assets/characters/luca/SOA_LUCA_SIMPLE_MASTER_v02.png
-    reference_sheet_alt: Luca early-story character reference sheet
-    reference_sheet_caption: Approved early-story production reference.
-    publish_reference_sheet: true
 infobox:
   name: Luca
   fields:

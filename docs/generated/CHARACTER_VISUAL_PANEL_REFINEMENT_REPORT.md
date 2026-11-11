@@ -1,5 +1,8 @@
 # Character Visual Panel Refinement Report
 
+> Update 11 Nov 2026: production character sheets and the public Character Reference section were later removed from the wiki. Only official portraits remain. The record below describes the earlier implementation.
+
+
 ## Files Changed
 
 - `_includes/character-profile-panel.html`

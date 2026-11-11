@@ -1,5 +1,8 @@
 # Character Sheet Layout Implementation Report
 
+> Update 11 Nov 2026: production character sheets and the public Character Reference section were later removed from the wiki. Only official portraits remain. The record below describes the earlier implementation.
+
+
 ## Scope
 
 This pass introduces an opt-in, reusable two-column character sheet for the public wiki. The supplied Fandom screenshot was used only as a structural reference: article content remains on the left, while a visual profile panel appears on the right. The implementation retains the existing SOVETHA parchment, navy, gold, and Aethra-blue visual language.
@@ -36,7 +39,7 @@ Base reader-safe facts continue to use the existing `infobox.fields` mapping. Pu
 character_looks:
   - id: present
     label: Present
-    image: /assets/characters/luca/SOA_LUCA_SIMPLE_MASTER_v02.png # optional
+    image: /assets/characters/luca/wiki/SOA_LUCA_WIKI_PORTRAIT_v02.png # optional
     alt: Meaningful public-safe alt text  # required when image is present
     caption: Public-safe caption          # optional
     fields:                               # optional state-specific overrides/details

@@ -11,10 +11,6 @@ character_looks:
     portrait: /assets/characters/raizen/wiki/SOA_RAIZEN_WIKI_PORTRAIT_v02.png
     portrait_alt: Raizen as Demon Lord Beta in crimson and black armor carrying a great kanabo
     portrait_caption: Raizen, Demon Lord Beta, during the Beta War.
-    reference_sheet: /assets/characters/raizen/RAIZEN_BETA_MASTER_v01.png
-    reference_sheet_alt: Raizen Demon Lord Beta character reference sheet
-    reference_sheet_caption: Approved Beta War production reference.
-    publish_reference_sheet: true
 era: Beta War
 race: Oni
 categories: [Characters, Demonkind, Beta War Characters]

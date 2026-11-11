@@ -15,10 +15,6 @@ character_looks:
     portrait: /assets/characters/eldren/SOA_ELDREN_BETA_WAR_WIKI_PORTRAIT_v01.jpeg
     portrait_alt: Eldren in teal and navy scholarly attire during the Beta War
     portrait_caption: Eldren during the Beta War.
-    reference_sheet: /assets/characters/eldren/ELDREN_YOUNG_PROLOGUE_MASTER_v1.0.png
-    reference_sheet_alt: Eldren Beta War character reference sheet
-    reference_sheet_caption: Approved Beta War production reference.
-    publish_reference_sheet: true
 infobox:
   name: Eldren
   fields:
