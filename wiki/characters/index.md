@@ -6,7 +6,7 @@ description: Directory of characters with approved public profiles.
 <p class="breadcrumb">Home › Characters</p>
 # Characters
 
-This directory includes characters with approved public profiles.
+This directory includes characters with approved public profiles. See also [The Sovereign Constellation]({{ '/wiki/systems/sovereign-constellation/' | relative_url }}) and [Demon Lords]({{ '/wiki/factions/demon-lords/' | relative_url }}).
 
 ## Founding Five
 
@@ -41,6 +41,8 @@ The core group whose separate journeys become closely intertwined during the ear
 | [Eldren]({{ '/wiki/characters/eldren/' | relative_url }}) | Elf scholar | Beta War |
 
 ## Seven Sigils Characters
+
+The public roster of Demon Lord titles from Alpha to Omega is recorded on [Demon Lords]({{ '/wiki/factions/demon-lords/' | relative_url }}).
 
 | Name | Public description |
 | --- | --- |

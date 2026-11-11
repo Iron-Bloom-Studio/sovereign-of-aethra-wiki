@@ -18,6 +18,7 @@ sidebar:
       - entity: relics-artifacts
       - entity: magic
       - entity: sigils
+      - entity: sovereign-constellation
 
 footer:
   - entity: world

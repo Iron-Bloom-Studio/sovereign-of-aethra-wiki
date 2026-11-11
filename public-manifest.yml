@@ -8,13 +8,13 @@ entities:
   evolution: [oni, hobgoblin]
   terminology: [demonkind]
   realms: [astrelia, verenza, solmaria, eldoria, auregrad, arklune, sylvaris, dwarven-holds, the-hive, dragon-throne]
-  factions: [grand-concord, dwarven-holds, the-hive, dragon-throne, seven-sigils]
+  factions: [grand-concord, dwarven-holds, the-hive, dragon-throne, seven-sigils, demon-lords]
   organizations: [grand-adventurer-guild, far-horizon]
   other_factions: [rogue-hive]
   locations: [terra, aven, arklune, astrelia, verenza, solmaria, eldoria, auregrad, sylvaris, khazir]
   history: [beta-war]
   bestiary: [forest-wolf, forest-boar]
-  systems: [natural-evolution, class, magic, sigils]
+  systems: [natural-evolution, class, magic, sigils, sovereign-constellation]
   archives: [relics-artifacts]
   novels: [prologue-id, prologue-en]
 assets:
@@ -85,6 +85,7 @@ assets:
   - SOA_GUSTAV_WIKI_PORTRAIT_v01
   - SOA_RHAEN_PUBLIC_SILHOUETTE_v01
   - SOA_REX_PUBLIC_SILHOUETTE_v01
+  - SOA_PUBLIC_QUESTION_SILHOUETTE_v01
   - SOA_BRAM_WIKI_PORTRAIT_v01
   - SOA_DEREN_WIKI_PORTRAIT_v01
   - SOA_MONSTER_FOREST_WOLF_v01

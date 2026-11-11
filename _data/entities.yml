@@ -302,6 +302,17 @@ omega:
   parent: seven-sigils
   available: false
 
+demon-lords:
+  title: Demon Lords
+  url: /wiki/factions/demon-lords/
+  content_type: roster
+  parent: seven-sigils
+
+sovereign-constellation:
+  title: The Sovereign Constellation
+  url: /wiki/systems/sovereign-constellation/
+  content_type: roster
+
 novel:
   title: Novel ↗
   url: https://fictional-adventure-een2715.pages.github.io/
