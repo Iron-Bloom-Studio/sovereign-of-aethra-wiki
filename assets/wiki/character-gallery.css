@@ -205,17 +205,6 @@
   font-size: .88rem;
 }
 
-.character-reference-gallery .article-gallery__grid {
-  grid-template-columns: minmax(0, 1fr);
-}
-
-.character-reference-gallery .article-gallery__item img {
-  width: 100%;
-  max-height: 820px;
-  object-fit: contain;
-  background: #fffaf0;
-}
-
 .character-profile-panel__caption {
   margin: 0;
   padding: .55rem .8rem;

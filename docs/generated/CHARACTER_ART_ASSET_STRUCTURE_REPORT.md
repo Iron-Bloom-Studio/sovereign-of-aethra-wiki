@@ -1,5 +1,7 @@
 # Character Art Asset Structure Report
 
+> Update 11 Nov 2026: production character sheets and the public Character Reference section were later removed from the wiki. Only official portraits remain. Some lines below describe the earlier implementation and should be read as historical.
+
 ## Model Introduced
 
 Named-character art now follows a documented two-tier model:
@@ -7,7 +9,7 @@ Named-character art now follows a documented two-tier model:
 1. **Character Sheet** — private/internal production reference and visual source of truth.
 2. **Wiki Portrait** — clean, spoiler-safe public artwork for character panels, cards, and public presentation.
 
-The public character panel prefers `portrait`, retains legacy `image` compatibility, and uses `reference_sheet` only as a temporary fallback when that exact sheet was already publicly approved. Private sheets are not automatically rendered as gallery content or copied into the wiki.
+The public character panel prefers `portrait` and retains legacy `image` compatibility. Production character sheets and the Character Reference section are no longer published on the public wiki; `reference_sheet` is not used as a live fallback.
 
 ## Files Changed
 
@@ -37,13 +39,13 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 - `wiki/races/hiveborn.md`
 - `wiki/races/dragonkind.md`
 - Added Rae's first dedicated Wiki Portrait.
-- Added Luca's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
-- Added Serena's dedicated Wiki Portrait while retaining her explicitly approved Character Sheet below the article.
-- Added Lysara's dedicated Wiki Portrait and updated Mage Character Sheet below the article.
-- Added Pip's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
+- Added Luca's dedicated Wiki Portrait.
+- Added Serena's dedicated Wiki Portrait.
+- Added Lysara's dedicated Wiki Portrait.
+- Added Pip's dedicated Wiki Portrait.
 - Added Pip's pre-Luca Wiki Portrait as a distinct public visual state without replacing his present portrait.
-- Added Zerak's dedicated Wiki Portrait while retaining his explicitly approved Character Sheet below the article.
-- Added Raizen's dedicated Wiki Portrait while retaining his explicitly approved Beta War Character Sheet below the article.
+- Added Zerak's dedicated Wiki Portrait.
+- Added Raizen's dedicated Wiki Portrait.
 - Added Reika's approved Character Sheet and public character route under Seven Sigils Characters.
 - Added Gorzan's approved Character Sheet and public character route under Seven Sigils Characters.
 - Added Bram's dedicated Wiki Portrait with a name-only public entry.
@@ -63,8 +65,8 @@ The public character panel prefers `portrait`, retains legacy `image` compatibil
 
 ## Migration and Fallback
 
-- Luca now uses a dedicated Wiki Portrait. His exact approved public-safe sheet is opt-in below the article as Character Reference.
-- Serena, Lysara, Pip, and Zerak now follow the same portrait-first pattern, with their approved public-safe sheets shown below the article.
+- Luca now uses a dedicated Wiki Portrait. His production sheet is no longer shown on the public wiki.
+- Serena, Lysara, Pip, and Zerak now follow the same portrait-first pattern. Their production sheets are no longer shown on the public wiki.
 - Garling still lacks a dedicated Wiki Portrait; his previously public-safe sheet remains a temporary panel fallback and is not automatically duplicated into a gallery.
 - Rolan Guildmaster has no approved portrait and uses the compact missing-portrait state.
 - Other legacy character pages remain compatible while they are migrated gradually.
