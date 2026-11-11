@@ -26,20 +26,20 @@ infobox:
     Height: Not publicly documented
     Weight: Not publicly documented
     Origin: Small tribe in or near Monster Forest
-    Weapon: Dagger
-    Current status: Traveler / dagger user
+    Weapon: Dagger, crossbow
+    Current status: Traveler / dagger and crossbow user
 ---
 ## Overview
 
-Pip is a Goblin traveler and dagger user from a small tribe in or near Monster Forest. His story centers on belonging and becoming a bridge between peoples who might otherwise distrust one another.
+Pip is a Goblin traveler from a small tribe in or near Monster Forest, armed with a dagger and a crossbow. His story centers on belonging and becoming a bridge between peoples who might otherwise distrust one another.
 
 ## Backstory
 
-Pip begins with little physical power and few advantages beyond his dagger, practical instincts, and determination. He comes from a small Goblin community near Monster Forest and later leaves that earlier life behind to travel with Luca. His age, height, and weight have not yet been publicly documented.
+Pip begins with little physical power and few advantages beyond his dagger, crossbow, practical instincts, and determination. He comes from a small Goblin community near Monster Forest and later leaves that earlier life behind to travel with Luca. His age, height, and weight have not yet been publicly documented.
 
 ## Current Role
 
-Pip currently travels as a practical dagger user and member of the Founding Five.
+Pip currently travels as a practical dagger and crossbow user and member of the Founding Five.
 
 ## Related Articles
 

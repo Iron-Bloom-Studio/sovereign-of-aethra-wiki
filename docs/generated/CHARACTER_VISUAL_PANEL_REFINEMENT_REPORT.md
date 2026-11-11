@@ -39,7 +39,7 @@ The Guildmaster state has no approved portrait. Its former tall empty artwork ar
 
 ## Serena
 
-`SOA_SERENA_WIKI_PORTRAIT_v01.png` is the dedicated primary portrait. `SOA_SERENA_SIMPLE_MASTER_v02.png` remains an explicitly public-safe Character Sheet and is displayed below the article under Character Reference through the opt-in publication flag.
+`SOA_SERENA_WIKI_PORTRAIT_v02.jpg` is the dedicated primary portrait. `SOA_SERENA_SIMPLE_MASTER_v02.png` remains an explicitly public-safe Character Sheet and is displayed below the article under Character Reference through the opt-in publication flag.
 
 ## Portrait and Reference Assets Found
 
