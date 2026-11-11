@@ -37,7 +37,7 @@ A recognized bearer may hold the title **Demon Lord**, which is not a race, Natu
 Complete eligibility and Sigil-specific Recognition criteria are not publicly established. Historical association with a population does not establish biological ownership or eligibility, and political inheritance is separate from Authority Recognition.
 
 [Raizen]({{ '/wiki/characters/raizen/' | relative_url }}) is publicly recorded as Demon Lord Beta during the Beta War.
-[Rex]({{ '/wiki/characters/rex/' | relative_url }}) is publicly known as Demon Lord Delta.
+[Rex]({{ '/wiki/characters/rex/' | relative_url }}) is publicly known as Demon Lord Delta. A public roster of all seven titles is recorded on [Demon Lords]({{ '/wiki/factions/demon-lords/' | relative_url }}).
 
 ## The Seven Sigils
 
@@ -45,6 +45,7 @@ Complete eligibility and Sigil-specific Recognition criteria are not publicly es
 
 ## Related Articles
 
+- [Demon Lords]({{ '/wiki/factions/demon-lords/' | relative_url }})
 - [Races of Terra]({{ '/wiki/races/' | relative_url }})
 - [Natural Evolution]({{ '/wiki/systems/natural-evolution/' | relative_url }})
 - [Class]({{ '/wiki/systems/class/' | relative_url }})

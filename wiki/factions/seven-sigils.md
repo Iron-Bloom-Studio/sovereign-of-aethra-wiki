@@ -40,9 +40,14 @@ For the reader-safe overview of Sigils as Authorities, see [Sigils]({{ '/wiki/sy
 
 No individual Sigil is presented here as a separate Great Power.
 
+## Demon Lords
+
+A Demon Lord is a recognized bearer of one of the seven known Sigils. The seven titles — Demon Lord Alpha, Beta, Gamma, Delta, Theta, Sigma, and Omega — are publicly known. The public roster, including placeholder silhouettes where no confirmed portrait has been published, is recorded on [Demon Lords]({{ '/wiki/factions/demon-lords/' | relative_url }}).
+
 ## See Also
 
 - [Sigils]({{ '/wiki/systems/sigils/' | relative_url }})
+- [Demon Lords]({{ '/wiki/factions/demon-lords/' | relative_url }})
 - [Realms &amp; Civilizations]({{ '/wiki/realms/' | relative_url }})
 - [Great Powers]({{ '/wiki/factions/' | relative_url }})
 - [Beta War]({{ '/wiki/history/beta-war/' | relative_url }})

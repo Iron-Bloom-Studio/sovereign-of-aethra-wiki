@@ -66,7 +66,7 @@ No multi-look character was published in this pass because no second approved, r
 ### Luca
 
 - Configured state: `Present`
-- Artwork: `SOA_LUCA_SIMPLE_MASTER_v02.png`
+- Artwork: `SOA_LUCA_SIMPLE_MASTER_v02.png` (later withdrawn from the public wiki; historical implementation record only)
 - Public race remains exactly `Human`.
 - No hidden biology, future form, Sovereign material, or other unrevealed classification is present.
 

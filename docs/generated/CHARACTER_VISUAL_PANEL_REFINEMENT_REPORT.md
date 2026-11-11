@@ -30,7 +30,7 @@ The panel resolves artwork in this order: `portrait`, legacy `image`, then `refe
 
 ## Luca
 
-`SOA_LUCA_WIKI_PORTRAIT_v02.png` is now the dedicated primary portrait (replacing v01). `SOA_LUCA_SIMPLE_MASTER_v02.png` remains an explicitly public-safe Character Sheet and is displayed below the article under Character Reference through the opt-in `publish_reference_sheet: true` flag.
+`SOA_LUCA_WIKI_PORTRAIT_v02.png` is now the dedicated primary portrait (replacing v01). `SOA_LUCA_SIMPLE_MASTER_v02.png` was at that time an explicitly public-safe Character Sheet displayed below the article under Character Reference through the opt-in `publish_reference_sheet: true` flag. That section and sheet were later removed from the public wiki.
 
 ## Rolan
 
@@ -42,7 +42,7 @@ The Guildmaster state has no approved portrait. Its former tall empty artwork ar
 
 ## Serena
 
-`SOA_SERENA_WIKI_PORTRAIT_v02.jpg` is the dedicated primary portrait. `SOA_SERENA_SIMPLE_MASTER_v02.png` remains an explicitly public-safe Character Sheet and is displayed below the article under Character Reference through the opt-in publication flag.
+`SOA_SERENA_WIKI_PORTRAIT_v02.jpg` is the dedicated primary portrait. `SOA_SERENA_SIMPLE_MASTER_v02.png` was at that time an explicitly public-safe Character Sheet displayed below the article under Character Reference through the opt-in publication flag. That section and sheet were later removed from the public wiki.
 
 ## Portrait and Reference Assets Found
 

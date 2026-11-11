@@ -1,0 +1,10 @@
+{% assign tile_count = include.count | default: 1 | plus: 0 %}
+{% for i in (1..tile_count) %}
+<figure class="member-tile member-tile--unknown">
+  <img src="{{ '/assets/wiki/SOA_PUBLIC_QUESTION_SILHOUETTE_v01.png' | relative_url }}" alt="Unrevealed placeholder marked with a question mark" width="1024" height="1536">
+  <figcaption>
+    <strong>???</strong>
+    {% if include.role %}<span class="member-tile__role">{{ include.role }}</span>{% endif %}
+  </figcaption>
+</figure>
+{% endfor %}
