@@ -21,7 +21,7 @@ infobox:
 ---
 ## Overview
 
-Luca is a eighteen-year-old Human, 180 cm, and a new adventurer from Aven, a small village in Eldoria. His first journey takes him toward the Free City of Arklune.
+Luca is an eighteen-year-old Human, 180 cm, and a new adventurer from Aven, a small village in Eldoria. His first journey takes him toward the Free City of Arklune.
 
 ## Backstory
 
