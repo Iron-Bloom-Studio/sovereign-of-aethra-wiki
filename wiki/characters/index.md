@@ -14,11 +14,11 @@ The core group whose separate journeys become closely intertwined during the ear
 
 | Name | Race | Age | Origin | Current status |
 | --- | --- | --- | --- | --- |
-| [Luca]({{ '/wiki/characters/luca/' | relative_url }}) | Human | 18 | Aven, Eldoria | New adventurer |
-| [Serena]({{ '/wiki/characters/serena/' | relative_url }}) | Human | Not publicly documented | Not publicly documented | Former knight · Frontline protector |
-| [Lysara]({{ '/wiki/characters/lysara/' | relative_url }}) | Elf | Not publicly documented | Not publicly documented | Mage · Seeker of truth |
-| [Zerak]({{ '/wiki/characters/zerak/' | relative_url }}) | Hiveborn | Not publicly documented | Not publicly documented | Unpurposed Hiveborn · Lance user |
-| [Pip]({{ '/wiki/characters/pip/' | relative_url }}) | Goblin | Not publicly documented | Small tribe in or near Monster Forest | Traveler · Dagger and crossbow user |
+| [Luca]({{ '/wiki/characters/luca/' | relative_url }}) | Human | 17 | Aven, Eldoria | New adventurer |
+| [Serena]({{ '/wiki/characters/serena/' | relative_url }}) | Human | 19 | Not publicly documented | Former knight · Frontline protector |
+| [Lysara]({{ '/wiki/characters/lysara/' | relative_url }}) | Elf | approximately 60 (human-equivalent approximately 15) | Not publicly documented | Mage · Seeker of truth |
+| [Zerak]({{ '/wiki/characters/zerak/' | relative_url }}) | Hiveborn | 5 (human-equivalent approximately 20, fully adult) | Not publicly documented | Unpurposed Hiveborn · Lance user |
+| [Pip]({{ '/wiki/characters/pip/' | relative_url }}) | Goblin | 16 (human-equivalent approximately 16–17) | Small tribe in or near Monster Forest | Traveler · Dagger and crossbow user |
 
 ## Human Kingdom Characters
 
