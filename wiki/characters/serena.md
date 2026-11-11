@@ -14,14 +14,14 @@ infobox:
   fields:
     Age: "19"
     Race: Human
-    Height: 170 cm
+    Height: Around 170 cm
     Weight: Not publicly documented
     Origin: Not publicly documented
     Current status: Former knight / frontline protector
 ---
 ## Overview
 
-Serena is a 19-year-old Human former knight, 170 cm, who serves as a disciplined frontline protector. Her public identity is defined by protection, oath, and conviction.
+Serena is a 19-year-old Human former knight, around 170 cm tall, who serves as a disciplined frontline protector. Her public identity is defined by protection, oath, and conviction.
 
 ## Backstory
 

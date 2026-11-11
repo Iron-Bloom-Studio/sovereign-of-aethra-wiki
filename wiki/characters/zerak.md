@@ -14,7 +14,7 @@ infobox:
   fields:
     Age: 5 (human-equivalent approximately 20, fully adult)
     Race: Hiveborn
-    Height: 200 cm
+    Height: Around 200 cm
     Weight: Not publicly documented
     Origin: Not publicly documented
     Status: Unpurposed
@@ -23,7 +23,7 @@ infobox:
 ---
 ## Overview
 
-Zerak is a 200 cm **Unpurposed Hiveborn** and a lance user. He is 5 years old, with a human-equivalent age of approximately 20 (fully adult). “Unpurposed” is the public term for a Hiveborn no longer connected to a Hive's assigned purpose.
+Zerak is an **Unpurposed Hiveborn**, around 200 cm tall, and a lance user. He is 5 years old, with a human-equivalent age of approximately 20 (fully adult). “Unpurposed” is the public term for a Hiveborn no longer connected to a Hive's assigned purpose.
 
 ## Backstory
 

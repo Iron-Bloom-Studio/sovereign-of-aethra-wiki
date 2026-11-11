@@ -14,7 +14,7 @@ infobox:
   fields:
     Age: approximately 60 (human-equivalent approximately 15)
     Race: Elf
-    Height: 170 cm
+    Height: Around 170 cm
     Weight: Not publicly documented
     Origin: Not publicly documented
     Class: Mage
@@ -22,7 +22,7 @@ infobox:
 ---
 ## Overview
 
-Lysara is an Elf mage, approximately 60 years old (human-equivalent approximately 15) and 170 cm, whose path is shaped by truth and guidance. She becomes one of the Founding Five as the group's separate investigations and journeys converge.
+Lysara is an Elf mage, approximately 60 years old (human-equivalent approximately 15) and around 170 cm tall, whose path is shaped by truth and guidance. She becomes one of the Founding Five as the group's separate investigations and journeys converge.
 
 ## Backstory
 
