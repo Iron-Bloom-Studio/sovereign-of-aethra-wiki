@@ -65,6 +65,11 @@ magic:
   url: /wiki/magic/
   content_type: portal
 
+arts:
+  title: Arts and Nova
+  url: /wiki/systems/arts/
+  content_type: portal
+
 sigils:
   title: Sigils
   url: /wiki/systems/sigils/
