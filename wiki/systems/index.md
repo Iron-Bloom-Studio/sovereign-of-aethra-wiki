@@ -9,6 +9,7 @@ title: Systems
 |---|---|
 | [Natural Evolution]({{ '/wiki/evolution/' | relative_url }}) | Racial transformation paths. |
 | [Class]({{ '/wiki/systems/class/' | relative_url }}) | Profession and ability progression. |
+| [Arts and Nova]({{ '/wiki/systems/arts/' | relative_url }}) | Learned techniques: Art, Dual Art, Triple Art, and Nova. |
 | [Sigils]({{ '/wiki/systems/sigils/' | relative_url }}) | Recognition-based Authority systems. |
 | [The Seven Sigils]({{ '/wiki/factions/seven-sigils/' | relative_url }}) | The geopolitical Great Power associated with the known Sigil domains. |
 | [Demon Lords]({{ '/wiki/factions/demon-lords/' | relative_url }}) | Public roster of the seven Demon Lord titles, from Alpha to Omega. |

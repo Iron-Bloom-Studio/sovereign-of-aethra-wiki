@@ -14,7 +14,7 @@ entities:
   locations: [terra, aven, arklune, astrelia, verenza, solmaria, eldoria, auregrad, sylvaris, khazir]
   history: [beta-war]
   bestiary: [forest-wolf, forest-boar]
-  systems: [natural-evolution, class, magic, sigils, sovereign-constellation]
+  systems: [natural-evolution, class, magic, arts, sigils, sovereign-constellation]
   archives: [relics-artifacts]
   novels: [prologue-id, prologue-en]
 assets:

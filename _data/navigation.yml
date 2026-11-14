@@ -17,6 +17,7 @@ sidebar:
       - entity: bestiary
       - entity: relics-artifacts
       - entity: magic
+      - entity: arts
       - entity: sigils
       - entity: sovereign-constellation
 
