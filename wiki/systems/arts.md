@@ -10,7 +10,7 @@ categories: [Systems, Magic]
 <p class="breadcrumb">Home › Systems › Arts and Nova</p>
 # Arts and Nova
 
-People in Terra fight, heal, and protect through learned techniques. These techniques are commonly described in four forms: **Art**, **Dual Art**, **Triple Art**, and **Nova**.
+People in Terra fight, heal, and protect through learned techniques. Most are known as **Arts**, and Arts performed together are known as **Dual Arts** and **Triple Arts**. Far rarer, and far less understood, is the **Nova**.
 
 Techniques are separate from Race, Natural Evolution, [Class]({{ '/wiki/systems/class/' | relative_url }}), and recognition by a [Sigil]({{ '/wiki/systems/sigils/' | relative_url }}). Knowing a technique does not grant an affinity, an evolution, or an Authority.
 
@@ -30,9 +30,11 @@ These techniques depend on coordination and timing more than on raw power. Each 
 
 ## Nova
 
-A **Nova** is an individual's signature technique. It can only be released when the Aethra a person builds up through the strain of battle reaches its peak, and using it spends that entire reserve at once.
+A **Nova** is an individual's signature technique. Few people know that Nova exists, and it is not part of ordinary adventurer training.
 
-Anyone can have a Nova. It is not reserved for Heroes, Demon Lords, or the famous; a Nova emerges through a person's own growth. A person has at most one Nova at a time, although it may grow stronger as they do. Because the reserve must rebuild before a Nova can be used again, it is usually saved for the decisive moment of a fight.
+A Nova does not open simply through study. It opens only when certain conditions are met, and public records do not describe those conditions. Anyone may have the potential for a Nova; whether it ever opens depends on the person.
+
+Once opened, a Nova can only be released when the Aethra a person builds up through the strain of battle reaches its peak, and using it spends that entire reserve at once. A person has at most one Nova at a time, although it may grow stronger as they do.
 
 ## Related Articles
 
