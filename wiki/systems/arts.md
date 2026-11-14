@@ -32,7 +32,7 @@ These techniques depend on coordination and timing more than on raw power. Each 
 
 A **Nova** is an individual's signature technique. It can only be released when the Aethra a person builds up through the strain of battle reaches its peak, and using it spends that entire reserve at once.
 
-A person has at most one Nova at a time, although it may grow stronger as they do. Because the reserve must rebuild before a Nova can be used again, it is usually saved for the decisive moment of a fight.
+Anyone can have a Nova. It is not reserved for Heroes, Demon Lords, or the famous; a Nova emerges through a person's own growth. A person has at most one Nova at a time, although it may grow stronger as they do. Because the reserve must rebuild before a Nova can be used again, it is usually saved for the decisive moment of a fight.
 
 ## Related Articles
 
