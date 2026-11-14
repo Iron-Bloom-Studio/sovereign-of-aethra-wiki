@@ -32,7 +32,7 @@ These techniques depend on coordination and timing more than on raw power. Each 
 
 A **Nova** is an individual's signature technique. Few people know that Nova exists, and it is not part of ordinary adventurer training.
 
-A Nova does not open simply through study. It opens only when certain conditions are met, and public records do not describe those conditions. Anyone may have the potential for a Nova; whether it ever opens depends on the person.
+A Nova does not open simply through study. It opens only when certain conditions are met, and public records do not describe those conditions. Not everyone can have a Nova. It belongs only to certain individuals, typically among the most powerful figures of their age.
 
 Once opened, a Nova can only be released when the Aethra a person builds up through the strain of battle reaches its peak, and using it spends that entire reserve at once. A person has at most one Nova at a time, although it may grow stronger as they do.
 
